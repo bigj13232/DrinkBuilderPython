@@ -1,5 +1,9 @@
 from drink.Drink import Drink
+from helpers.MenuHelper import MenuHelper
 
-drink = Drink(name="DarkSaber", source="Movie", origin="Star Wars", directions="",isMocktail=False)
+menuOption = 1
 
-print(drink.toString())
+while menuOption != 0:
+    MenuHelper.displayMainMenu()
+    menuOption = int(input("Please enter selection: "))
+    if menuOption > 4 or menuOption < 0: print("Invalid Option - Please try again")
