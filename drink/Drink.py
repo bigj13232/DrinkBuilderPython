@@ -6,7 +6,10 @@ class Drink():
         print("Drink Directions are: \n" + self.directions)
         print("Is it a mocktail? " + str(self.isMocktail))
 
-    
+    def addIngredient(self, ingredient):
+        self.ingredients.append(ingredient)
+
+
     #Constructor
     def __init__(self, name, source, origin, directions, isMocktail):
         self.name = name
@@ -14,3 +17,4 @@ class Drink():
         self.origin = origin
         self.directions = directions
         self.isMocktail = isMocktail
+        self.ingredients = []
