@@ -49,18 +49,19 @@ class DrinkHelper(object):
             origin = str(input("Enter drink origin: "))
             directions = str(input("Enter drink directions: "))
 
-            mocktailAnswer = str(input("Is the drink a mocktail? Yes/No"))
-            mocktailAnswer = mocktailAnswer.upper
-            mocktailAnswer2 = mocktailAnswer[0]
-            mocktail = 'X'
-            if mocktailAnswer2 == 'T': mocktail = int(1)
-            elif mocktailAnswer2 == 'F': mocktail = int(0)
+            mocktailAnswer = str(input("Is the drink a mocktail? T/F "))
+
+            mocktail = -1
+            if mocktailAnswer == 'T': mocktail = 1
+            elif mocktailAnswer == 'F': mocktail = 0
 
             #   Confirm drink details
             print("Entered drink name:   " + name)
             print("Entered drink source: " + source)
             print("Entered drink origin: " + origin)
-            print("Entered mocktail:     " + mocktail)
+            if mocktail == 1: print("Entered cocktail is a mocktail")
+            elif mocktail == 0: print("Entered cocktail is not a mocktail")
+            else: print("Mocktail option invalid - " + str(mocktail))
             print("Entered drink directions: \r" + directions + "\n")
 
             drinkLoop = str(input("is the above correct?"))
