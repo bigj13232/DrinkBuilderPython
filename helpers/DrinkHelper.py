@@ -28,12 +28,11 @@ class DrinkHelper(object):
 
     @staticmethod
     def addDrink():
-        drinkLoop = 'X'
-        while drinkLoop != 'Y':
+        drinkLoop = 'N'
+        while drinkLoop == 'N':
             name = input("Enter drink name: ")
             MenuHelper.displaySources()
             sourceChoice = int(-1)
-
             while(sourceChoice <=0 or sourceChoice > 8):
                 sourceChoice = int(input("Enter drink source: "))
                 if sourceChoice == 1: source = "Anime"
@@ -62,7 +61,8 @@ class DrinkHelper(object):
             if mocktail == 1: print("Entered cocktail is a mocktail")
             elif mocktail == 0: print("Entered cocktail is not a mocktail")
             else: print("Mocktail option invalid - " + str(mocktail))
-            print("Entered drink directions: \r" + directions + "\n")
+
+            print("Entered drink directions: \n" + directions)
 
             drinkLoop = str(input("is the above correct?"))
 
