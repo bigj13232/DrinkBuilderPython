@@ -1,3 +1,5 @@
+from drink.Ingredient import Ingredient
+from drink.Ingredient import Ingredient
 class Drink():
     def toString(self):
         print("Drink Name is: " + self.name)
@@ -9,6 +11,9 @@ class Drink():
     def addIngredient(self, ingredient):
         self.ingredients.append(ingredient)
 
+    def listIngredients(self):
+        for ingredient in self.ingredients:
+            ingredient.toString()
 
     #Constructor
     def __init__(self, name, source, origin, directions, isMocktail):
