@@ -27,12 +27,21 @@ class DrinkHelper(object):
         return sql_variables
 
     def insert_drink(drink):
-        sql = ''' INSERT INTO drink(name,begin_date,end_date) VALUES(?,?,?,?,?) '''
+        sql = ''' INSERT INTO drink(name,source,origin,directions,mocktail) VALUES(?,?,?,?,?) '''
         drink_variables = DrinkHelper.createDrinkArray(drink)
         conn = DrinkHelper.create_connection()
         cur = conn.cursor()
         cur.execute(sql, drink_variables)
         conn.commit()
+
+    def insert_ingredient(cur_row, ingredient):
+        sql = ''' INSERT INTO ingredient(cur_row,amount,measurement,name,type) VALUES(?,?,?,?,?)'''
+        ingredient_variables = DrinkHelper.createIngredientArray(ingredient)
+        conn = DrinkHelper.create_connection()
+        cur = conn.cursor()
+        cur.execute(sql, ingredient_variables)
+        conn.commit()
+        
     @staticmethod
     def create_table(conn, create_table_sql):
         #   create table from the create_table_sql statement
@@ -47,8 +56,8 @@ class DrinkHelper(object):
 
     @staticmethod
     def addDrink():
-        drinkLoop = 'N'
-        while drinkLoop == 'N':
+        drinkLoop = 'Y'
+        while drinkLoop == 'Y':
             name = input("Enter drink name: ")
             MenuHelper.displaySources()
             sourceChoice = int(-1)
@@ -125,7 +134,7 @@ class DrinkHelper(object):
                 addingIngredientsLoop = input("Do you have more ingredients to add? Y/N")
             #end addingIngredientsLoop
             insert_row = DrinkHelper.insert_drink(addDrink)
-            drinkLoop = input("Do youwish to add another drink")
+            drinkLoop = input("Do you wish to add another drink")
         #end drinkLoop
     
     @staticmethod
