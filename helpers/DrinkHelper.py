@@ -153,9 +153,11 @@ class DrinkHelper(object):
             drinkLoop = input("Do you wish to add another drink? ")
         #end drinkLoop
     
+
     @staticmethod
     def editDrink():
-        print("Edit Drink")
+        drink_name = input("Enter drink name to search for: ")
+
 
     @staticmethod
     def removeDrink():
@@ -164,3 +166,8 @@ class DrinkHelper(object):
     @staticmethod
     def viewDrink():
         print("View Drink")
+
+    @staticmethod
+    def addFromFile():
+        with open('drinks.txt', 'r') as drinks:
+            print('open file')
