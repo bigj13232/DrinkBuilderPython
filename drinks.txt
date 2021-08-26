@@ -1,6 +1,30 @@
-The Aloha 'Oe,Anime,Space Dandy,T,Combine all ingredients into a blender and blend for 5-8 seconds. You don’t want it too finely blended or else it will melt and dilute too quickly.,Pour into a Collins glass and garnish with an orange wheel and a cherry. Optional: add dry ice for effect!
-3,oz,Passion Fruit Puree,Fruit,1.5,oz,Pinapple Juice,Fruit Juice,1,oz,Dark Rum,Rum,1,oz,Southern Comfort,Liquer,.5,oz,Orange Curacao,Liquer,2,dashes,Angostura Bitters,Bitters
-Bloody Eye,Anime,Cowboy Bebop,T,Mix first three ingredients in a lowball or small glass.,Fill to top with AMP Overdrive.
-1.5,oz,Red Stag,Whiskey,.5,oz,Gin,Gin,1,splash,Grenadine,Mixer,1,can,AMP Overdrive Cherry,Energy Drink
-Eren Jaegerbomb,Anime,Attack on Titan,T,Pour Grenadine into shot glass,Layer Jaegermeister on top,Drop into cup of Red Bull
-.75,oz,Grenadine,Mixer,.75,oz,Jaegermeister,Liquer,8,oz,Red Bull,Energy Drink
+The Aloha 'Oe|Anime|Space Dandy|T|Combine all ingredients into a blender and blend for 5-8 seconds. You don’t want it too finely blended or else it will melt and dilute too quickly.|Pour into a Collins glass and garnish with an orange wheel and a cherry. Optional: add dry ice for effect!
+3|oz|Passion Fruit Puree|Fruit Puree|1.5|oz|Pinapple Juice|Fruit Juice|1|oz|Dark Rum|Rum|1|oz|Southern Comfort|Liquer|.5|oz|Orange Curacao|Liquer|2|dashes|Angostura Bitters|Bitters
+Bloody Eye|Anime|Cowboy Bebop|T|Mix first three ingredients in a lowball or small glass.|Fill to top with AMP Overdrive.
+1.5|oz|Red Stag|Whiskey|.5|oz|Gin|Gin|1|splash|Grenadine|Mixer|1|can|AMP Overdrive Cherry|Energy Drink
+Eren Jaegerbomb|Anime|Attack on Titan|T|Pour Grenadine into shot glass|Layer Jaegermeister on top|Drop into cup of Red Bull
+.75|oz|Grenadine|Mixer|.75|oz|Jaegermeister|Liquer|8|oz|Red Bull|Energy Drink
+Gods of Death Love Apples|Anime|Death Note|T|Mix the brandy, rum, and bitters in a separate glass.|Crush a little bit of apple in a rocks glass to add a bit of flavor.|Add the alcohol, apple juice, and ice.|Serve with an apple garnish.
+1|oz|Brandy|Brandy|1|oz|Coruba|Dark Rum|1|dash|Angostura Bitters|Bitters|4|oz|Apple Juice|Fruit Juice|1|each|Apple|Fruit
+Godot's Special Blend #12|Anime|Pheonix Wright|T|Infuse your spiced rum with cinnamon cloves|Make your coffee|preferably fairly strong.|In an Irish coffee glass|mix all ingredients and stir.
+5|oz.Coffee|Coffee|1|oz|cinnamon Infused Spiced Rum|Spiced Rum|.75|oz|Irish Cream|Liquer|1|splash|Chambord|Liquer
+Kaneda|Anime|Akira|T|Mix Whiskey|Aftershock and Lemon Juice in Martini Glass|Top with Club Soda
+.75|oz|Maker's Mark|Whiskey|1.5|oz|Aftershock|Liquer|1|splash|Lemon Juice|Fruit Juice|1|bottle|Club Soda|Mixer
+Spirit Bomb|Anime|Dragonball Z|T|Pour Red Bull into pint glass.|Pour a shot mixed with Tequila and Blue Curacao.|Drop shot into glass.
+1|can|Red Bull|Energy Drink|.75|oz|Silver Tequila|Tequila|.75|oz|Blue Curacao|Liquer
+Yoko Kanno|Anime|Cowboy Bebop|T|Combine all ingredients in a shaker|add ice|shake|and strain.
+1.5|oz|Rye Whiskey|Whiskey|1|oz|Sake|Sake|.5|oz|Cointreau|Liquer|1|dash|Peychaud's Bitters|Bitters
+Pan-Galactic Gargle Blaster|Book|Hitchhiker's Guide to the Galaxy|T|Shake all ingredients with ice and strain into a cocktail glass.|Squeeze your lemon peel above the drink and throw it in.
+.5|oz|Bourbon|Bourbon|.75|oz|Gin|Gin|1|oz|Sour Apple Pucker|Liquer|.5|oz|Blue Curacao|Liquer|1|oz|Lemon Juice|Fruit Juice|.5|oz|Simple Syrup|Mixer|1|each|Lemon Twist|Fruit
+Wiggin-Tini: Peter "Locke" Wiggin|Book|Ender's Game|T|Shake all ingredients with ice and strain into a cocktail glass.
+2|parts|Whiskey|Whiskey|1|part|Benedictine|Liquer|.5|part|Lemon Juice|Fruit Juice
+Wiggin-Tini: Valentine "Demosthenes" Wiggin|Book|Ender's Game|T|Shake all ingredients with ice and strain into a cocktail glass.
+2|parts|X-Rated|Liquer|1|part|Cherry Vodka|Vodka|.5|part|Grenadine|Mixer
+Wiggin-Tini: Andrew "Ender" Wiggin|Book|Ender's Game|T|Shake all ingredients with ice and strain into a cocktail glass.
+2|parts|Fireball|Whiskey|1|part|Apple Pie Moonshine|Moonshine|.5|part|Sweet and Sour Mix|Mixer
+Gandalf Grog|Book|Lord of the Ring|T|Mix Myers Dark Rum, Lime Juice, and Brown Sugar.|Pour in boiling hot water.|Garnish with cinnamon stick and srange peel.
+8|oz|Boiling Water|Water|2|oz|Myer's Dark Rum|Dark Rum|.25|oz|Lime Juice|Fruit Juice|1|tbs|Brown Sugar|Brown Sugar|1|each|Cinnamon Stick|Cinnamon Stick|1|each|Orange Peel|Fruit
+The One Ring|Book|Lord of the Ring|T|Rim a shot glass with sugar, preferably yellow sugar.|Pour in chilled Aftershock and layer Galliano.
+.5|oz|Aftershock|Liquer|1|oz|Galliano|0|tbs|Yellow Sugar(preffered)|Sugar
+Pan-Galactic Gargle Blaster 2|Book|Hitchhiker's Guide to the Galaxy|T|Fill a highball glass ¾ full of ice.|Add the Jack Daniels and peach schnapps, then top off with orange juice.|Mix well, then add the blue curacao over the top.|Garnish with a lemon twist and olive, if you chose to include it.
+1|oz|Jack Daniels|Whiskey|1|oz|Peach Schnapps|Schnapps|5|oz|Orange|Juice|Fruit Juice|1|splash|Blue Curacao|Liquer|1|each|Lemon Twist|Fruit|1|each|Olive|Olive

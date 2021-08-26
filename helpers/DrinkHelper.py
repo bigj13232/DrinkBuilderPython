@@ -141,7 +141,7 @@ class DrinkHelper(object):
             line_count+=1
             #Odd Numbered Lines contain drink details
             if line_count % 2 == 1:
-                drink_details = line.split(",")
+                drink_details = line.split("|")
                 print("Getting Drink details")
                 drinkName = drink_details[0]
                 drinkSource = drink_details[1]
@@ -156,7 +156,7 @@ class DrinkHelper(object):
                 addDrink = Drink(drinkName,drinkSource,drinkOrigin,drinkDirections,drinkMocktail)
             #Even numbered lines contain ingredient details
             elif line_count % 2 == 0:
-                ingredient_list = line.split(",")
+                ingredient_list = line.split("|")
 
                 for ingredients in DrinkHelper.chunker(ingredient_list, 4):
                     ingredient = Ingredient(ingredients[0], ingredients[1], ingredients[2], ingredients[3])
