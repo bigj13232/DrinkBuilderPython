@@ -126,17 +126,15 @@ class DrinkHelper(object):
     def viewDrink():
         print("View Drink")
 
+    def chunker(seq, size):
+        return (seq[pos:pos + size] for pos in range(0, len(seq), size))
+
     @staticmethod
     def addFromFile():
+        #Open text file, parse to drink_lines variable
         with open('drinks.txt', 'r') as drinks_text:
             drink_lines = drinks_text.readlines()
             
-            """
-            lineCount = 1
-            for lines in drink_lines:
-                print(str(lineCount) + " " + lines)
-                lineCount+=1
-            """
 
         line_count = 0
         for line in drink_lines:
@@ -158,4 +156,14 @@ class DrinkHelper(object):
                 addDrink = Drink(drinkName,drinkSource,drinkOrigin,drinkDirections,drinkMocktail)
             #Even numbered lines contain ingredient details
             elif line_count % 2 == 0:
-                print("This line contains ingredient details")
+                ingredient_list = line.split(",")
+
+                for ingredients in DrinkHelper.chunker(ingredient_list, 4):
+                    ingredient = Ingredient(ingredients[0], ingredients[1], ingredients[2], ingredients[3])
+                    addDrink.addIngredient(ingredient)
+                row = DatabaseHelper.insert_drink(addDrink)
+
+                for ingredient in addDrink.ingredients:
+                    DatabaseHelper.insert_ingredient(row, ingredient)
+
+                    

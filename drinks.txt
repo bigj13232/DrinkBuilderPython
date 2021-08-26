@@ -1,2 +1,6 @@
-"The Aloha 'Oe","Anime","Space Dandy","T","1) Combine all ingredients into a blender and blend for 5-8 seconds. You don’t want it too finely blended or else it will melt and dilute too quickly.", "2) Pour into a Collins glass and garnish with an orange wheel and a cherry. Optional: add dry ice for effect!"
-"3","oz","Passion Fruit Puree","Fruit","1.5","oz","Pinapple Juice","Fruit Juice","1","oz","Dark Rum","Rum","1","oz","Southern Comfort","Liquer",".5","oz","Orange Curacao","Liquer","2","dashes","Angostura Bitters","Bitters"
+The Aloha 'Oe,Anime,Space Dandy,T,Combine all ingredients into a blender and blend for 5-8 seconds. You don’t want it too finely blended or else it will melt and dilute too quickly.,Pour into a Collins glass and garnish with an orange wheel and a cherry. Optional: add dry ice for effect!
+3,oz,Passion Fruit Puree,Fruit,1.5,oz,Pinapple Juice,Fruit Juice,1,oz,Dark Rum,Rum,1,oz,Southern Comfort,Liquer,.5,oz,Orange Curacao,Liquer,2,dashes,Angostura Bitters,Bitters
+Bloody Eye,Anime,Cowboy Bebop,T,Mix first three ingredients in a lowball or small glass.,Fill to top with AMP Overdrive.
+1.5,oz,Red Stag,Whiskey,.5,oz,Gin,Gin,1,splash,Grenadine,Mixer,1,can,AMP Overdrive Cherry,Energy Drink
+Eren Jaegerbomb,Anime,Attack on Titan,T,Pour Grenadine into shot glass,Layer Jaegermeister on top,Drop into cup of Red Bull
+.75,oz,Grenadine,Mixer,.75,oz,Jaegermeister,Liquer,8,oz,Red Bull,Energy Drink
