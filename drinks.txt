@@ -1,65 +1,83 @@
-The Aloha 'Oe|Anime|Space Dandy|T|Combine all ingredients into a blender and blend for 5-8 seconds. You don’t want it too finely blended or else it will melt and dilute too quickly.|Pour into a Collins glass and garnish with an orange wheel and a cherry. Optional: add dry ice for effect!
+The Aloha 'Oe|Anime|Space Dandy|F|Combine all ingredients into a blender and blend for 5-8 seconds. You don’t want it too finely blended or else it will melt and dilute too quickly.|Pour into a Collins glass and garnish with an orange wheel and a cherry. Optional: add dry ice for effect!
 3|oz|Passion Fruit Puree|Fruit Puree|1.5|oz|Pinapple Juice|Fruit Juice|1|oz|Dark Rum|Rum|1|oz|Southern Comfort|Liquer|.5|oz|Orange Curacao|Liquer|2|dashes|Angostura Bitters|Bitters
-Bloody Eye|Anime|Cowboy Bebop|T|Mix first three ingredients in a lowball or small glass.|Fill to top with AMP Overdrive.
+Bloody Eye|Anime|Cowboy Bebop|F|Mix first three ingredients in a lowball or small glass.|Fill to top with AMP Overdrive.
 1.5|oz|Red Stag|Whiskey|.5|oz|Gin|Gin|1|splash|Grenadine|Mixer|1|can|AMP Overdrive Cherry|Energy Drink
-Eren Jaegerbomb|Anime|Attack on Titan|T|Pour Grenadine into shot glass|Layer Jaegermeister on top|Drop into cup of Red Bull
+Eren Jaegerbomb|Anime|Attack on Titan|F|Pour Grenadine into shot glass|Layer Jaegermeister on top|Drop into cup of Red Bull
 .75|oz|Grenadine|Mixer|.75|oz|Jaegermeister|Liquer|8|oz|Red Bull|Energy Drink
-Gods of Death Love Apples|Anime|Death Note|T|Mix the brandy, rum, and bitters in a separate glass.|Crush a little bit of apple in a rocks glass to add a bit of flavor.|Add the alcohol, apple juice, and ice.|Serve with an apple garnish.
+Gods of Death Love Apples|Anime|Death Note|F|Mix the brandy, rum, and bitters in a separate glass.|Crush a little bit of apple in a rocks glass to add a bit of flavor.|Add the alcohol, apple juice, and ice.|Serve with an apple garnish.
 1|oz|Brandy|Brandy|1|oz|Coruba|Dark Rum|1|dash|Angostura Bitters|Bitters|4|oz|Apple Juice|Fruit Juice|1|each|Apple|Fruit
-Godot's Special Blend #12|Anime|Pheonix Wright|T|Infuse your spiced rum with cinnamon cloves|Make your coffee|preferably fairly strong.|In an Irish coffee glass|mix all ingredients and stir.
+Godot's Special Blend #12|Anime|Pheonix Wright|F|Infuse your spiced rum with cinnamon cloves|Make your coffee|preferably fairly strong.|In an Irish coffee glass|mix all ingredients and stir.
 5|oz.Coffee|Coffee|1|oz|cinnamon Infused Spiced Rum|Spiced Rum|.75|oz|Irish Cream|Liquer|1|splash|Chambord|Liquer
-Kaneda|Anime|Akira|T|Mix Whiskey|Aftershock and Lemon Juice in Martini Glass|Top with Club Soda
+Kaneda|Anime|Akira|F|Mix Whiskey|Aftershock and Lemon Juice in Martini Glass|Top with Club Soda
 .75|oz|Maker's Mark|Whiskey|1.5|oz|Aftershock|Liquer|1|splash|Lemon Juice|Fruit Juice|1|bottle|Club Soda|Mixer
-Spirit Bomb|Anime|Dragonball Z|T|Pour Red Bull into pint glass.|Pour a shot mixed with Tequila and Blue Curacao.|Drop shot into glass.
+Spirit Bomb|Anime|Dragonball Z|F|Pour Red Bull into pint glass.|Pour a shot mixed with Tequila and Blue Curacao.|Drop shot into glass.
 1|can|Red Bull|Energy Drink|.75|oz|Silver Tequila|Tequila|.75|oz|Blue Curacao|Liquer
-Yoko Kanno|Anime|Cowboy Bebop|T|Combine all ingredients in a shaker|add ice|shake|and strain.
+Yoko Kanno|Anime|Cowboy Bebop|F|Combine all ingredients in a shaker|add ice|shake|and strain.
 1.5|oz|Rye Whiskey|Whiskey|1|oz|Sake|Sake|.5|oz|Cointreau|Liquer|1|dash|Peychaud's Bitters|Bitters
-Pan-Galactic Gargle Blaster|Book|Hitchhiker's Guide to the Galaxy|T|Shake all ingredients with ice and strain into a cocktail glass.|Squeeze your lemon peel above the drink and throw it in.
+Pan-Galactic Gargle Blaster|Book|Hitchhiker's Guide to the Galaxy|F|Shake all ingredients with ice and strain into a cocktail glass.|Squeeze your lemon peel above the drink and throw it in.
 .5|oz|Bourbon|Bourbon|.75|oz|Gin|Gin|1|oz|Sour Apple Pucker|Liquer|.5|oz|Blue Curacao|Liquer|1|oz|Lemon Juice|Fruit Juice|.5|oz|Simple Syrup|Mixer|1|each|Lemon Twist|Fruit
-Wiggin-Tini: Peter "Locke" Wiggin|Book|Ender's Game|T|Shake all ingredients with ice and strain into a cocktail glass.
+Wiggin-Tini: Peter "Locke" Wiggin|Book|Ender's Game|F|Shake all ingredients with ice and strain into a cocktail glass.
 2|parts|Whiskey|Whiskey|1|part|Benedictine|Liquer|.5|part|Lemon Juice|Fruit Juice
-Wiggin-Tini: Valentine "Demosthenes" Wiggin|Book|Ender's Game|T|Shake all ingredients with ice and strain into a cocktail glass.
+Wiggin-Tini: Valentine "Demosthenes" Wiggin|Book|Ender's Game|F|Shake all ingredients with ice and strain into a cocktail glass.
 2|parts|X-Rated|Liquer|1|part|Cherry Vodka|Vodka|.5|part|Grenadine|Mixer
-Wiggin-Tini: Andrew "Ender" Wiggin|Book|Ender's Game|T|Shake all ingredients with ice and strain into a cocktail glass.
+Wiggin-Tini: Andrew "Ender" Wiggin|Book|Ender's Game|F|Shake all ingredients with ice and strain into a cocktail glass.
 2|parts|Fireball|Whiskey|1|part|Apple Pie Moonshine|Moonshine|.5|part|Sweet and Sour Mix|Mixer
-Gandalf Grog|Book|Lord of the Ring|T|Mix Myers Dark Rum, Lime Juice, and Brown Sugar.|Pour in boiling hot water.|Garnish with cinnamon stick and srange peel.
+Gandalf Grog|Book|Lord of the Ring|F|Mix Myers Dark Rum, Lime Juice, and Brown Sugar.|Pour in boiling hot water.|Garnish with cinnamon stick and srange peel.
 8|oz|Boiling Water|Water|2|oz|Myer's Dark Rum|Dark Rum|.25|oz|Lime Juice|Fruit Juice|1|tbs|Brown Sugar|Brown Sugar|1|each|Cinnamon Stick|Cinnamon Stick|1|each|Orange Peel|Fruit
-The One Ring|Book|Lord of the Ring|T|Rim a shot glass with sugar, preferably yellow sugar.|Pour in chilled Aftershock and layer Galliano.
+The One Ring|Book|Lord of the Ring|F|Rim a shot glass with sugar, preferably yellow sugar.|Pour in chilled Aftershock and layer Galliano.
 .5|oz|Aftershock|Liquer|1|oz|Galliano|0|tbs|Yellow Sugar(preffered)|Sugar
-Pan-Galactic Gargle Blaster 2|Book|Hitchhiker's Guide to the Galaxy|T|Fill a highball glass ¾ full of ice.|Add the Jack Daniels and peach schnapps, then top off with orange juice.|Mix well, then add the blue curacao over the top.|Garnish with a lemon twist and olive, if you chose to include it.
+Pan-Galactic Gargle Blaster 2|Book|Hitchhiker's Guide to the Galaxy|F|Fill a highball glass ¾ full of ice.|Add the Jack Daniels and peach schnapps, then top off with orange juice.|Mix well, then add the blue curacao over the top.|Garnish with a lemon twist and olive, if you chose to include it.
 1|oz|Jack Daniels|Whiskey|1|oz|Peach Schnapps|Schnapps|5|oz|Orange|Juice|Fruit Juice|1|splash|Blue Curacao|Liquer|1|each|Lemon Twist|Fruit|1|each|Olive|Optional
-Raphael|Cartoon|Teenage Mutant Ninja Turtles|T|Add all ingredients to glass and stir
+Raphael|Cartoon|Teenage Mutant Ninja Turtles|F|Add all ingredients to glass and stir
 3|oz|Strawberry Pucker|Liquer|1.5|oz|Vodka|Vodka|3|oz|Cherry Soda|Soda|1|dash|Grenadine|Mixer
-Donatello|Cartoon|Teenage Mutant Ninja Turtles|T|Add all ingredients to glass and stir
+Donatello|Cartoon|Teenage Mutant Ninja Turtles|F|Add all ingredients to glass and stir
 3|oz|Plum Sake|Sake|.5|oz|Vodka|Vodka|3|oz|Grape Soda|Soda|1|dash|Cherry Bitters|Bitters|1|each|Pizza Bite|Optional
-The Clown Prince|Cartoon|Batman: the Animated Series|T|Mix Sugar with Green Food Coloring.|Rim the glass with Simple Syrup/Water then rotate the top of Martini Glass in sugar.|Add Bubble Gum Vodka and Grape Juice.|Garnish with blood orange wheel.
+The Clown Prince|Cartoon|Batman: the Animated Series|F|Mix Sugar with Green Food Coloring.|Rim the glass with Simple Syrup/Water then rotate the top of Martini Glass in sugar.|Add Bubble Gum Vodka and Grape Juice.|Garnish with blood orange wheel.
 3|oz|Grape Juice|Fruit Juice|3|oz|Bubble Gum Vodka|Vodka|3.5|tbsp|Sugar|Sugar|1|tsp|Green Food Coloring|Food Coloring|1|each|Blood Orange|Fruit
-Captain Planet|Cartoon|Captain Planet|T|Add Whiskey(earth), Tequila(fire), Vodka(wind), Seltzer(water) and Fruit Punch(heart) into mixing glass with ice.|Shake and pour into a tall glass with ice.
+Captain Planet|Cartoon|Captain Planet|F|Add Whiskey(earth), Tequila(fire), Vodka(wind), Seltzer(water) and Fruit Punch(heart) into mixing glass with ice.|Shake and pour into a tall glass with ice.
 .75|oz|Whiskey|Whiskey|.75|oz|Tequila|Tequila|.75|oz|Vodka|Vodka|.75|oz|Seltzer|Seltzer|.75|oz|Fruit Punch|Fruit Punch
-Harley Quinn Jello Shot|Cartoon|Batman: the Animated Series|T|Part 1: Mix 1 Cup Vodka 1 Cup Hot Water and 1 Box of Strawberry Jello. Fill as many shots as possible only half way till you run out of jello mixture.|Part 2: Once Part 1 hardens, mix 1 cup Chambord 1 Cup Hot Water and 1 box of Grape Jello. Pour this mix GENTLY on top of the existing Jello shot.|Part 3: Wait for this layer to harden. Boom Harley Quinn Jello shot.|If eating with a spoon, garnish with whip cream and marshmallow on top.
+Harley Quinn Jello Shot|Cartoon|Batman: the Animated Series|F|Part 1: Mix 1 Cup Vodka 1 Cup Hot Water and 1 Box of Strawberry Jello. Fill as many shots as possible only half way till you run out of jello mixture.|Part 2: Once Part 1 hardens, mix 1 cup Chambord 1 Cup Hot Water and 1 box of Grape Jello. Pour this mix GENTLY on top of the existing Jello shot.|Part 3: Wait for this layer to harden. Boom Harley Quinn Jello shot.|If eating with a spoon, garnish with whip cream and marshmallow on top.
 8|oz|Vodka|Vodka|8|oz|Chambord|Liquer|1|each|Strawberry Jello Mix|Jello|1|each|Grape Jello Mix|Jello|16|oz|Hot Water|Water1|can|Whipped Cream|Topping|1|bag|Mini Marshmallows|Topping
-Cactus Juice|Cartoon|Avatar: the Last Airbender|T|Mix alcoholic ingredients in a tall glass over ice.|Fill with club soda and stir.
+Cactus Juice|Cartoon|Avatar: the Last Airbender|F|Mix alcoholic ingredients in a tall glass over ice.|Fill with club soda and stir.
 2|oz|Midori|Liquer|.5|oz|Coconut Rum|Rum|.5|oz|Absinthe|Liquer|1|bottle|Club Soda|Mixer
-Jake|Cartoon|Adventure Time|T|Shake all alcohol with ice.|Strain into any size glass of your choice.|Fill with Orange juice.
+Jake|Cartoon|Adventure Time|F|Shake all alcohol with ice.|Strain into any size glass of your choice.|Fill with Orange juice.
 1|oz|Bubble Gum Vodka|Vodka|1|oz|Peach Schnapps|Schnapps|1|bottle|Orange Juice|Fruit Juice
-Finn|Cartoon|Adventure Time|T|In a small glass pour cake vodka and cherry vodka.|Fill the glass with milk.|Splash in a little blue curacao and stir gently.
+Finn|Cartoon|Adventure Time|F|In a small glass pour cake vodka and cherry vodka.|Fill the glass with milk.|Splash in a little blue curacao and stir gently.
 1|oz|UV Cake Vodka|Vodka|.5|oz|Cherry Vodka|Vodka|1|splash|Blue Curacao|Liquer|1|bottle|Milk|Milk
-Princess Bubble-tini|Cartoon|Adventure Time|T|In a cocktail shaker add all alcohol and a splash of grenadine.|Shake vigorously with ice.|Strain into a martini glass.|Fill with Sprite.|Garnish with a gumball.
+Princess Bubble-tini|Cartoon|Adventure Time|F|In a cocktail shaker add all alcohol and a splash of grenadine.|Shake vigorously with ice.|Strain into a martini glass.|Fill with Sprite.|Garnish with a gumball.
 1|oz|Bubble Gum Vodka|Vodka|.5|oz|Amaretto|Liquer|1|splash|Grenadine|Mixer|1|bottle|Sprite|Soda
-Marceline's Bite|Cartoon|Adventure Time|T|Add all alcohol to a cocktail shaker and shake vigorously with ice.|Strain into a old fashion glass.|Fill with Sprite.|Slowly sink grenadine to the bottom and garnish with a strawberry.
+Marceline's Bite|Cartoon|Adventure Time|F|Add all alcohol to a cocktail shaker and shake vigorously with ice.|Strain into a old fashion glass.|Fill with Sprite.|Slowly sink grenadine to the bottom and garnish with a strawberry.
 1|oz|Strawberry Rum|Rum|.5|oz|Whipped Cream Vodka|Vodka|.5|oz|UV Cake Vodka|Vodka|.5|oz|Grenadine|Mixer|1|bottle|Sprite|Soda
-The Ice King|Cartoon|Adventure Time|T|Makes 2-6 Servings|Pour all ingredients into a blender and blend on high until properly mixed.|Pour into tall glasses.
+The Ice King|Cartoon|Adventure Time|F|Makes 2-6 Servings|Pour all ingredients into a blender and blend on high until properly mixed.|Pour into tall glasses.
 .66|Cups|Sugar|Sugar|1.5|Cups|UV Blue|Vodka|1.5|Cups|Water|1|cup|Fresh Squeezed Lemon Juice|Fruit Juice|4|cups|Ice|Ice
-Spider-man|Comic Book|Spider-man|T|In a shot glass, add vodka and grenadine, then layer in the Blue Curacao.
+Spider-man|Comic Book|Spider-man|F|In a shot glass, add vodka and grenadine, then layer in the Blue Curacao.
 .5|oz|Grenadine|Mixer|.5|oz|Blue Curacao|Liquer|.5|oz|Vodka|Vodka
-Harley Quinn's Ace|Comic Book|Batman|T|Chill martini glass.|In a shaker add ice, Chambord, St. Germain and Vodka.|Shake.|Strain into martini glass|Top with Champagne and add a cherry.
+Harley Quinn's Ace|Comic Book|Batman|F|Chill martini glass.|In a shaker add ice, Chambord, St. Germain and Vodka.|Shake.|Strain into martini glass|Top with Champagne and add a cherry.
 2|oz|Chambord|Liquer|2|oz|St. Germain|Liquer|1|oz|Vodka|Vodka|1|bottle|Champagne|Champagne|1|each|Cherry|Fruit
-Deadpool|Comic Book|Deadpool|T|Add citron and whipped vodka to bottom half of shot.|Add a dash of grenadine, then layer the Vanilla Coke to the top of the drink.
+Deadpool|Comic Book|Deadpool|F|Add citron and whipped vodka to bottom half of shot.|Add a dash of grenadine, then layer the Vanilla Coke to the top of the drink.
 .33|oz|Whipped Cream Vodka|Vodka|.33|oz|Citron|Vodka|.33|oz|Grenadine|Mixer|1|bottle|Vanilla Coke|Soda
-Death to Superman|Comic Book|Superman|T|In a shot glass, carefully layer your blue curacao on top of the red sourpuss.|In a tall glass, add a mixture of ½ oz green creme de menthe and energy drink to taste.|Standard issue drop shot
+Death to Superman|Comic Book|Superman|F|In a shot glass, carefully layer your blue curacao on top of the red sourpuss.|In a tall glass, add a mixture of ½ oz green creme de menthe and energy drink to taste.|Standard issue drop shot
 .75|oz|Red Sourpuss|Liquer|.75|oz|Blue Curacao|Liquer|.5|oz|Green Creme de Menthe|Liquer|1|can|Energy Drink|Energy Drink
-Emerald Fist|Comic Book|Green Lantern|T|Shake all alcohol, put on rocks in a tall glass, fill with sprite|Garnish with Lime.
+Emerald Fist|Comic Book|Green Lantern|F|Shake all alcohol, put on rocks in a tall glass, fill with sprite|Garnish with Lime.
 .5|oz|Midori|Liquer|.5|oz|Green Sourpuss|Liquer|.5|oz|Limoncello|Vodka|.5|oz|Lemon Juice|Fruit Juice|.5|oz|Simple Syrup|Mixer
-The Incredible Hulk|Comic Book|Incredible Hulk|T|Mix all ingredients in a glass over ice.|The mint syrup can be diluted with water to taste.
+The Incredible Hulk|Comic Book|Incredible Hulk|F|Mix all ingredients in a glass over ice.|The mint syrup can be diluted with water to taste.
 .33|measure|Diluted Mint Syrup|Mixer|.33|measure|Vodka|Vodka|.33|measure|Fresh Mixed Berries|Fruit
-Mint Syrup|Recipe|The Incredible Hulk|F|
+Mint Syrup|Recipe|The Incredible Hulk|T|Wash mint leaves and pat dry.|Blend mint leaves and half of sugar until chopped fine and let rest 1 hour.|Add mint/sugar mixture and water to pot and heat over moderate heat for 20 minutes, stirring occasionally.|Let it cool and strain through a fine mesh strainer then again through cheese cloth.|Once cooled, bottle and place in fridge overnight.|Syrup can be kept in fridge up to 4 weeks
+.5|cup|Mint Leaves|Mint|1.5|cups|Water|Water|2|cups|Sugar|Sugar
+Black Lotus|Games|Magic the Gathering|F|Shake all liquid ingredients with ice and serve in a cocktail glass.|Garnish with an edible Hibiscus flower.
+1|oz|White Rum|Rum|.5|oz|Chambord|Liquer|1|oz|Blackberry Brandy|Brandy|3|oz|Pomegranate Juice|Fruit Juice|1|each|Edible Hibiscus Flower|Flower
+Chandra Ablaze|Games|Magic the Gathering|F|Add all ingredients to a mixing glass with ice and stir well.|Strain into a medium glass with ice and garnish with an orange.|More bitters can be added if needed to increase the heat content if you desire.
+1.5|oz|Orangecello|Liquer|1|oz|Vodka|Vodka|2|oz|Sweet & Sour|Mixer|.25|oz|Grenadine|Mixer|5|drops|Bitterman's Hellfire Habanero Shrub Bitters|Bitters
+Jace Mind Sculptor|Games|Magic the Gathering|F|Add ice and water to a Martini glass to chill the glass.|Add all ingredients to a mixer glass with ice and stir well.|Dump the ice out of the Martini glass and strain the drink into it and garnish with an orange peel.
+.5|oz|Hypnotiq|Liquer|1|oz|Blue Curacao|Liquer|.5|oz|Bacardi 151|Rum|1|oz|Sweet & Sour|Mixer|1|each|Orange Peel|Fruit
+Star Lord|Comic Book|Guardians of the Galaxy|T|Mix all ingredients in glass of choice.|Add pepper as garnish.
+1|each|Habanero Pepper|Vegetable|1.5|oz|Ginger Beer|Ginger Beer|3|oz|Strawberry Orange Juice|Fruit Juice|1|oz|Pineapple Juice|Fruit Juice
+Gurdyroot Infusion|Book|Harry Potter|T|Mix all ingredients in glass of choice.|Add slice of Ginger as garnish.
+2|oz|Orange Juice|Fruit Juice|3|oz|Sparkling Red Grape Juice|Fruit Juice|1|oz|Ginger Ale|Soda|1|slice|Fresh Ginger|Ginger
+Totoro|Anime|My Neighboor Totoro|T|Mix all ingredients in glass of choice.|Enjoy!
+6|each|Mint Leaves|Mint|1|oz|Lime Juice|Fruit Juice|1|oz|Grapefruit Juice|Fruit Juice|.5|oz|Simple Syrup|Sugar|2.5|oz|Non-alcoholic Ginger Beer|Ginger Beer
+Frozen Summer|Movie|Frozen|T|Add ingredients to blender.|Blend until smoothie consistancy.|NOTE: Makes two drinks.
+8|oz|Blue Hawaiian Punch|Fruit Punch|1|each|Banana|Fruit|1|handful|Blueberries|Fruit|2|oz|Simple Syrup|Sugar|8|oz|Ice|Ice
+Sonic Screwdriver|TV|Doctor Who|T|Mix all ingredients in a highball glass over ice and stir.
+3|oz|Orange Juice|Fruit Juice|1.5|oz|Rose's Blue Raspberry Mix|Mixer|.5|oz|Lime Juice|Fruit Juice|3|oz|Ginger Ale|Soda
+
