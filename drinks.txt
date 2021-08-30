@@ -80,4 +80,10 @@ Frozen Summer|Movie|Frozen|T|Add ingredients to blender.|Blend until smoothie co
 8|oz|Blue Hawaiian Punch|Fruit Punch|1|each|Banana|Fruit|1|handful|Blueberries|Fruit|2|oz|Simple Syrup|Sugar|8|oz|Ice|Ice
 Sonic Screwdriver|TV|Doctor Who|T|Mix all ingredients in a highball glass over ice and stir.
 3|oz|Orange Juice|Fruit Juice|1.5|oz|Rose's Blue Raspberry Mix|Mixer|.5|oz|Lime Juice|Fruit Juice|3|oz|Ginger Ale|Soda
+Liber-tea|Game|Bioshock Infinite|T|Mix first three ingredients and pour into a lowball glass over ice.|Top with Club Soda|Garnish with maraschino cherry.
+2|oz|Manhattan Mix|Mixer|.5|oz|Lemon Juice|Fruit Juice|.5|oz|Simple Syrup|1|bottle|Club Soda|Soda|1|each|Maraschino Cherry|Fruit
+Michiru Hoshino|Game|Katamari|T|Shake all ingredients with ice.|Pour into martini glass.|Garnish with a maraschino cherry.
+2|oz|White Cranberry Juice|Cranberry Juice|.5|oz|Sour Mix|Mixer|1|splash|Ginger Ale|Soda
+Aerith/Aeris|Game|Final Fantasy 7|T|Shake first four ingredients and pour over ice.|Fill with ginger ale and garnish with three lime wedges.
+
 
