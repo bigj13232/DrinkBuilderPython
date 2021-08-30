@@ -119,3 +119,16 @@ The Witch's Brew|Movie|Hocus Pocus|F|Place a punch bowl inside of a larger cauld
 16|oz|Vodka|Vodka|16|oz|Sour Apple Pucker|Schnapps|4|liters|Lemon-Lime Soda|Soda|1|container|Dry Ice|Dry Ice
 Do you want to play a game?|Movie|Saw|F|In an ice cube tray, add one raspberry for each cube then fill with water.|Freeze.|Muddle fresh raspberries in the bottom of a rocks glass.|Combine heavy cream, Chambord, and vodka in a cocktail shaker and shake vigorously.|Add the raspberry ice cubes to rocks glass.|Strain drink over ice.|Garnish with a Twizzler pinwheel.
 1|oz|Heavy Whipping Cream|Cream|1|oz|Chambord|Liquer|1|oz|Vodka|Vodka|1|each|Twizzler Pinwheel
+The Midnight Society|TV|Are you afraid of the dark?|F|Light apple sticks on fire.|Cap with decanter and let it fill up with smoke.|Add apple cider, apple whiskey, and maple whiskey to a pint glass with ice.|Stir.|Strain into decanter and shake so the drink mixes with the smoke.|Strain into a coupe glass.|Layer with moonshine and light on fire.|Sprinkle with cinnamon to create sparks.
+1|oz|Apple Whiskey|Whiskey|1|oz|Maple Whiskey|Whiskey|1|oz|Apple Cider|Juice|1|bottle|Moonshine|Moonshine|1|1|each|Cinnamon Stick|Cinnamon|1|oz|Apple Orchard Sticks|Other
+The Bate's Special|Movie|Psycho|F|Add cinnamon schnapps, butterscotch schnapps, and milk to a cocktail shaker with ice.|Shake vigorously.|Strain into a chilled coupe glass.|Garnish with 3 drops of grenadine.
+1|oz|Cinnamon Schnapps|Schnapps|1|oz|Butterscotch Schnapps|Schnapps|1|oz|Milk|Milk|2|drops|Grenadine|Grenadine
+The Time Warp|Movie|Rocky Horror Picture Show|F|Shake cranberry juice, Moscato, and Kinky liqueur in a mixer with ice.|Strain into a champagne flute and top with blood orange soda.
+2|oz|Cranberry Juice|Juice|1|oz|Moscato|Moscato|1.5|oz|Kinky Liquer|Liquer|1|can|Blood Orange Soda|Soda
+Silver Bullet|Movie|Wolfman|F|Rim a shot glass with sugar Add moonshine, creme de cacao, and vanilla schnapps.|Add silver powder and a small dash of black powder.|Stir and serve.
+.5|oz|Creme de Cacao|Liquer|.5|oz|Vanilla Schnapps|Schnapps|.5|oz|Moonshine|Moonshine|1|tbsp|Sugar|Sugar|1|jar|Edible Silver Powder|Other|1|jar|Edible Black Powder|Other
+The Crypt Keeper|TV|Tales from the Crypt|F|Set a piece of paper on fire and place the glass over it so that it fills with smoke.|Add brandy, juices, and whiskey to a cocktail shaker with ice.|Shake vigorously.|Strain into smoke filled glass.|Top with a few drops of bitters.
+3|oz|Brandy|Brandy|1|oz|Fresh Lime Juice|Juice|1|oz|Fresh Lemon Juice|.5|oz|Honey Whiskey|Whiskey|1|dash|Angostura Bitters|Bitters
+Pennywise the Clown|Movie|It|F|Place cotton candy in a martini glass.|Add grape juice, raspberry liqueur, and vodka to a cocktail shaker with ice.|Shake vigorously.|Strain the cocktail over the cotton candy.|Garnish with a maraschino cherry on a cocktail straw.
+1|cup|Cotton Candy|Candy|8|oz|Grape Juice|Juice|2|oz|Raspberry Liquer|2|oz|Bubblegum Vodka|Vodka|1|each|Maraschino Cherry|Fruit
+https://thedrunkenmoogle.com/page/3 - The Black Hills Legend (The Blair Witch Project cocktail)
