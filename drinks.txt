@@ -1,5 +1,5 @@
 The Aloha 'Oe|Anime|Space Dandy|F|Combine all ingredients into a blender and blend for 5-8 seconds. You don’t want it too finely blended or else it will melt and dilute too quickly.|Pour into a Collins glass and garnish with an orange wheel and a cherry. Optional: add dry ice for effect!
-3|oz|Passion Fruit Puree|Fruit Puree|1.5|oz|Pinapple Juice|Juice|1|oz|Dark Rum|Rum|1|oz|Southern Comfort|Liquer|.5|oz|Orange Curacao|Liquer|2|dashes|Angostura Bitters|Bitters
+3|oz|Passion Fruit Puree|Fruit Puree|1.5|oz|Pineapple Juice|Juice|1|oz|Dark Rum|Rum|1|oz|Southern Comfort|Liquer|.5|oz|Orange Curacao|Liquer|2|dashes|Angostura Bitters|Bitters
 Bloody Eye|Anime|Cowboy Bebop|F|Mix first three ingredients in a lowball or small glass.|Fill to top with AMP Overdrive.
 1.5|oz|Red Stag|Whiskey|.5|oz|Gin|Gin|1|splash|Grenadine|Mixer|1|can|AMP Overdrive Cherry|Energy Drink
 Eren Jaegerbomb|Anime|Attack on Titan|F|Pour Grenadine into shot glass|Layer Jaegermeister on top|Drop into cup of Red Bull
@@ -157,3 +157,33 @@ The Pumpkin King|Movie|The Nightmare Before Christmas|F|Mix both ingredients and
 1|tsp|Pumpkin or Butterscotch Pudding|Pudding|1|oz|Captain Morgan|Rum|1|can|Whipped Cream|Cream|1|each|Candy Corn|candy
 Mark VIII|Movie|Iron Man|F|Mix Amaretto and splash of grenadine and pour into a low ball glass.|Fill shot glass with Orange Juice.|Place the shot glass carefully into the lowball glass.
 1.5|oz|Orange Juice|Juice|1.5|oz|Amaretto|Liquer|1|splash|Grenadine|Mixer
+Absolut Pleasure|Movie|Rocky Horror Picture Show|F|Evenly coat your glass with Absinthe.|Muddle two cherries in a shaker and add ice, along with the remaining ingredients.|Shake vigorously, and strain directly into the middle of your Absinthe coated glass.|Garnish with two cherries.
+1.5|oz|Cherry Brandy|Brandy|1|oz|Absolut|Vodka|.25|oz|Irish Cream|Liquer|.25|oz|Simple Syrup|Sugar|1|tsp|Absinthe|Absinthe|4|each|Maraschino Cherries|Fruit
+Freeze Ray|Movie|Dr. Horrible's Sing-Along Blog|F|Fill a highball glass with crushed ice.|Add in the alcoholic ingredients and fill with Sprite.|Stir, serve and stop the world.
+1|oz|Vodka|Vodka|1.5|oz|Creme de Menthe|Liquer|5|oz|Sprite|Soda
+The Hammer|Movie|Dr. Horrible's Sing-Along Blog|F|Mix alcoholic ingredients in a lowball glass over ice.|Fill with root beer.
+1|oz|Captain Morgan|Rum|1|oz|Canadian Whiskey|Whiskey|1|oz|Peach Schnapps|Schnapps|1|bottle|Root Beer|Soda
+Crazy Random Happenstance|Movie|Dr. Horrible's Sing-Along Blog|F|Set aside one strawberry and blend the rest of the items.|Pour into a large glass and garnish with the remaining strawberry.
+.5|oz|Starberry Frozen Yogurt|2|oz|Rumchata|Liquer|.5|oz|Amaretto|Liquer|5|each|Strawberries|Fruit|4|each|Ice Cubes|Water
+Qui Gon Gin and Tonic|Movie|Star Wars|F|Mix the first three ingredients in a highball glass and top with tonic water.|Garnish with a lime wedge
+1|oz|Gin|Gin|2|oz|Midori|Liquer|1|splash|Lime Juice|Juice|1|bottle|Tonic Water|Water|1|each|Lime Wedge|Fruit
+Darth Maultini|Movie|Star Wars|F|Chill and combine all ingredients in a cocktail glass.|Cut two lemon wedges in half to make four mini wedges and garnish the glass with the “horns” of Darth Maul.
+1|oz|Sweet Vermouth|Vermouth|1|oz|Vodka|Vodka|1|oz|Maker's Mark|Whiskey|2|oz|Pomegranate Cherry Juice|Juice|2|each|Lemon Wedges|Fruit
+Black Widow|Movie|Black Widow|F|Pour the first three ingredients in a high ball or pint glass over ice.|Fill with cola of choice.|Stir gently.
+1|oz|Vodka|Vodka|.75|oz|Kahlua|Liquer|1|oz|Grenadine|Mixer|1|can|Cola|Soda
+The Girl on Fire|Movie|Hunger Games|F|Fill a highball glass with ice.|Add white rum and mango juice, then add grenadine, allowing it to sink to the bottom of glass.|Do not stir.|Garnish with orange zest and cherry.
+1.5|oz|White Rum|Rum|3|oz|Mango Juice|Juice|2|tsp|Grenadine|1|each|Orange Zest Strip|Fruit|1|each|Maraschino Cherry|Fruit
+Tron|Movie|Tron|F|Pour first three ingredients in an old fashioned glass over ice.Fill with sprite.|Mix well.
+1|oz|Midori|Liquer|1|oz|Blue Curacao|Liquer|1|oz|Pineapple Juice|Juice|1|bottle|Sprite|Sprite
+CLU|Movie|Tron|F|Pour first 3 ingredients over ice into an old fashioned glass.|Fill with orange soda.|Splash in grenadine.
+1|oz|Pineapple Rum|Rum|1|oz|Redrum|Rum|1|oz|Pineapple Juice|Juice|1|splash|Grenadine|Mixer|1|bottle|Orange Soda|Soda
+Flynn|Movie|Tron|F|Pour first three ingredients over ice in an old fashioned glass.|Fill with Sobe Pina Colada.
+1|oz|Pineapple Juice|Juice|1|oz|Malibu Coconut Rum|Rum|1|oz|Vanilla Vodka|Vodka|1|bottle|Sobe Pina Colada|Sobe
+The Pumpkin King 2|Movie|The Nightmare before Christmas|F|Stir ingredients with ice and pour into a cocktail glass.|Serve with a peppermint stick as a stir.
+2|oz|Mixed Berry Vodka|Vodka|1|oz|Godiva Chocolate Raspberry Vodka|Vodka
+Negascott|Movie|Scott Pilgrim vs. the World|F|Pour the first four ingredients in a lowball glass, over ice.|Fill the rest of the glass with orange juice and mix thoroughly.
+30|ml|Dark Rum|Rum|10|ml|Amaretto|Liquer|10|ml|Simple Syrup|Sugar|10|ml|Lemon Juice|1|bottle|Orange Juice|Juice
+Subspace Speed Pass|Movie|Scott Pilgrim vs. the World|F|Layer each ingredient into a tall shot glass in the order given.|Use a starfruit for a garnish.
+10|ml|Grenadine|Mixer|10|ml|Parfait Amour|Liquer|10|ml|Blue Curacao|Liquer|10|ml|Midori|Liquer|10|ml|Vodka|Vodka|1|slice|Starfruit|Fruit
+The Other L-word|Movie|Scott Pilgrim vs. the World|F| Shake the first three ingredients with ice in shaker.|Pour in cocktail glass and pour carefully the creme de cassis in the middle of the glass.
+20|ml|Parfait Amour|Liquer|10|ml|Vodka|Vodka|60|ml|Guanabana Juice|Juice|10|ml|Creme de Cassis|Liquer
