@@ -131,4 +131,29 @@ The Crypt Keeper|TV|Tales from the Crypt|F|Set a piece of paper on fire and plac
 3|oz|Brandy|Brandy|1|oz|Fresh Lime Juice|Juice|1|oz|Fresh Lemon Juice|.5|oz|Honey Whiskey|Whiskey|1|dash|Angostura Bitters|Bitters
 Pennywise the Clown|Movie|It|F|Place cotton candy in a martini glass.|Add grape juice, raspberry liqueur, and vodka to a cocktail shaker with ice.|Shake vigorously.|Strain the cocktail over the cotton candy.|Garnish with a maraschino cherry on a cocktail straw.
 1|cup|Cotton Candy|Candy|8|oz|Grape Juice|Juice|2|oz|Raspberry Liquer|2|oz|Bubblegum Vodka|Vodka|1|each|Maraschino Cherry|Fruit
-https://thedrunkenmoogle.com/page/3 - The Black Hills Legend (The Blair Witch Project cocktail)
+The Black Hills Legend|Movie|The Blair Witch Project|F|Pour absinthe into a rocks glass.|Swirl to coat, then discard.|In a cocktail shaker, combine ice, mezcal, St. Elizabeth, and 2 dashes of bitters.|Strain into rocks glass over ice.|Add rosemary garnish.|Light until smoking and serve immediately.
+.5|oz|Absinthe|Absinthe|2|oz|Mezcal|Tequila|1|oz|St. Elizabeth Allspice Dram|Liqueur|2|dashes|Angostura Bitters|Bitters|1|each|Rosemary Sprig|Other
+Micheal Myers|Movie|Halloween|F|Mix all liquid ingredients into a Irish coffee mug.|Top with whipped cream.
+3|oz|Pumpkin Coffee|Coffee|1.5|oz|Meyers Dark Rum|Rum|1.5|oz|Rumchata|Liquer|1|can|Pumpkin Whipped Cream|Cream
+Zombie|Movie|Zombie Movies|F|Mix Peach Schnapps and Jaegermeister into a shot glass.|Using a barspoon, layer the Irish cream on top.|Drop a few drips of grenadine into the top so it pulls down the cream.
+.5|oz|Peach Schnapps|Schnapps|.5|oz|Irish Cream|Liquer|.5|oz|Jaegermeister|Liquer|1|dash|Grenadine|Mixer
+Red Rum|Movie|The Shining|F|Muddle cherries in a pint glass.Add whiskey, rum, cinnamon, and orange zest to a shaker.|Shake vigorously.|Strain over ice.
+2|oz|Dark Rum|Rum|.5|oz|Jack Honey|Whiskey|3|each|Cherries|Fruit|1|tsp|Orange Zest|Fruit|.25|tsp|Cinnamon|Cinnamon
+Frankenstein's Monster|Movie|Frankenstein|F|Muddle orange in shaker.|Add Lemonade,Vodka,Pineapple Rum and Melon Liquer.|Shake and strain into highball glass with ice.|Add splash of Blue Lightning
+6|oz|Lemonade|Lemonade|1|oz|Vodka|Vodka|2|oz|Pineapple Rum|Rum|2|oz|Midori|Liquer|.25|each|Orange|Fruit
+The Bloody Chainsaw|Movie|Texas Chainsaw Massacre|F|Add whiskey, moonshine, and apple cider to a cocktail shaker with ice.|Strain into glass over ice.|Rim with bacon bits.
+1|oz|Maple Whiskey|Whiskey|1|oz|Moonshine|Moonshine|4|oz|Apple Cider|Juice|2|tbsp|Bacon Bits|Other
+Ecto Cooler|Movie|Ghostbusters|F|Add ingredients to a cocktail shaker and shake.|Strain over ice in a pint glass.
+6|oz|Orange Tangerine Juicy Juice|Juice|2|oz|Lemonade|3|oz|Clementine Vodka|Vodka|.5|tsp|Blue Curacao|Liquer
+The Mummy|Movie|The Mummy|F|Place dry ice into a Irish coffee mug.|Gently pour the hibiscus tea over the dry ice.|Add the alcoholic ingredients and stir with a cinnamon stick.|Disclaimer: Always be careful when messing around with dry ice and drinks.
+2|oz|Devil's Cut|Whiskey|1|oz|Honey Whiskey|Whiskey|6|oz|Hibiscus Tea|Tea|.5|oz|Dry Ice|Other|1|stick|Cinnamon|Cinnamon
+Camp Crystal Lake|Movie|Friday the 13th|F|Fill a shot glass with half vodka and half Rumchata.|Cap the shot glass with a rocks glass and flip it over so the shot glass is upside down inside of the rocks glass.|Pour around the upside down shot glass with blue raspberry mix.|To drink, pop the shot glass up to let the Rumchata and vodka mix out.
+1|oz|Vodka|Vodka|1|oz|Rumchata|Liquer|2|oz|Blue Raspberry Mix|Mixer
+Hannibal Lecter|Silence of the Lambs|F|Add bourbon and apple cider to a shaker with ice.|Shake vigorously.|Strain into a glass.|Slowly drizzle chianti over the drink.|Garnish with a fresh peel of lemon.
+1.25|oz|Bourbon|Bourbon|2|oz|Apple Cider|Juice|1|drizzle|Chianti|Wine|1|each|Fresh lemon peel|Fruit
+Coyote Tango|Movie|Pacific Rim|F|Add all ingredients to a shaker and shake.|Strain into a cocktail glass.|Garnish with a lychee nude stuff with pear.
+.75|oz|Sake|Sake|1.25|oz|Voodoo Tiki Tequila Desert Rose Prickly Pear|Tequila|1.25|oz|Lychee Juice|Juice|1|each|Lychee nut stuffed with pear|Fruit
+The Pumpkin King|Movie|The Nightmare Before Christmas|F|Mix both ingredients and pour into a shot glass (Feel free make a bulk batch).|If the mixture isn’t thick enough, add some heavy whipping cream.|Refrigerate for 30 minutes.|After refrigeration, top with whipped creme and a piece of candy corn.
+1|tsp|Pumpkin or Butterscotch Pudding|Pudding|1|oz|Captain Morgan|Rum|1|can|Whipped Cream|Cream|1|each|Candy Corn|candy
+Mark VIII|Movie|Iron Man|F|Mix Amaretto and splash of grenadine and pour into a low ball glass.|Fill shot glass with Orange Juice.|Place the shot glass carefully into the lowball glass.
+1.5|oz|Orange Juice|Juice|1.5|oz|Amaretto|Liquer|1|splash|Grenadine|Mixer
