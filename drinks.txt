@@ -187,3 +187,7 @@ Subspace Speed Pass|Movie|Scott Pilgrim vs. the World|F|Layer each ingredient in
 10|ml|Grenadine|Mixer|10|ml|Parfait Amour|Liquer|10|ml|Blue Curacao|Liquer|10|ml|Midori|Liquer|10|ml|Vodka|Vodka|1|slice|Starfruit|Fruit
 The Other L-word|Movie|Scott Pilgrim vs. the World|F| Shake the first three ingredients with ice in shaker.|Pour in cocktail glass and pour carefully the creme de cassis in the middle of the glass.
 20|ml|Parfait Amour|Liquer|10|ml|Vodka|Vodka|60|ml|Guanabana Juice|Juice|10|ml|Creme de Cassis|Liquer
+Emergency Protocol 417|TV|Doctor Who|F|Mix first three ingredients in glass.|Garnish with Lemon Twist
+2|oz|Gin|Gin|2|oz|Vodka|Vodka|.5|oz|Dry Vermouth|Vermouth|1|each|Lemon Twist|Fruit
+House Baratheon|TV|Game of Thrones|F|Add all ingredients to shot glass.|Enjoy.
+.5|oz|Crown Royal|Whiskey|.5|oz|Red Stag Cinnamon|Bourbon|.5|oz|Mead|Mead
