@@ -191,3 +191,87 @@ Emergency Protocol 417|TV|Doctor Who|F|Mix first three ingredients in glass.|Gar
 2|oz|Gin|Gin|2|oz|Vodka|Vodka|.5|oz|Dry Vermouth|Vermouth|1|each|Lemon Twist|Fruit
 House Baratheon|TV|Game of Thrones|F|Add all ingredients to shot glass.|Enjoy.
 .5|oz|Crown Royal|Whiskey|.5|oz|Red Stag Cinnamon|Bourbon|.5|oz|Mead|Mead
+Walker's Blood|TV|The Walking Dead|F|Mix first two ingredients in a highball glass.|Fill remainded with Coca-Cola.|Add splash of grenadine.
+1|oz|Bourbon|Bourbon|1|oz|Blackberry Brandy|Brandy|1|bottle|Coca-Cola|Soda|1|splash|Grenadine|Mixer
+The Reichenbach Fall|TV|Sherlock|F|Mix all ingredients in glass of choice.
+1|oz|London Dry Gin|Gin|2|oz|Dry Sherry|Sherry|3|oz|Lemonade|Juice|1|splash|stirrings Blood Orange Bitters|Bitters
+Slayer's Blood|TV|Buffy the Vampire Slayer|F|Mix whiskey and schnapps into a shot glass.|Pour in grenadine slowly and watch it sink to the bottom.
+1|oz|White Whiskey|Whiskey|.5|oz|Peach Schnapps|Schnapps|1|dash|Grenadine|Mixer
+Blue Sky|TV|Breaking Bad|F|Pour alcohol over ice in a tall glass.|Fill wth Sprite.|Slowly stir and serve.
+1|oz|Cotton Candy Vodka|Vodka|1|oz|UV Blue|Vodka|1|bottle|Sprite|Soda
+Captain Kirk|TV|Star Trek|F|Add all four ingredients into a mixing glass with ice.|Mix well.|Strain into a lowball glass.
+1.5|oz|Amaretto|Liquer|1.5|oz|Malibu|Rum|2.25|oz|Milk|Milk|1|bottle|Chocolate Syrup|Syrup
+The Tick|TV|The Tick|F|Slice the Twizzler in half and cut a notch in each piece to easily attach to your glass.|Pour in the alcohol and top with Jones Soda.
+12|oz|Jones Soda Berry Lemonade|Soda|1|oz|Blueberry Liquer|Liquer|1|oz|Vodka|Vodka|1|each|Blue Twizzler|Candy
+Kaylee's Strawberry Cosmo|TV|Firefly|F|Combine all of the ingredients except the strawberries and orange juice in a cocktail strainer with ice.|Shake until mixed, and strain into a martini glass.|Add the orange juice and garnish with strawberries.
+2|each|Strawberries|Fruit|1|oz|Vodka|Vodka|.5|oz|Strawberry Liquer|Liquer|.5|oz|Simple Syrup|Sugar|1|dash|Orange Juice|Juice
+Vera|TV|Firefly|F|Add ginger syrup and bitters to an Old Fashioned Glass.|Next add the rum and whiskey.|Fill with cubed ice then float the Sake on top.|Before drinking, give the glass a quick swirl to lightly distribute Sake.
+2|oz|Bourbon Whiskey|Whiskey|.5|oz|Bacardi 151|Rum|.5|oz|Sake|Sake|.75|oz|Ginger Syrup|Ginger|4|dashes|Angostura Bitters|Bitters
+Ginger Syrup|Recipe|Vera|F|In a pot or large pan, add the water, sugar, and half of the ginger in the beginning.|Boil for 1-2 minutes while mixing.|Add the other half once the first batch gets mushy.|This makes it nice and spicy.|Let sit until everything is nice and syrupy, then remove from the stove and let cool.
+1|cup|Water|Water|1|cup|Sugar|Sugar|.5|cup|Fresh Diced Ginger|Ginger
+Sereni-tea|TV|Firefly|F|Shake all ingredients, except for the sweet tea and cola, with ice and pour in a highball glass.|Top off with an even mix of cola and sweet tea and garnish with a lemon wedge.
+1|oz|Firefly Sweet Tea Vodka|Vodka|.75|oz|Captain Morgan|Rum|.75|oz|Silver Tequila|Tequila|.75|oz|Gin|Gin|1|oz|Sour Mix|Mixer|1|bottle|Sweet Tea|Tea|1|bottle|Coca-Cola|Soda|1|each|Lemon Wedge|Fruit
+Blood Slide|TV|Dexter|F|Chill the alcohol in a freezer before use.|Pour schnapps in a double shot glass.|Gently pour cranberry juice.|Carefully layer the vodka on top.
+1|oz|Peach Schnapps|Schnapps|1|oz|Cranberry Juice|Juice|1|oz|Vodka|Vodka
+11th Doctor's Sonic Screwdriver|TV|Doctor Who|F|Add first three ingredients into a highball glass with ice.|Fill the rest of the glass with orange juice.
+1.5|oz|Vodka|Vodka|1.5|oz|Blue Curacao|Liquer|1|splash|Rose Blue Raspberry Mix|Mixer|1|bottle|Orange Juice|Juice
+Dalek|TV|Doctor Who|F|Pour the burbon and rum in a mixer.|Splash in some amaretto.|OPTIONAL: Add a splash of water to bring out the bourbon flavor.|Shake with ice.|Strain into a shot glass
+.5|oz|Knob Creek Bourbon|Bourbon|.5|oz|Black Heart Spiced Rum|Rum|1|splash|Amaretto|Liquer|1|splash|Water|Water
+Miss Fortune|Video Game|League of Legends|F|Add all ingredients to shaker with ice.|Shake.|Strain into a pint glass.
+1.5|oz|Spiced Rum|Rum|1.5|oz|Coconut Rum|Rum|4|oz|Cranberry Juice|Juice|1.5|oz|Pineapple Juice|Juice
+Gae Bolg|Video Game|Final Fantasy|F|Add first three ingredients to a shaker with ice.|Shake.|Pour into pint glass.|Garnish with twizzler.
+.75|oz|Blue Curacao|Liquer|1.5|oz|Bacardi Dragon Berry|Vodka|5|oz|Limeade|Juice|1|each|Twizzler|Candy
+Blackout|Video Game|Watch Dogs|F|Add first three ingredients to a shaker with ice.|Shake.|Pour into coupe glass.|Top with champagne.
+2|oz|Blackberry Brandy|Brandy|1|dash|Triple Sec|Liquer|1|dash|Lavender Bitters|Bitters|1|bottle|Champagne|Champagne
+Tropical Freeze|Video Game|Donkey Kong|F|Add first four ingredients to shaker.|Shake.|Pour into glass over ice.
+.75|oz|99 Bananas|Schnapps|.75|oz|Malibu Coconut Rum|Rum|.75|oz|Rumchata|Liquer|4|oz|Pineapple Juice|Juice
+Peach's Cake|Video Game|F|Super Mario|Add all ingredients into shaker with ice.|Shake.|Strain into martini glass.
+1.5|oz|Strawberry Cream Liquer|Liquer|1|oz|Peach Schnapps|Schnapps|1|oz|Malibu Caribbean Rum|Rum|1|oz|Cream|Milk
+Articuno|Video Game|Pokemon|F|Add first three ingredients to shaker with ice.|Shake.|Pour into lowball glass with ice.|Fill with club soda.
+2|oz|Hpnotiq|Vodka|.75|oz|Gin|Gin|.25|oz|Lime Juice|Juice|1|bottle|Club Soda|Soda
+Super Wario|Video Game|Super Mario|F|Stir the vodka and lemon juice together in a glass.|Drop in some ice and frozen mangos and fill it up with huckleberry soda.|Garnish it with a lemon peel.
+2|oz|Vodka|Vodka|.5|oz|Lemon Juice|Juice|1|bottle|Huckleberry Soda|Soda|1|bag|Frozen Mangos|Fruit|1|each|Lemon Peel|Fruit
+Bloody Tears|Video Game|Castevania|F|Muddle the raspberries and add all ingredients in a shaker with ice.|Shake and strain into a coupe glass.
+4|each|raspberries|Fruit|1.25|oz|Gin|Gin|1|splash|Chambord|Liquer|1|oz|Lemon Juice|Juice|1|oz|Grenadine|Mixer
+Tingle|Video Game|Legend of Zelda|F|Place cinnamon stick in lowball glass.Add alcoholic ingredients to shaker with ice.|Shake.|Pour into glass.|Garnish with a cherry on a toothpick.
+2|oz|White Tequila|Tequila|2|oz|Vodka|Vodka|2|oz|Midori|Liquer|1|each|Maraschino Cherry|Fruit|.5|each|Cinnamon Stick|Other
+Beck|Video Game|Mighty no. 9|F|Mix the Eristoff Black Vodka and triple sec in a lowball glass over ice.|Fill with lemon-lime soda and place a blue maraschino cherry on top of the ice.
+1.5|oz|Eristoff Black Vodka|Vodka|1|oz|Triple Sec|Liquer|1|bottle|Lemon-lime Soda|Soda|1|each|Blue Maraschino Cherry|Fruit
+Avo's Tithe|Video Game|Fable|F|Mix Licor 43 and mead in a lowball over ice.|Top with orange juice.
+2|oz|Orange Juice|Juice|2|oz|Mead|Mead|.5|oz|Licor 43|Liquer
+Skull Smash|Video Game|Chrono Trigger|F|Shake all ingredients with ice and pour into a sugar-rimmed glass.
+2|oz|Pineapple Juice|Juice|2|oz|Orange Juice|Juice|2|oz|White Rum|Rum|1|oz|Lychee Juice|Juice|1|each|Lime Wedge|Fruit|1|tbsp|Sugar|Sugar
+Rainbow Road|Video Game|Mario Kart|F|Mix orange juice and gin together and pour them into the glass.|Stir the rum and grenadine together and pour it slowly down the side of the glass - it should settle at the bottom, turning the bottom red and the area immediately above it orange.|Mix the vodka and blue Curacao together and then layer it on top of the orange juice.|The top should remain blue, but some should settle down to create a green layer.
+4|oz|Orange Juice|Juice|.5|oz|Gin|Gin|.33|oz|Grenadine|Mixer|.33|oz|Rum|Rum|3|oz|Vodka|Vodka|2|splashes|Blue Curacao|Liquer
+Z-Saber|Video Game|Mega Man|F|Mix all alcoholic ingredients and add to a highball glass over ice.|Fill with sprite.
+.5|oz|Vodka|Vodka|.5|oz|Gin|Gin|.5|oz|White Tequila|Tequila|.5|oz|Triple Sec|Liquer|.5|oz|Midori|Liquer|1|bottle|Lemon-lime Soda|Soda
+X-Buster|Video Game|Mega Man|F|Add gin and blue curacao to a lowball glass, over ice.|Fill the glass with your lemon-lime soda.|Garnish with a cherry on top of the ice cubes.
+1|oz|Gin|Gin|1|oz|Blue Curacao|Liquer|1|bottle|Lemon-lime Soda|Soda|1|each|Maraschino Cherry|Fruit
+GrimGrimoire|Video Game|GrimGrimoire|F|Shake all ingredients with ice.|Double strain into a cocktail glass.|Garnish with a slice of lime and jalapeno.
+1.5|oz|Tequila|Tequila|1|oz|Cointreau|Liquer|1|Strawberry Red Pepper Puree|Fruit|.25|oz|Lime Juice|Juice
+Strawberry Red Pepper Puree|Recipe|GrimGrimoire|T|Blend red bell pepper, strawberries and simple syrup.|OPTIONAL: Add several pieces of jalapeno before blending.
+.25|cup|Red Bell Pepper|Vegetable|.25|cup|Strawberry|Fruit|.25|cup|Simple Syrup|Sugar|1|each|Jalapeno|Vegetable
+GrimGrimoire - Frozen|Video Game|GrimGrimoire|F|Blend well.|Makes 4.
+6|oz|Tequila|Tequila|2|oz|Cointreau|Liquer|.5|cup|Frozen Strawberries|Fruit|.5|cup|Red Bell Pepper|Vegetable|1|oz|Lime Juice|Juice|1|splash|Simple Syrup|Sugar|1|handful|Crushed Ice|Water
+Whispy Woods|Video Game|Kirby|F|Stir all liquid ingredients in a tall glass with ice.|Garnish with fruit.
+12|oz|Angry Orchard Dry Apple Cider|Cider|1|oz|Bourbon Whiskey|Bourbon|1|tsp|Lemon Juice|Juice|1|tsp|Sour Cherry Syrup|Syrup|1|each|Apple Slice|Fruit|1|each|Sour Cherry|Fruit
+Zelda's Lullaby|Video Game|Legend of Zelda|Separate your egg white, add it to a shaker, and discard the yolk.|Add the other liquid ingredients and shake without ice until foamy.|Add ice and shake to chill.|Strain into a coupe glass.|Garnish with a lemon twist.
+1.5|oz|Chambord|Liquer|.75|oz|Vodka|Vodka|1|oz|Lemon Juice|Juice|.5|oz|Simple Syrup|1|each|Egg|Egg|1|each|Lemon Twist|Fruit
+Dracula's Blood|Video Game|Castevania|F|Add all ingredients to a shaker with ice and shake well.|Strain into a shot glass and take the shot.
+.5|oz|Raspberry Schnapps|Schnapps|.5|oz|Fireball|Whiskey|.5|oz|Blood Orange Juice|Juice
+Diddy's Dirty Bananas|Video Game|Donkey Kong|F|Pour equal measures of each ingredient in shaker over ice.|Shake well and strain into shot glass.|Serve.
+.5|oz|99 Bananas|Schnapps|.5|oz|Amaretto|Liquer|.5|oz|Fuze Banana Colada|Fuze
+Goomba|Video Game|Super Mario|F|Mix the sweet and sour mix, plain vodka, and 99 Peaches in a shaker and pour in a shot glass.|Carefully layer the UV Red vodka on top.|Serve.
+1|oz|Sweet & Sour Mix|Mixer|.5|oz|Vodka|Vodka|.5|oz|99 Peaches|Schnapps|.5|UV Red|Vodka
+Zandalari|Video Game|World of Warcraft|F|Fill half a shot glass with the strawberry rum and top with strawberry Fanta.|Squirt a bit of the Mio into the bottom and garnish with blackberries.|Serve.
+.75|oz|Strawberry Parrot Bay Rum|Rum|1|bottle|Strawberry Fanta|Soda|2|squirts|Blueberry Lemonade Mio|Flavoring|1|each|Blackberry|Fruit
+Devil's Kiss|Video Game|Bioshock|F|Fill a highball glass with ice, pour in grenadine, Chambord and dashes of bitters to begin.|Carefully pour in lemonade and ginger beer down the side of the glass leaving the grenadine sitting in the bottom, add juice of a lime and finish the drink with a shot of Spiced Rum to the top.|To serve, place the drink on a saucer and place the measure of overproof rum around the base, light with a match and allow guests to flick cinnamon onto the drink/flame, extinguish, add straw and serve.|OPTIONAL: Drink the rum left in the saucer when cool.
+25|ml|Spiced Rum|Rum|25|ml|Chambord|Liquer|10|ml|Grenadine|Mixer|1|each|Lime|Fruit|50|ml|Ginger Beer|Soda|50|ml|Sparkling Lemonade|Soda|2|dashes|Angostura Bitters|1|tsp|Cinnamon|Cinnamon|15|ml|Overproof Rum|Rum
+Kyaaaa Wine|Video Game|Harvest Moon|F|Combine the wine, rum, juice, and curacao.|Stir.Add blueberries and strawberries and let the mixture sit, refrigerated overnight.|Put ice in a large wine glass and then pour the wine mixture with the berries over it.|Top it off with 7up and add the blackberries and raspberries shortly before serving.
+.75|oz|Red Wine|Wine|.25|oz|Berry Rum|Rum|1|oz|Blueberry Juice|Juice|1|oz|Blue Curacao|Liquer|.25|cup|Blueberries|Fruit|.25|cup|Strawberries|Fruit|.25|cup|Raspberries|Fruit|.25|cup|Blackberries|Fruit|1|bottle|Lemon-lime Soda|Soda
+Le Chuck|Video Game|Monkey Island|F|Mix all ingredients into a rocks glass and stir.|Add ice and serve.
+1.5|oz|Kraken Black Spiced Rum|Rum|1|oz|Cointreau|Liquer|.5|oz|Stirring's Blood Orange Bitters|Bitters
+Twitch's Spray and Pray|Video Game|League of Legends|F|Pour Malibu, Midori, triple sec, pineapple juice, and lemon juice into a tulip glass over ice, then stir.|Add the Champagne and stir gently.
+90|ml|Champagne|Champagne|30|ml|Malibu|Rum|45|ml|Midori|Liquer|15|ml|Triple Sec|Liquer|90|ml|Pineapple Juice|Juice|1|dash|Lemon Juice|Juice
+The Bandicoot|Video Game|Crash Bandicoot|F|Muddle one entire fuyu persimmon, add gin and a dash of cinnamon.|Add ice.|Shake well and strain through a wire mesh strainer.|Top with a sprinkle of unsweetened cocoa powder.
+1|each|Fuyu Persimmon, peeled|Fruit|1.5|oz|Gin|Gin|1|dash|Cinnamon|Cinnamon|1|dash|Unsweetened Cocoa Powder|Chocolate
