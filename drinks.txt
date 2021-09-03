@@ -288,3 +288,19 @@ Iron Man|Movie|Iron Man|F|Drizzle some Grenadine syrup and strawberry liqueur in
 .5|oz|Grenadine|Mixer|1|oz|Rum|Rum|1|oz|Triple|Liqueur|1|oz|Strawberry Liqueur|Liqueur|.5|oz|Peach Schnapps|Schnapps|1|bottle|Lemon-lime Soda|Soda|1|oz|Pineapple Orangle Juice|Juice
 Vesper|Movie|James Bond|F|Shake with ice.|Strain into a martini glass.|Garnish with a lemon peel.
 3|oz|Gin|Gin|.5|oz|Lillet Blanc|Wine|1|oz|Vodka|Vodka|1|each|Lemon Peel|Fruit
+Bone Daddy|Movie|The Nightmare before Christmas|F|Rim edge of shot glass with chocolate syrup and crushed candy canes.|Decorate inside with chocolate syrup.|Add coffee liqueur to base of shot glass before layering pumpkin spice liqueur on top. Next add a layer of peppermint vodka.|Top with whipped cream, chocolate syrup, pumpkin spice and more crushed candy canes.
+.75|oz|Coffee Liqueur|Liqueur|.75|oz|Pumpkin Spice Liqueur|Liqueur|1|bottle|Chocolate Syrup|Chocolate|1|each|Candy Cane|Candy|1|can|Whipped Cream|Cream|.25|tsp|Pumpkin Spice|Spice
+Ghostbuster|Movie|Ghostbusters|F|Add a shot of spiced rum to pint glass and top with root beer.|In a shot glass combine vanilla vodka and irish cream. To shoot, drop shot glass into pint glass.
+1|oz|Spiced Rum|Rum|.5|oz|Vanilla Vodka|Vodka|.5|oz|Irish Cream|Liqueur|4|oz|Root Beer|Soda
+The Grinch|Movie|The Grinch|F|Rim the edge of a rocks glass using lime juice and green sugar.|Drop 3 lime wedges into the base of a shaker and muddle.|Add ice and pour in vodka and melon liqueur. Shake.|Pour mix into the prepared glass and top with ginger ale.|Garnish with a lime wheel and a candy cane.
+.5|oz|Vodka|Vodka|.5|oz|Midori|Liqueur|3|each|Lime Wedges|Fruit|1|bottle|Ginger Ale|Soda|1|tbsp|Green Sugar|Sugar|1|each|Lime Wheel|Fruit|1|each|Candy Cane|Candy
+The Grinch Shot|Movie|The Grinch|F|Pour melon liqueur into shot glass and add a splash of grenadine.|Gently layer triple sec on top before adding a squeeze of lime juice.
+1|oz|Midori|Liqueur|.5|oz|Triple Sec|Liqueur|.5|oz|Lime Juice|Juice|1|splash|Grenadine|Mixer
+The Grinch Jello Shot|Movie|The Grinch|F|Add lime jello to hot water and stir to dissolve. Leave to cool.|Add vodka and triple sec, stir to combine and pour into shot glasses. Refrigerate.|Garnish with whipped cream and a strawberry.
+2|oz|Vodka|Vodka|2|oz|Triple Sec|Liqueur|3|oz|Lime Jello|Jello|8|oz|Hot Water|Water|1|can|Whipped Cream|Cream|1|each|Strawberry|Fruit
+The Grinch Hot Chocolate|Movie|The Grinch|F|In a mason jar add hot milk and white hot chocolate. Stir.|Add white chocolate liqueur, green creme de menthe and peppermint schnapps. Stir.|Top with whipped cream and Christmas sprinkles.|Garnish with a candy cane.
+2|oz|White Chocolate Liqueur|Liqueur|1|oz|Creme de Menthe|1|oz|Peppermint Schnapps|Schnapps|1|packet|White Hot Chocolate|8|oz|Hot Milk|Milk|1|can|Whipped Cream|Cream|.5|tsp|Christmas Sprinkles|Other|1|each|Candy Cane|Candy
+Banjo Kazooie|Video Game|Banjo Kazooie|F|In a shaker with ice, combine cointreau and orange juice. Shake well.|Strain mix into a shot glass and add a dash of grenadine.|Combine glass, combine coconut rum, orange juice, and pineapple juice in a glass and blue curaçao with vodka in another. Stir or shake both.|Carefully layer the blue mix above the yellow mix.|To serve, drop the shot glass into the pint glass and shoot.
+1|oz|Coconut Rum|Rum|1|oz|Vodka|Vodka|1|oz|Blue Curacao|Liqueur|1|oz|Orange Juice|Juice|1|Pineapple Juice|Juice|1|dash|Grenadine|Mixer|1|oz|Cointreau|Liqueur
+Ghostbusters Shots|Movie|Ghostbusters|F|In an ice filled glass combine melon liqueur and peach schnapps.|Stir to combine.|Strain mix into shot glass and drizzle with a few drops of irish cream.
+.75|oz|Midori|Liqueur|.75|oz|Peachy Schnapps|Schnapps|1|drop|Irish Cream|Liqueur
