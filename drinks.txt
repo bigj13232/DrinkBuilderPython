@@ -304,3 +304,5 @@ Banjo Kazooie|Video Game|Banjo Kazooie|F|In a shaker with ice, combine cointreau
 1|oz|Coconut Rum|Rum|1|oz|Vodka|Vodka|1|oz|Blue Curacao|Liqueur|1|oz|Orange Juice|Juice|1|Pineapple Juice|Juice|1|dash|Grenadine|Mixer|1|oz|Cointreau|Liqueur
 Ghostbusters Shots|Movie|Ghostbusters|F|In an ice filled glass combine melon liqueur and peach schnapps.|Stir to combine.|Strain mix into shot glass and drizzle with a few drops of irish cream.
 .75|oz|Midori|Liqueur|.75|oz|Peachy Schnapps|Schnapps|1|drop|Irish Cream|Liqueur
+Apocalyptic Savior|TV|The Walking Dead|F|Add all ingredients except the Soda Water to a shaker with ice and shake well.|Strain into a highball glass over ice and top with the Soda Water and serve.
+2|oz|Virus Vodka|Vodka|1|oz|White Rum|Rum|.5|oz|Overproof Dark Rum|Rum|3|oz|B.G Reynolds' Zombie Punch Cocktail Mixer|Mixer|1|bottle|Soda Water|Soda
