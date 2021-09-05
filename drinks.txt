@@ -306,3 +306,9 @@ Ghostbusters Shots|Movie|Ghostbusters|F|In an ice filled glass combine melon liq
 .75|oz|Midori|Liqueur|.75|oz|Peachy Schnapps|Schnapps|1|drop|Irish Cream|Liqueur
 Apocalyptic Savior|TV|The Walking Dead|F|Add all ingredients except the Soda Water to a shaker with ice and shake well.|Strain into a highball glass over ice and top with the Soda Water and serve.
 2|oz|Virus Vodka|Vodka|1|oz|White Rum|Rum|.5|oz|Overproof Dark Rum|Rum|3|oz|B.G Reynolds' Zombie Punch Cocktail Mixer|Mixer|1|bottle|Soda Water|Soda
+Zombie Scooby Snack|Cartoon|Scooby Doo|F|Use corn syrup and red food coloring to rim the edge of your serving glass.|In a shaking glass, combine coconut rum, melon liqueur, banana liqueur and pineapple juice. Shake well.|Strain mix into rimmed glass over ice.|Add a splash of milk and top with whipped cream and grenadine.
+1|oz|Coconut Rum|Rum|1|oz|Midori|Liqueur|.5|oz|Grenadine|Mixer|1|oz|Banana Schnapps|Schnapps|1.5|oz|Pineapple Juice|Juice|1|splash|Milk|Milk|.25|cup|Corn Syrup|Syrup|4|drops|Red Food Coloring|Other|1|can|Whipped Cream|Cream
+Darth Jager|Movie|Star Wars|F|Pour jagermeister into shot glass and place a rocks glass upside down on top.|Flip.|Pour apple cider into rocks glass. To serve, pull shot glass slowly to release jager.
+1.5|oz|Jaegermeister|Liqueur|4|oz|Apple Cider|Juice
+Butter Beer Jello Shots|Movie|Harry Potter|F|Heat cream soda until boiling and add gelatin. Leave to bloom and stir until combined.|Once cool, add butterscotch schnapps, vanilla vodka and cinnamon schnapps. Stir and pour into shot glasses. Refrigerate.|When jello has set, top with whipped topping and gold flakes.
+2|oz|Butterscotch Schnapps|Schnapps|1|oz|Vanilla Vodka|Vodka|1|oz|Cinnamon Schnapps|Schnapps|8|oz|Cream Soda|Soda|1|packet|Gelatin|Other|1|can|Whipped Cream|Cream|.25|tsp|Gold Flakes|Other
