@@ -322,3 +322,27 @@ Army of Darkness|Movie|Army of Darkness|F|In a tall glass with ice add all ingre
 2|oz|VO Whiskey|Whiskey|1|oz|Amaretto|Liqueur|.5|oz|Bacardi 151|Rum|.5|oz|Dark Rum|Rum|1|splash|Grenadine|Mixer|1|bottle|Orange Juice|Juice
 Dean's Sacrifice|TV|Supernatural|F|Add all ingredients except the Sprite to a mixing glass with ice and stir well.|Strain into a lowball glass over ice and top with the Sprite.
 .5|oz|Jaegermeister|Liqueur|.5|oz|Jim Beam Ghost|Whiskey|1|oz|Jim Beam Devil's Cut|Whiskey|1|oz|Jack Daniel's Tennessee Fire|Whiskey|1|oz|Raspberry Schnapps|Schnapps|1|bottle|Sprite|Soda
+Metroid|Video Game|Metroid|F|Shake the two rums and Kiwi Strawberry Minute Maid and pour into a lowball glass.|Add the Sprite for a bit of flavor and carbonation.|Drop in three strawberries as a garnish.
+.75|oz|Bacardi Big Apple Rum|Rum|.75|oz|Coconut Rum|Rum|3|oz|Kiwi Strawberry Minute Maid|Juice|1|bottle|Sprite|Soda|3|each|Strawberries|Fruit
+Chun-Li Iced Tea|Video Game|Street Fighter|F|Mix the first three ingredients and pour over ice, in a highball glass.|Fill with Elderflower Presse
+25|ml|Jasmine Tea infused Vodka|Vodka|25|ml|Lychee Liqueur|Liqueur|1|splash|Blue Curacao|Liqueur|1|can|Elderflower Presse|Sparkling Water
+Jasmine Tea Infused Vodka|Recipe|Chun-Li Iced Tea|T|Combine vodka and jasmine pearl tea in a jar.|Close jar and let the mixture sit for 2-3 hours, shaking every so often.|Strain infused vodka into a large measuring cup fitted with a fine mesh strainer.|Transfer strained infused vodka to clean bottles.|The infusion should last indefinitely if strained well.
+750|ml|Vodka|Vodka|3|tbsp|Jasmine Pearl Tea|Tea
+Cave Johnson's Combustible Lemonade|Video Game|Portal|F|Soak your lemon slice in Everclear.|While the lemon is absorbing all the alcohol, combine the lemonade and limoncello in a tall glass.|Float a tablespoon of the grain alcohol or 151-proof rum on top of your lemonade and place the alcohol-soaked slice on the rim of the glass.|Ignite.|Extinguish and enjoy!
+10|oz|Lemonade|Juice|2|oz|Limoncello|Liqueur|1|tbsp|Everclear|Grain alcohol|1|each|Lemon Slice|Fruit
+The Manny Calavera|Video Game|Grim Fandango|F|Pour the ice, rum, coconut cream, and tres leches liqueur into your blender.|Blend until it's nice and creamy.|While blending, paint your face into the hurricane glass.|Carefully pour the daiquiri into the hurricane glass so as not to smudge the chocolate.|
+2|oz|Crystal Rum|Rum|2|oz|Tres Leche Liqueur|Liqueur|.5|cup|Coconut Cream|Cream|1|cup|Ice|Ice|1|bottle|Chocolate Syrup|Syrup
+Mom's Old Fashioned Robot Oil|Cartoon|Futurama|F|Pour dark beer into a clean tin can.|Pour a shot of Jager, and dunk it into the can.|
+12|oz|Dark Beer|Beer|1|oz|Jaegermeister
+The Poison Ivy|Comic Book|Batman|F|Finely chop 7 mint leaves and 2 slices of kiwi and set in your glass.|Add the sugar and muddle the ingredients until the sugar is dissolved and the kiwi is smashed up.|Add the rum and ice, and top with soda water.|Garnish with mint and kiwi.
+2|oz|Crystal Rum|Rum|8|each|Mint Leaves|Mint|3|each|Kiwi Slices|Fruit|1|tsp|Sugar|1|bottle|Soda Water|Soda|1|cup|Ice|Ice
+Dirt Block|Video Game|Minecraft|F|Mix ingredients in a rocks glass over crushed ice.|Premade chocolate milk is fine, or you can be fancy and make your own with milk and chocolate syrup.|Sprinkle the top with Oreo or other chocolate cookie crumbs.
+1.5|oz|French Vanilla Kahlua|Liqueur|1.5|oz|Amaretto|Liqueur|3|oz|Chocolate Milk|Milk|1|tbsp|Oreo Cookie Crumbs|Other
+Flicky w/Chirp Shots|Video Game|Flicky|F|Flicky|Mix the Blue Curacao and Bacardi Razz, shake with ice and pour into a glass.|Top it off with the Fanta Lemon.|Chirp Shot|Mix the ingredients together and shake it with ice, then pour into a shot glass.
+1.5|oz|Blue Curacao|Liqueur|1.5|oz|Bacardi Razz|Rum|3|oz|Fanta Lemon|Soda|1|oz|Midori|Liqueur|.5|oz|Pineapple Juice|Juice
+Jade|Video Game|Beyond Good & Evil|F|Mix Apple Sourz with the Cointreu, shake with ice.|Pour into a tall glass and top it off with Sprite.
+1.5|oz|Apple Sourz|Liqueur|1.5|oz|Cointreau|Liqueur|3|oz|Sprite|Soda
+Chocobo|Video Game|Final Fantasy|F|Pour together, shake it and add a slice of lemon on top.
+2|oz|Rose's Lime Juice Cordial|Liqueur|2|oz|Pineapple Liqueur|Liqueur|
+Vampire's Kiss|Video Game|Castlevania|F|Stir the ingredients together and pour into a small wine glass.
+4|oz|Red Wine|Wine|4|oz|Passion Fruit Liqueur|Liqueur
