@@ -145,7 +145,7 @@ Frankenstein's Monster|Movie|Frankenstein|F|Muddle orange in shaker.|Add Lemonad
 The Bloody Chainsaw|Movie|Texas Chainsaw Massacre|F|Add whiskey, moonshine, and apple cider to a cocktail shaker with ice.|Strain into glass over ice.|Rim with bacon bits.
 1|oz|Maple Whiskey|Whiskey|1|oz|Moonshine|Moonshine|4|oz|Apple Cider|Juice|2|tbsp|Bacon Bits|Other
 Ecto Cooler|Movie|Ghostbusters|F|Add ingredients to a cocktail shaker and shake.|Strain over ice in a pint glass.
-6|oz|Orange Tangerine Juicy Juice|Juice|2|oz|Lemonade|3|oz|Clementine Vodka|Vodka|.5|tsp|Blue Curacao|Liqueur
+6|oz|Orange Tangerine Juicy Juice|Juice|2|oz|Lemonade|Lemonade|3|oz|Clementine Vodka|Vodka|.5|tsp|Blue Curacao|Liqueur
 The Mummy|Movie|The Mummy|F|Place dry ice into a Irish coffee mug.|Gently pour the hibiscus tea over the dry ice.|Add the alcoholic ingredients and stir with a cinnamon stick.|Disclaimer: Always be careful when messing around with dry ice and drinks.
 2|oz|Devil's Cut|Whiskey|1|oz|Honey Whiskey|Whiskey|6|oz|Hibiscus Tea|Tea|.5|oz|Dry Ice|Other|1|stick|Cinnamon|Cinnamon
 Camp Crystal Lake|Movie|Friday the 13th|F|Fill a shot glass with half vodka and half Rumchata.|Cap the shot glass with a rocks glass and flip it over so the shot glass is upside down inside of the rocks glass.|Pour around the upside down shot glass with blue raspberry mix.|To drink, pop the shot glass up to let the Rumchata and vodka mix out.
@@ -195,7 +195,7 @@ House Baratheon|TV|Game of Thrones|F|Add all ingredients to shot glass.|Enjoy.
 Walker's Blood|TV|The Walking Dead|F|Mix first two ingredients in a highball glass.|Fill remainded with Coca-Cola.|Add splash of grenadine.
 1|oz|Bourbon|Bourbon|1|oz|Blackberry Brandy|Brandy|1|bottle|Coca-Cola|Soda|1|splash|Grenadine|Mixer
 The Reichenbach Fall|TV|Sherlock|F|Mix all ingredients in glass of choice.
-1|oz|London Dry Gin|Gin|2|oz|Dry Sherry|Sherry|3|oz|Lemonade|Juice|1|splash|stirrings Blood Orange Bitters|Bitters
+1|oz|London Dry Gin|Gin|2|oz|Dry Sherry|Sherry|3|oz|Lemonade|Lemonade|1|splash|stirrings Blood Orange Bitters|Bitters
 Slayer's Blood|TV|Buffy the Vampire Slayer|F|Mix whiskey and schnapps into a shot glass.|Pour in grenadine slowly and watch it sink to the bottom.
 1|oz|White Whiskey|Whiskey|.5|oz|Peach Schnapps|Schnapps|1|dash|Grenadine|Mixer
 Blue Sky|TV|Breaking Bad|F|Pour alcohol over ice in a tall glass.|Fill wth Sprite.|Slowly stir and serve.
@@ -329,7 +329,7 @@ Chun-Li Iced Tea|Video Game|Street Fighter|F|Mix the first three ingredients and
 Jasmine Tea Infused Vodka|Recipe|Chun-Li Iced Tea|T|Combine vodka and jasmine pearl tea in a jar.|Close jar and let the mixture sit for 2-3 hours, shaking every so often.|Strain infused vodka into a large measuring cup fitted with a fine mesh strainer.|Transfer strained infused vodka to clean bottles.|The infusion should last indefinitely if strained well.
 750|ml|Vodka|Vodka|3|tbsp|Jasmine Pearl Tea|Tea
 Cave Johnson's Combustible Lemonade|Video Game|Portal|F|Soak your lemon slice in Everclear.|While the lemon is absorbing all the alcohol, combine the lemonade and limoncello in a tall glass.|Float a tablespoon of the grain alcohol or 151-proof rum on top of your lemonade and place the alcohol-soaked slice on the rim of the glass.|Ignite.|Extinguish and enjoy!
-10|oz|Lemonade|Juice|2|oz|Limoncello|Liqueur|1|tbsp|Everclear|Grain alcohol|1|each|Lemon Slice|Fruit
+10|oz|Lemonade|Lemonade|2|oz|Limoncello|Liqueur|1|tbsp|Everclear|Grain alcohol|1|each|Lemon Slice|Fruit
 The Manny Calavera|Video Game|Grim Fandango|F|Pour the ice, rum, coconut cream, and tres leches liqueur into your blender.|Blend until it's nice and creamy.|While blending, paint your face into the hurricane glass.|Carefully pour the daiquiri into the hurricane glass so as not to smudge the chocolate.|
 2|oz|Crystal Rum|Rum|2|oz|Tres Leche Liqueur|Liqueur|.5|cup|Coconut Cream|Cream|1|cup|Ice|Ice|1|bottle|Chocolate Syrup|Syrup
 Mom's Old Fashioned Robot Oil|Cartoon|Futurama|F|Pour dark beer into a clean tin can.|Pour a shot of Jager, and dunk it into the can.|
@@ -346,3 +346,37 @@ Chocobo|Video Game|Final Fantasy|F|Pour together, shake it and add a slice of le
 2|oz|Rose's Lime Juice Cordial|Liqueur|2|oz|Pineapple Liqueur|Liqueur|
 Vampire's Kiss|Video Game|Castlevania|F|Stir the ingredients together and pour into a small wine glass.
 4|oz|Red Wine|Wine|4|oz|Passion Fruit Liqueur|Liqueur
+Tesseract|Movie|Avengers|T|In a large glass add your Coconut water, and Sprite.|Stir to combine.|Fill your separate glass with ice. Set to the side.|Now add your Kool Aid liquid drops, mint syrup, and silver shimmer to your coconut water mix.|Stir to combine. Pour your liquid mix into the glass. Garnish with a mint sprig
+4|drops|Kool Aid Blue Raspberry Liquid|Flavoring|3|oz|Coconut Water|Other|4|oz|Sprite|Soda|1|drop|Mint Extract|Other|.5|cup|Ice|Ice|1|tsp|Silver cake shimmer dust|Other
+Thor|Comic Book|Thor|T|In a blender, crush up one cup of ice.|Fill a 6-8 oz glass with crushed ice|Add in (in this order) 1 tablespoon of blue curacao syrup, 2 ounces of Gatorade Cool Blue, 2 ounces of Sprite, and top with a splash of Sparkling Ice Cherry Limeade.|Add a little more crushed ice to the top along with a Mjolnir hammer ice cube.|Drizzle a little blue curacao syrup across the Mjolnir hammer ice cube.|Serve.
+2|oz|Sprite|Soda|2|oz|Gatorade Cool Blue|Gatorade|1|tbsp|Blue Curacao Syrup|Syrup|1|splash|Sparkling Ice Cherry Limeade|Sparkling Water|1|cup|Ice|Ice
+Gamora|Comic Books|Guardians of the Galaxy|T|Fill a cup with crushed ice.In a cocktail shaker, add all of the ingredients- sprite, pineapple juice, blue raspberry juice, and green apple syrup.|Strain into the cup filled with crushed ice.|Garnish with pineapple chunks.
+2|oz|Sprite|Soda|2|oz|Pineapple Juice|Juice|1|oz|Blue Raspberry Juice|Juice|1|oz|Green Apple Syrup|Syrup|3|each|Pineapple chunks|Fruit|1|cup|Crushed Ice|Ice
+Far from Home|Movie|Spider-man|T|Fill glass with pebble ice, then add three ounces of Hawaiian Punch Berry Blue Typhoon and two ounces of fresh lemon juice into the glass filled with ice.|Place the glasses in the freezer for 15-20 minutes.|Add three ounces of Cran-Cherry juice.|Serve with a straw.
+2|tbsp|Lemon Juice|Juice|3|oz|Cran-Cherry Juice|Juice|3|oz|Hawaiian Punch Berry Blue Typhoon|Juice|4|oz|Pebble Ice|Ice
+Captain Marvel's Star|Comic Book|Captain Marvel|F|Into a cocktail tin, add lots of ice, blue raspberry vodka, strawberry syrup, and aromatic tonic water.|Mix blue curacao and tequila in shaker.|Strain into coup glass.|Using a long-handled bar spoon, stir the ingredients vigorously for 30 seconds.|Next, place the bar spoon upside down and as close to the blue curacao and tequila mixture as possible then gently float the red vodka mixture on top of the blue mixture.|.Garnish each cocktail with a yellow or gold candy star threaded on a cocktail stick.
+2|oz|Blue Curacao|Liqueur|2.5|oz|Tequila|Tequila|2|oz|Blue Raspberry Vodka|Vodka|1.5|oz|Strawberry Simple Syrup|4|oz|Aromatic Tonic Water|6|oz|Ice|Ice|1|Yellow or Gold Star-shaped Gummy|Candy
+The Heart Shapped Cocktail|Movies|Black Panther|F|Into a bar mixing glass add coconut rum, pineapple rum, lavender, Crème de violette, and black currant syrup.|Mix very well using a long-handled bar spoon.|Strain in a rocks glass over a single large cube of ice.|Garnish with edible purple flowers.|Serve.
+1|oz|Don Q Coconut Rum|Rum|1|oz|Malibu Pineapple Rum|Rum|1|oz|Lavender Syrup|Syrup|1|oz|Creme de violette|Liqueur|.5|oz|Black Currant Syrup|Syrup
+Vibranium|Movies|Black Panther|F|In a cocktail glass, add several ice cubes, add Hynotiq, strawberry Italian Soda, mango rum, Grand Marnier liqueur, and Curaçao liqueur.|Stir vigorously with a long-handled bar spoon and strain into a standard rocks glass filled with chisled ice.|Garnish with fresh strawberries and an orange slice.|Serve.
+2|oz|Hypnotiq|Liqueur|2|oz|Strawberry Italian Soda|Soda|1|oz|Mango Rum|Rum|1|oz|Grand Marnier|Liqueur|1|tbsp|Blue Curacao|Liqueur|1|each|Strawberry|Fruit|1|each|Orange Slice|Fruit|1|cup|Ice|Ice
+Hey Auntie|Movie|Black Panther|F|Into a cocktail shaker add ice, Hennessey, Don Q Coconut rum, red velvet syrup, and Calypso Black Cherry Lemonade.|Secure the cocktail shaker lid and shake vigorously for 30 seconds.|Fill a standard rocks glass with cracked ice, strain the cocktail into the serving glass.|Garnish with two stemmed Maraschino cherries.|Serve.
+1.25|oz|Hennessey|Cognac|1|oz|Don Q Coconut Rum|Rum|1|oz|Torani Red Velvet Cake Syrup|Syrup|3.5|oz|Calypso Black Cherry Lemonade|Lemonade|2|each|Maraschino Cherries|Fruit|1|cup|Ice|Ice
+The Chiling Mist|Movie|Black Panther|F|Into a shooter glass, add chilled sorrel infused simple syrup and pineapple juice,.|ver the back of a bar-spoon float the chilled Blavod black vodka over the sorrel and pineapple infusion.|Add a rolled sorrel leaf and a wedge of fresh-cut pineapple.|Serve.
+1|oz|Blavod Black Vodka|Vodka|1|oz|Sorrel Infused Simple Syrup|Syrup|3|oz|Pineapple Juice|Juice|1|each|Pineapple Wedge|Fruit|1|each|Sorrel Leaf|Other
+Eddie's Boozy Bourbon Eggnog|Movie|National Lampoon's Christmas Vacation|F|Add all of the ingredients into a Mason-style jar and screw on the lid tight, shake until the ice cream melts and pour into a serving glass.|Sprinkle a bit of nutmeg on top and serve.
+1|oz|Bourbon Whiskey|Whiskey|.5|oz|Golden Rum|Rum|.25|tsp|Pure Vanilla Extract|Other|1|pinch|Nutmeg|Other|1|pinch|Cinnamon|Other|2.25|cups|Chocolate Ice Cream|Ice Cream
+The Heimdall|Movie|Thor|F|In a  bar-glass filled with crushed ice add bourbon whiskey, ginger mead, two dashed lemon bitters, and a splash of ginger beer.|Using a long-handled bar spoon stir cocktail vigorously for 45 seconds.|Strained into a standard rocks glass filled with fresh crushed ice.|Garnish with sliced apple wedges and a fresh sprig of thyme.|Serve.
+1|oz|Bourbon Whiskey|Whiskey|1|oz|Lemon Drop Syrup|Syrup|2|oz|Ginger Mead|Mead|1|dash|Angostura Bitters|Bitters|1|each|Sliced Apple Wedge|Fruit|1|sprig|Fresh Thyme|Herb
+Loki Vodka Martini|Movie|Thor|F|Into a cocktail shaker, add Skyy Infusions Honeycrisp Apple, Cran-Apple Juice, and fresh lemon juice.|Add lots of ice, secure the lid on the cocktail tin, and shake vigorously for 30 seconds.|Strain into a Martini glass and garnish with slices of lemon and  Honeycrisp apple.|Serve.
+2|oz|Skyy Infusions Honeycrisp Apple|Vodka|1.5|oz|Cran-Apple Juice|Juice|.5|oz|Fresh Lemon Juice|Juice|1|each|Lemon Slice|Fruit|1|each|Honeycrisp Apple Slice|Fruit
+The Valkyrie|Movie|Thor|F|Into a bar glass add the mint simple syrup, Grey Goose Vodka, and Blue Island Schnapps.|Fill the mixing glass with ice and stir vigorously with a long-handled bar spoon for about 40 seconds.|Strain into a standard rocks glass, add a large block ice cube and garnish with apple slices and a sprig of fresh mint.|Serve.
+.5|oz|Mint Simple Syrup|Syrup|1.5|oz|Grey Goose Vodka|Vodka|2.5|oz|Blue Island Schnapps|Schnapps|4|each|Gala Apple Slices|Fruit|1|sprig|Fresh Mint|Herb|1|each|Large Ice Cube|Cube
+The Hulk|Movie|Hulk|T|Fill a large glass with ice.|In a separate glass add sprite and 1 drop of food coloring mix well.|In glass #2 add 1/4 cup of Pina colada mix and 1 drop of purple food coloring.|Pour sprite mixture into the glass filled with ice ONLY; fill 2/3 of the way full.|Now add the Pina Colada mixture pouring it down the side of the glass. It will work its way to the bottom since it’s a heavier liquid than sprite.|OPTIONAL: Add splash of rum, vodka or tequila
+1|can|Sprite|Soda|1|drop|Neon Gren Food Coloring|Dye|.25|oz|Pina Colada Mix|Mixer|1|drop|Neon Purple Food Coloring|Dye
+Pirates of the Caribbean Lemon-Rum Mango Slush|Movie|Pirates of the Caribbean|F|Into the pitcher of a blender add ice, mango slices, roasted coconut flavored simple syrup, lemon juice, and pulse until smooth.|Fill each cup half way with ice, and add 1 1/2 ounces of Tonic Water.|Top off each cup with Caribbean Lemon-Rum Mango Slush.|Add sprigs of fresh mint.
+4|oz|Malibu Mango Rum|Rum|2|oz|Roasted Coconut Simple Syrup|Syrup|2|each|Mango Slices|Fruit|1.5|oz|Tonic Water|Tonic Water|.5|each|Lemon|Fruit|2.5|cups|Ice|Ice|2|sprigs|Mint|Herb
+The Cosmos|Movie|Guardians of the Galaxy|F|
+1.5|oz|Moonshine|Moonshine|.5|oz|Blue Curacao|Liqueur|.75|oz|Creme de violette|Liqueur|4|oz|Tonic Water|Tonic Water|6|each|Star Shaped Candy|Candy|.5|cup|Crushed Ice|Ice
+Frozen Hot Cocoa|Movie|Frozen|T|Add all ingredients to your blender and blend well for about one minute.|Pour into two mugs, top with whipped cream and garnish with light blue sprinkles.
+1.5|cups|Cold Milk|Milk|.25|cup|Hot Chocolate Powder|Chocolate|3|cups|Ice|Ice|1|can|Whipped Cream|Cream|.5|tsp|Light Blue Sprinkles|Sprinkles
