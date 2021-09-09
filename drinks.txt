@@ -322,8 +322,8 @@ Army of Darkness|Movie|Army of Darkness|F|In a tall glass with ice add all ingre
 2|oz|VO Whiskey|Whiskey|1|oz|Amaretto|Liqueur|.5|oz|Bacardi 151|Rum|.5|oz|Dark Rum|Rum|1|splash|Grenadine|Mixer|1|bottle|Orange Juice|Juice
 Dean's Sacrifice|TV|Supernatural|F|Add all ingredients except the Sprite to a mixing glass with ice and stir well.|Strain into a lowball glass over ice and top with the Sprite.
 .5|oz|Jaegermeister|Liqueur|.5|oz|Jim Beam Ghost|Whiskey|1|oz|Jim Beam Devil's Cut|Whiskey|1|oz|Jack Daniel's Tennessee Fire|Whiskey|1|oz|Raspberry Schnapps|Schnapps|1|bottle|Sprite|Soda
-Metroid|Video Game|Metroid|F|Shake the two rums and Kiwi Strawberry Minute Maid and pour into a lowball glass.|Add the Sprite for a bit of flavor and carbonation.|Drop in three strawberries as a garnish.
-.75|oz|Bacardi Big Apple Rum|Rum|.75|oz|Coconut Rum|Rum|3|oz|Kiwi Strawberry Minute Maid|Juice|1|bottle|Sprite|Soda|3|each|Strawberries|Fruit
+Metroid|Video Game|Metdroid|F|Shake the two rums and Kiwi Strawberry Minute Maid and pour into a lowball glass.|Add the Sprite for a bit of flavor and carbonation.|Drop in three strawberries as a garnish.
+.75|oz|Bacardi Big Apple Rum|Rum|.75|oz|Coconut Rum|Rum|1|bottle|Sprite|Soda|3|each|Strawberries|Fruit
 Chun-Li Iced Tea|Video Game|Street Fighter|F|Mix the first three ingredients and pour over ice, in a highball glass.|Fill with Elderflower Presse
 25|ml|Jasmine Tea infused Vodka|Vodka|25|ml|Lychee Liqueur|Liqueur|1|splash|Blue Curacao|Liqueur|1|can|Elderflower Presse|Sparkling Water
 Jasmine Tea Infused Vodka|Recipe|Chun-Li Iced Tea|T|Combine vodka and jasmine pearl tea in a jar.|Close jar and let the mixture sit for 2-3 hours, shaking every so often.|Strain infused vodka into a large measuring cup fitted with a fine mesh strainer.|Transfer strained infused vodka to clean bottles.|The infusion should last indefinitely if strained well.
