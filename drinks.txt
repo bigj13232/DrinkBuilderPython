@@ -386,3 +386,27 @@ The Capsicle|Comic Book|Captain America|F|Dip your glass in the simple syrup the
 1|tbsp|Red Sprinkles|Sprinkles|1|tbsp|Blue Sprinkles|Sprinkles|.25|cup|Simple Syrup|Syrup|1|can|Whipped Cream|Cream|1|oz|Citron Vodka|Vodka|1|cup|Water|Water|.25|cup|Sweetened Blue Raspberry Lemonade Kool-aid|Kool-aid|4|cups|Ice|Ice|1|oz|Coconut Rum|Rum|.5|oz|Coconut Syrup|Syrup
 Simba's Sunrise Punch|Movie|Lion King|T|Layer liquids in order into cup according to taste.|Top with toothpick with cherry and grape.
 1|oz|Grenadine|Mixer|2|oz|Orange Juice|Juice|2|oz|Pineapple Juice|Juice|2|oz|Club Soda|Soda|1|each|Cherry|Fruit|1|each|Grape|Fruit
+White Walker|TV|Game of Thrones|F|Fill a tall glass with ice.|Pour white chocolate liqueur halfway up the glass.|Fill the rest of the glass up with vanilla cream soda.|Slowly and gently pour a spoonful of blue curaçao over the top.
+8|oz|Ice|Ice|4|oz|White Chocolate Liqueur|Liqueur|4|oz|Vanila Cream Soda|Soda|1|splash|Blue Curacao|Liqueur
+Lady Sansa Stark|TV|Game of Thrones|F|Place a scoopful of ice in a cocktail shaker (or in a large glass).|Pour all the ingredients into a shaker and shake (or into a glass and stir).|Pour into a coupe or martini glass and garnish with a slice of starfruit.
+1|oz|Rose Vodka|Vodka|.25|oz|Saffron Liquid|Other|1.5|Sweet Vermouth|Vermouth|1.5|oz|Simple Syrup|3|tbsp|Orange Juice|Juice
+Kingslayer|TV|Game of Thrones|F|Pour some ice into a short glass.|Add all the ingredients and stir.|Garnish by dropping a thin lemon slice into the glass, it should float.
+1|oz|Bourbon|Bourbon|1|oz|Goldschlager|Liqueur|1.5|oz|Grand Marnier|Liqueur|1.5|tbsp|Lemon Juice|Juice
+Red Priestess|TV|Game of Thrones|F|In a wine glass add a few cubes of ice and some of the berries.Add all the other ingredients and stir.
+1|oz|Chambord|Liqueur|1|oz|Pimms #1|Gin|1|oz|Sweet Vermouth|Vermouth|3|oz|Pomegranate Juice|Juice|.25|oz|Grenadine|Mixer|1.5|tbsp|Lime Juice|Juice|6|each|Mixed Berries(Blackberries, Raspberries, Blueberries)|Fruit
+Rose Infused Vodka|Recipe|Lady Sansa Stark|F|Add rose petals to a large mason jar.|Fill with a good vodka.|Infuse overnight.|You are looking for it to smell like roses, have a slight floral taste and nice rose colored hue.
+1|cup|Rose Petals|Other|16|oz|Vodka|Vodka
+The Imp|TV|Game of Thrones|F|Rub a lemon onto the rim of a shot glass.|Dip the shot glass into some sugar to create a sugar-rim.|In a separate glass, add all the ingredients and stir.|Pour the mixture into the shot glass.
+1.5|oz|Vodka|Vodka|.25|oz|Fresh Lemon Juice|Juice|.25|oz|Lemongrass Syrup|Syrup|1|tbsp|Sugar|Sugar
+Lemongrass Syrup|Recipe|The Imp|T|Peel the outer leaves of the lemongrass and rinse throughly.|Cut stalks to fit your pot and crush them slightly.|Add water and sugar to pot.|Heat on medium/high until sugar dissolves and the syrup begins to simmer.|Turn off the heat and allow to syrup to cool in the pot on the stovetop.|Strain into an airtight container.|OPTIONAL: For a sweeter syrup, use a 1:1 ratio of water to sugar.
+6|each|Lemongrass stalks|Other|4|cups|Water|Water|2|cups|Sugar|Sugar
+Needle|TV|Game of Thrones|F|Pour all the ingredients into a shot glass.
+1|oz|Vodka|Vodka|.5|oz|Ginger Beer|Soda|1|tbsp|Fresh Lime Juice|Juice
+Crow|TV|Game of Thrones|F|Pour ice into a tall glass and add the blackberries.|Pour the Chambord over the ice.|Top it off with Guinness.
+1.5|oz|Chambord|Liqueur|1|can|Guinness|Beer|3|each|Blackberries|Fruit|
+Mother of Dragons|TV|Game of Thrones|F|Scoop the balls of dragon fruit out using a 1/2 tsp spoon and place them in a champagne flute.|Top with the Rosé.
+3|each|Balls of Dragonfruit|Fruit|1|bottle|Rosé Champagne|Champagne
+Littlefinger|TV|Game of Thrones|F|Pour all the chilled ingredients into a cordial glass.|Drop the small orange slice into the glass for garnish.
+1|oz|Tequila|Tequila|1|oz|Fresh Orange Juice|Juice|1|each|Quarter Slice of Orange|Fruit
+Valar Morghulis|TV|Game of Thrones|F|Fill a tall glass with ice.|Add the tequila, grenadine, blue curaçao and lime juice.|Top off with club soda and add the fruits for garnish.|Stir everything together.
+1.5|oz|Tequila|Tequila|1|oz|Grenadine|Mixer|.5|oz|Blue Curaçao|Liqueur|2|tbsp|Fresh Lime Juice|Juice|1|bottle|Club Soda|Soda|1|each|Slice of Lime and Orange|Fruit|3|each|Blueberries|Fruit
