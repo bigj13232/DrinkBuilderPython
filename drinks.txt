@@ -410,3 +410,9 @@ Littlefinger|TV|Game of Thrones|F|Pour all the chilled ingredients into a cordia
 1|oz|Tequila|Tequila|1|oz|Fresh Orange Juice|Juice|1|each|Quarter Slice of Orange|Fruit
 Valar Morghulis|TV|Game of Thrones|F|Fill a tall glass with ice.|Add the tequila, grenadine, blue curaçao and lime juice.|Top off with club soda and add the fruits for garnish.|Stir everything together.
 1.5|oz|Tequila|Tequila|1|oz|Grenadine|Mixer|.5|oz|Blue Curaçao|Liqueur|2|tbsp|Fresh Lime Juice|Juice|1|bottle|Club Soda|Soda|1|each|Slice of Lime and Orange|Fruit|3|each|Blueberries|Fruit
+Superman|Comic Book|Superman|F|Pour vodka, tequila, rum, gin, blue curacao, and sweet & sour mix into a chilled glass with ice.|Pour 7-up over the whole thing.|Add a floater of the cranberry liqueur.|Garnish with a lemon wedge and cherry.
+1|oz|Vodka|Vodka|1|oz|Tequila|Tequila|1|oz|Rum|Rum|1|oz|Gin|Gin|1|oz|Blue Curacao|Liqueur|2|oz|Sweet and Sour Mix|Mixer|.5|oz|Cranberry Liqueur|Liqueur|2|oz|7-Up|Soda|1|each|Lemon Wedge|Fruit|1|each|Cherry|Fruit
+The Flash|Comic Book|The Flash|F|Grab a martini glass and mix in vodka of your choice, grenadine, and a shot of Rockstar.|Put the lemon in the freezer beforehand to make it easier to work with, slice into a lightning bolt, and affix to the side of the glass.
+2|oz|Vodka|Vodka|2|oz|Grenadine|Mixer|1.5|Rock Star|Energy Drink|1|each|Lemon|Fruit
+The Green Lantern|Comic Book|Green Lantern|F|Grab a glass of your choice.|Mix in vanilla rum, Midori, and 7-up to taste.|OPTIONAL: Add in a green glowing ice cube for that extra Lantern Corps effect.
+1|oz|Midori|Liqueur|2|oz|Vanilla Vodka|Vodka|1|bottle|7-up|Soda
