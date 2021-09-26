@@ -418,3 +418,7 @@ The Green Lantern|Comic Book|Green Lantern|F|Grab a glass of your choice.|Mix in
 1|oz|Midori|Liqueur|2|oz|Vanilla Vodka|Vodka|1|bottle|7-up|Soda
 The Aquaman|Comic Book|Aquaman|F|Dice up the lime and half of the mint leaves, mix in the bottom of the glass.|Top with some raw sugar.|Fill with ice and pour coconut rum, orange juice, and soda water.|Add the other half of mint leaves and stir.|Garnish with an orange slice.
 1|tbsp|Sugar|Sugar|1|tbsp|Mint Leaves|Herb|1|each|Lime|Fruit|1|each|Orange|Fruit|2|oz|Orange Juice|Juice|2|oz|Coconut Rum|Rum|2|oz|Soda Water|Soda
+The Wonder Woman|Comic Book|Wonder Woman|F|Mix berry vodka, cranberry juice, and grenadine in a shaker and add to the glass of your choosing.|Pour Blue Curacao down the side so it settles on the bottom and garnish with a lasso-cut bit of lemon peel.
+3|oz|Three-O Berry Vodka|Vodka|1|oz|Cranberry Juice|Juice|1.5|oz|Grenadine|Mixer|1|oz|Blue Curacao|Liqueur|1|each|Lemon|Fruit
+The Martian Manhunter|Comic Book|Martian Manhunter|F|Mix Midori, whiskey sour mix, and 7-Up in a glass of your choice.|Add a cherry to garnish.
+1|oz|Midori|Liqueur|1|oz|Whiskey Sour Mix|Mixer|2|oz|7-up|Soda|1|each|Cherry|Fruit
