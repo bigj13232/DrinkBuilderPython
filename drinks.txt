@@ -422,3 +422,41 @@ The Wonder Woman|Comic Book|Wonder Woman|F|Mix berry vodka, cranberry juice, and
 3|oz|Three-O Berry Vodka|Vodka|1|oz|Cranberry Juice|Juice|1.5|oz|Grenadine|Mixer|1|oz|Blue Curacao|Liqueur|1|each|Lemon|Fruit
 The Martian Manhunter|Comic Book|Martian Manhunter|F|Mix Midori, whiskey sour mix, and 7-Up in a glass of your choice.|Add a cherry to garnish.
 1|oz|Midori|Liqueur|1|oz|Whiskey Sour Mix|Mixer|2|oz|7-up|Soda|1|each|Cherry|Fruit
+Death Star|Movie|Star Wars|F|Place all ingredients into a glass with a Death Star ice sphere in it.|Stir to mix ingredients.
+1|oz|Jagermeister|Liqueur|1|oz|Triple Sec|Liqueur|1|oz|Vodka|Vodka|1|oz|Whiskey|Whiskey|2|oz|Sweet and Sour Mix|Mixer|2|oz|Cola|Soda
+Sarah|Movie|Hocus Pocus|F|Pour a little bit of Chambord into the bottom of a champagne glass.|Fill the glass with champagne.|Top with a few Pop Rocks.
+.5|oz|Chambord|Liqueur|1|bottle|Champagne|Champagne|1|pouch|Strawberry Pop Rocks|Candy
+Winifred|Movie|Hocus Pocus|F|Heat one cup of water on the stove until boiling.|Add in the Jello mix and mix until fully dissolved.|Add in 1 cup of Cinnamon Whiskey and a couple ice cubes, mix.|Pour into Jello shot containers and let chill in the fridge for four hours.
+1|pouch|Jolly Rancher Green Apple Jello|Jello|1|cup|Water|Water|8|oz|Cinnamon Whiskey|Whiskey
+Mary|Movie|Hocus Pocus|F|Mix together in a large pitcher with ice and pour into individual cups.
+1|oz|Raspberry Vodka|Vodka|2|oz|Pomegranate Juice|Juice|2|oz|Cranberry Sprite|Soda
+The Light Cycle|Movie|Tron|F|Combine sake, lime juice, blue caruso, agave nectar and ice in a shaker and mix until cold.|Pour into old-fashioned glass.|Top with lemon lime soda, stir slightly and garnish with lime wedge.
+1|oz|Jumai Sake|Sake|1.5|oz|Fresh Squeezed Lime Juice|Juice|1|oz|Blue Curacao|Liqueur|1|oz|Agave Nectar|Other|1|can|Lemon-Lime Soda|Soda|8|oz|Ice|Ice
+The Triforce|Video Game|The Legend of Zelda|F|Combine all ingredients in a shaker and mix until cold.|Pour into an old-fashioned glass and garnish with lime peel.
+1.5|oz|White Rum|Rum|1.5|oz|Simple Syrup|Syrup|.5|oz|Fresh Squeezed Lime Juice|Juice|8|oz|Mango Juice|Juice|8|oz|Ice|Ice
+Crystal Tokyo|Anime|Sailor Moon|F|Combine cranberry, lemon juice, and ice in a shaker and shake until cold.Drop two raspberries into each chilled champagne flute and strain mixture into glass.|Fill with sparkling wine (serves two.)|Eat wine infused raspberries when you finish the beverage.
+2|oz|Cranberry Juice|Juice|4|each|Raspberries|Fruit|1|splash|Lemon Juice|Juice|2|oz|Ice|Ice|1|bottle|Sparkling Wine|Wine
+Weeping Angel|TV|Doctor Who|F|Combine all ingredients in shaker and mix until cold.|Strain into chilled martini glass.
+1.5|oz|Sweet Vermouth|Vermouth|1|oz|Rum|Rum|1|splash|Aromatic Bitters|Bitters|8|oz|Sparkling Apple Cider|Cider|4|oz|Ice|Ice
+The House Cup|Book|Harry Potter|F|Fill beer mug ¾ with ice.|Fill mug 1/2 with sprite.|Add honey whiskey and top with beer.|Stir and sip.
+1.5|oz|Honey Whiskey|Whiskey|1|can|Sprite|Soda|1|bottle|Pumpkin Beer|Beer|2|oz|Ice|Ice
+Red Wedding|TV|Game of Thrones|F|Fill a highball glass three-quarters of the way with  ice and combine all ingredients.|Stir, sip, and enjoy.
+4|oz|Cranberry Juice|Juice|1.5|oz|Vodka|Vodka|1|splash|Aromatic Bitters|Bitters|3|drops|Red Food Dye|Dye|6|oz|Cherry Soda|Soda|1|cup|Ice|Ice
+Bantha Milk|Movie|Star Wars|F|Mix all ingredienrts in glass of choice.|Enjoy.
+3|oz|Milk|Milk|1|oz|Cream|Cream|1|oz|Coconut Rum|Rum|1|oz|Amaretto|Liqueur|2|oz|Blue Curacao|Liqueur
+Dagobah Swap Soda|Movie|Star Wars|F|Add half of mint leaves and sugar to glass of choice|Muddle.|Add remaining ingredients and stir.|Enjoy!
+2|oz|Rum|Rum|.5|oz|Peppermint Schnapps|Schnapps|.5|oz|Citron Vodka|Vodka|.5|each|Lime|Fruit|12|each|Mint Leaves|Herb|.5|glass|Ice|Ice|3|oz|Club Soda|Soda|2|tsp|Sugar|Sugar
+Dark Side Martini|Movie|Star Wars|F|Add black rum, crème de cacao, ice and 1 or 2 drops black food color to a martini shaker.|In small bowl, add brown sugar and 1 drop black food color. Mix with fork until all sugar is black. Wet rim of martini glass with water. Dip rim into sugar.|Strain martini into glass, and serve
+1.5|oz|Black Vodka|Vodka|.75|oz|Creme de cacao|Liqueur|1|cup|Ice|Ice|1|bottle|Black Food Coloring|Food Coloring|1|tbsp|Brown Sugar|Sugar
+Mustafar|Movie|Star Wars|F|Mix all ingredienrts in glass of choice.|Enjoy.
+.75|oz|Cinnamon Whiskey|Whiskey|.5|oz|Vodka|Vodka|1.5|oz|Cranberry Juice|Juice|1|splash|Orange Juice|Juice|1|splash|Irish Cream|Liqueur|3|drops|Red Food Coloring|Food Coloring
+Yoda|Movie|Star Wars|F|Pour all in a shaker and shake till frosty.|Strain into a shot glass and enjoy.|OPTIONAL:  Pour into 6 shot glasses
+1|oz|Vodka|Vodka|1|oz|Midori|Liqueur|2|oz|Sour Apple Schnapps|Schnapps|1|oz|Blue Curacao|Liqueur|1|oz|Sour Mix|Mixer
+Jedi|Movie|Star Wars|F|Pour alcohol in a cocktail shaker with ice.|Shake vigorously.|strain into an old fashioned glass.|fill with sprite.|Add ice.
+1|oz|Pineapple Rum|Rum|1|oz|Coconut Rum|Rum|.5|oz|Blue Curacao|Liqueur|1|can|Sprite|Soda
+Sith|Movie|Star Wars|F|Pour alcohol in a cocktail shaker with ice.|Shake vigorously.|strain into an old fashioned glass.|fill with sprite.|Add ice.
+1|oz|Black Cherry Rum|Rum|1|oz|Cherry Pucker|Mixer|.5|oz|Grenadine|Mixer|.5|oz|Vanilla Rum|Rum|1|can|Sprite|Soda
+Han Solo|Movie|Star Wars|F|Mix together with crushed ice in a glass.
+1.5|oz|Coffee Liqueur|Liqueur|3|oz|Irish Cream|Liqueur|2.25|oz|Vodka|Vodka
+C3PO|Movie|Star Wars|F|Pour honey into a small jar or mixing bowl.|Pour in the boiling water and whisk vigorously until they form a thin syrup.|Whisk in the bourbon and lemon juice.|Mixture can be refrigerated until ready to serve.|To serve, shake vigorously with ice in a cocktail shaker. Strain over a big ice cube in 2 rocks glass.
+3|tbsp|Honey|Other|2|tbsp|Boiling Water|Water|4|oz|Bourbon|Bourbon|4|tbsp|Lemon Juice|Juice
