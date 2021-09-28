@@ -460,3 +460,27 @@ Han Solo|Movie|Star Wars|F|Mix together with crushed ice in a glass.
 1.5|oz|Coffee Liqueur|Liqueur|3|oz|Irish Cream|Liqueur|2.25|oz|Vodka|Vodka
 C3PO|Movie|Star Wars|F|Pour honey into a small jar or mixing bowl.|Pour in the boiling water and whisk vigorously until they form a thin syrup.|Whisk in the bourbon and lemon juice.|Mixture can be refrigerated until ready to serve.|To serve, shake vigorously with ice in a cocktail shaker. Strain over a big ice cube in 2 rocks glass.
 3|tbsp|Honey|Other|2|tbsp|Boiling Water|Water|4|oz|Bourbon|Bourbon|4|tbsp|Lemon Juice|Juice
+Obi-wan Kenobi|Movie|Star Wars|F|Combine all ingredients in glass of choice.|OPTIONAL: Serve in a test tube.
+2|oz|Blue Curacao|Liqueur|1|oz|Gin|Gin|3|oz|Blue Kool-Aid|Kool-Aid
+Millenium Falcon|Movie|Star Wars|F|Pour a shot of each.|Down faster than the Kessel run.
+1.5|oz|Cinnamon Schnapps|Schnapps|1.5|oz|Rum|Rum|1.5|oz|Jagermeister|Liqueur
+Yoda 2|Movie|Star Wars|F|Mix together with crushed ice in a glass.|Garnish with mint leaves
+2|parts|Apple Schnapps|Schnapps|1|part|Blue Curacao|Liqueur|2|oz|Ice|Ice|1|part|Midori|Liqueur|1|part|Sweet and Sour Mix|Mixer|1|splash|Vodka|Vodka
+Wookie-Ty-Ty|Movie|Star Wars|F|Combine all ingredients in glass of choice.
+3|oz|Vodka|Vodka|10|oz|Orange Soda|Soda|1|oz|Ice|Ice
+The Force|Movie|Star Wars|F|Mix together in a pitcher.
+3|part|Beer|Beer|1|part|Lemonade Concentrate|Lemonade|1|part|Vodka|Vodka
+Floating Yoda|Movie|Star Wars|F|Add the Vodka, Coffee Liquor, Milk and Ice to a pint glass.|Stir.|Add the Scoop of Chocolate Chip Mint Ice Cream.
+1|oz|Coffee Liqueur|Liqueur|1|scoop|Chocolate Chip Mint Ice Cream|Ice Cream|2|oz|Milk|Milk|2|oz|Citrus Vodka|Vodka|1|oz|Ice|Ice
+Find Yoda|Movie|Star Wars|F|Mix into shot glass.|Be one with the Force.
+1|oz|Sprite|Soda|.5|oz|Fresh Lemon Juice|Juice|1|oz|Cuervo Gold|Tequila
+Jedi Knight|Movie|Star Wars|F|Mix in a high ball glass w/ ice.|Feel the Force flow through you.
+3|oz|Orange Juice|Juice|1|oz|Southern Comfort|Liqueur|1|oz|Absinthe|Liqueur
+Death Star|Movie|Star Wars|F|Mix together with crushed ice in a glass.|Garnish with mint leaves.
+2|oz|Cola|Soda|1|oz|Jack Daniels|Whiskey|2|oz|Sweet and Sour Mix|Mixer|1|oz|Triple Sec|Liqueur|1|oz|Vodka|Vodka|1|oz|Jagermeister|Liqueur
+Chewbacca|Movie|Star Wars|F|Mix together with crushed ice in a glass.|Garnish with mint leaves.
+1|oz|Lemon Lime Soda|Soda|1|splash|Orange Juice|Juice|1|splash|Vanilla Vodka|Vodka|1|oz|Orange Soda|Soda|1|oz|Tuaca Citrus Liqueur|Liqueur
+Darth Vader|Movie|Star Wars|F|Fill cup with ice.|Put in half way of pepsi, add grenadine, then finish up with the rest of the pepsi.|Top it off with whip cream on top.
+12|oz|Pepsi|Soda|1|can|Whipped Cream|Cream|1|tsp|Grenadine|Mixer|8|oz|Ice|Ice
+Stormtrooper|Movie|Star Wars|F|Mix together with crushed ice in a glass.
+6|oz|Milk|Milk|2|oz|Coconut Rum|Rum|2|oz|Vodka|Vodka
