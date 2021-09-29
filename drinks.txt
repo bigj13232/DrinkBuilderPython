@@ -484,3 +484,11 @@ Darth Vader|Movie|Star Wars|F|Fill cup with ice.|Put in half way of pepsi, add g
 12|oz|Pepsi|Soda|1|can|Whipped Cream|Cream|1|tsp|Grenadine|Mixer|8|oz|Ice|Ice
 Stormtrooper|Movie|Star Wars|F|Mix together with crushed ice in a glass.
 6|oz|Milk|Milk|2|oz|Coconut Rum|Rum|2|oz|Vodka|Vodka
+Jedi Lightsaber|Movie|Star Wars|F|Pour rum, apple pucker, and sour mix into shaker glass, shake and pour into collins glass.|Fill with 7up or lemon lime soda.
+1|oz|Apple Schnapps|Schnapps|1|oz|Rum|Rum|1|oz|Sour Mix|Mixer|1|can|Sprite|Soda
+Wookie Juice|Movie|Star Wars|F|Fill a 20 ounces glass 1/4 full of ice.|Pour all ingredients in, mix, and drink.
+1|oz|Blue Curacao|Liqueur|13|oz|Pineapple Juice|Juice|1.5|oz|151 proof Rum|Rum|1.5|oz|Light Rum|Rum|1.5|oz|Mango Rum|Rum
+Stormtrooper Shot|Movie|Star Wars|F|Pour into shot glass.|Serve chilled.
+.75|oz|Peppermint Schnapps|Schnapps|.75|oz|Jagermeister|Liqueur
+Jedi Cocktail|Movie|Star Wars|F|Mix together with crushed ice in a glass.
+1|oz|Blue Curacao|Liqueur|.33|oz|Creme de Cacao|Liqueur|2.5|oz|Milk|Milk
