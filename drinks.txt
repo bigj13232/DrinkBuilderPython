@@ -492,3 +492,11 @@ Stormtrooper Shot|Movie|Star Wars|F|Pour into shot glass.|Serve chilled.
 .75|oz|Peppermint Schnapps|Schnapps|.75|oz|Jagermeister|Liqueur
 Jedi Cocktail|Movie|Star Wars|F|Mix together with crushed ice in a glass.
 1|oz|Blue Curacao|Liqueur|.33|oz|Creme de Cacao|Liqueur|2.5|oz|Milk|Milk
+Jedi Mind Trick|Movie|Star War|F|Mix all the ingredients, but the rum, over ice in a low-ball glass.Splash the rum on top.|Enjoy!
+1|oz|Cinnamon Schnapps|Schnapps|1|oz|Irish Cream|Liqueur|1|oz|Midori|Liqueur|1|splash|Rum|Rum
+Jedi Mind Trick #2|Movie|Star Wars|F|Mix together with crushed ice in a glass.|Harnish with mint leaves.
+1|oz|Butterscotch Schnapps|Schnapps|1|oz|Coffee Liqueur|Liqueur|1|oz|Irish Cream|Liqueur
+Star Wars|Movie|Star Wars|F|Mix together with crushed ice in a glass.|Garnish with mint leaves.
+1|oz|Lemon Lime Soda|Soda|1|oz|Amaretto|Liqueur|1|oz|Southern Comfort|Liqueur|1|oz|Sweet and Sour Mix|Mixer
+Darth Vader|Movie|Star Wars|F|Mix together with crushed ice in a glass.|Garnish with mint leaves.
+.5|oz|Gin|Gin|.5|oz|Light Rum|Rum|.5|oz|Tequila|Tequila|.5|oz|Triple Sec|Liqueur|.5|oz|Vodka|Vodka|.5|oz|Jagermeister|Liqueur
