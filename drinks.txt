@@ -500,3 +500,13 @@ Star Wars|Movie|Star Wars|F|Mix together with crushed ice in a glass.|Garnish wi
 1|oz|Lemon Lime Soda|Soda|1|oz|Amaretto|Liqueur|1|oz|Southern Comfort|Liqueur|1|oz|Sweet and Sour Mix|Mixer
 Darth Vader|Movie|Star Wars|F|Mix together with crushed ice in a glass.|Garnish with mint leaves.
 .5|oz|Gin|Gin|.5|oz|Light Rum|Rum|.5|oz|Tequila|Tequila|.5|oz|Triple Sec|Liqueur|.5|oz|Vodka|Vodka|.5|oz|Jagermeister|Liqueur
+Princess' Pleasure|Movie|Star Wars|F|Combine all ingredients except cherry in a blender with ice.|Blend until smooth, and pour into a champagne flute.|Garnish with cherry.
+.25|each|Banana|Fruit|1|each|Cherry|Fruit|2|oz|Coconut Cream|Fruit|1|oz|Peach Schnapps|Schnapps|2|oz|Pineapple Juice|Juice
+The Empire|Movies|Star Wars|F|Fill a mixing glass with ice and add gin and brandies.|Stir and strain into a chilled glass.
+.75|oz|Apricot Brandy|Brandy|1.5|oz|Gin|Gin|.5|oz|Apple Brandy|Brandy
+Light Side|Movie|Star Wars|F|Mix blue curacao and creme de cacao in a tall glass.|Add 1 cube of ice.|Add milk and stir.
+40|ml|Blue Curacao|Liqueur|20|ml|Creme de Cacao|Liqueur|1|cube|Ice|Ice|200|ml|Milk|Milk
+Master Yoda|Movie|Star Wars|F|Mix equal parts Cinnamon Schnapps, Melon Liqueur and Irish Cream, and 1/2 oz Blue Curacao, over ice.|Add Milk and Splash of Rum on top.|Mix until well blended.
+.5|oz|Blue Curacao|Liqueur|1|oz|Cinnamon Schnapps|Schnapps|1|oz|Irish Cream|Liqueur|1|oz|Midori|Liqueur|1|splash|Rum|Rum
+Darth Maul|Movie|Star Wars|F|Add Gin first, then add the rest of the ingrediants.|Stir gently.
+1|part|Chocolate Syrup|Syrup|3|part|Gin|Gin|1|part|Raspberry Syrup|Syrup
