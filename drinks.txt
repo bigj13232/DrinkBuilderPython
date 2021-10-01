@@ -510,3 +510,5 @@ Master Yoda|Movie|Star Wars|F|Mix equal parts Cinnamon Schnapps, Melon Liqueur a
 .5|oz|Blue Curacao|Liqueur|1|oz|Cinnamon Schnapps|Schnapps|1|oz|Irish Cream|Liqueur|1|oz|Midori|Liqueur|1|splash|Rum|Rum
 Darth Maul|Movie|Star Wars|F|Add Gin first, then add the rest of the ingrediants.|Stir gently.
 1|part|Chocolate Syrup|Syrup|3|part|Gin|Gin|1|part|Raspberry Syrup|Syrup
+Jar Jar Binks|Movie|Star Wars|F|Add ingredients and shake with ice.|Strain into glass of choice.
+3|parts|Blue Curacao|Liqueur|1|part|Lemon Juice|Juice|2|oz|Strawberry Schnapps|Schnapps|1|part|Vodka|Vodka
