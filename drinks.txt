@@ -512,3 +512,15 @@ Darth Maul|Movie|Star Wars|F|Add Gin first, then add the rest of the ingrediants
 1|part|Chocolate Syrup|Syrup|3|part|Gin|Gin|1|part|Raspberry Syrup|Syrup
 Jar Jar Binks|Movie|Star Wars|F|Add ingredients and shake with ice.|Strain into glass of choice.
 3|parts|Blue Curacao|Liqueur|1|part|Lemon Juice|Juice|2|oz|Strawberry Schnapps|Schnapps|1|part|Vodka|Vodka
+Princess Punch|Movie|Star Wars|F|Mix well.|Pour into glasses with ice.
+4|oz|Orange Juice|Juice|4|oz|Peach Schnapps|Schnapps|4|oz|Vodka|Vodka
+Chewbaccardi|Movie|Star Wars|F|Mix the alcohols over ice in a collins glass.|Fill with equal parts of the grapefruit juice and lemon lime soda.
+1|oz|Lemon Lime Soda|Soda|2|oz|Coconut Cream|Other|1|oz|Grapefruit Juice|Juice|1.5|oz|Bacardi|Rum
+Yoda 3|Movie|Star Wars|F|Mix all together in an old fashion glass over ice.
+1|oz|Blue Curacao|Liqueur|.5|oz|Lime Juice|Juice|2|oz|Pineapple Juice|Juice|2|oz|Parrot Bay Rum|Rum
+Dark Side|Movie|Star Wars|F|Shake all the ingredients in a shaker.|Serve in a high glas with ice.
+20|ml|Creme de Cacao|Liqueur|30|ml|Grenadine|Mixer|200|ml|Milk|Milk|40|ml|Vodka|Vodka
+Walking Carpet|Movie|Star Wars|F|Mix together with crushed ice in a glass.|Garnish with mint leaves.
+4|oz|Blue Curacao|Liqueur|2|oz|Grain Alcohol|Grain Alcohol|24|oz|Ice|Ice|4|oz|Irish Cream|Liqueur|8|oz|Milk|2|oz|151 Proof Rum|Rum|2|oz|Jagermeister|Liqueur
+Droid|Movie|Star Wars|F|Mix together with crushed ice in a glass.|Garnish with mint leaves.
+2|drops|Grenadine|Mixer|8|oz|Jack Daniels|Whiskey|2|oz|Vodka|Vodka
