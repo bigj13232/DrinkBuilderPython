@@ -2,10 +2,11 @@ from drink.Ingredient import Ingredient
 from drink.Ingredient import Ingredient
 class Drink():
     def toString(self):
-        print("Drink Name is: " + self.name)
-        print("Drink Source is: " + self.source)
-        print("Drink origin is: " + self.origin)
+        print("Drink Name is: \n" + self.name)
+        print("Drink Source is: \n" + self.source)
+        print("Drink origin is: \n" + self.origin)
         print("Drink Directions are: \n" + self.directions)
+        print("Drink Source is: \n" + self.drinkWebsite)
         print("Is it a mocktail? " + str(self.isMocktail))
 
     def addIngredient(self, ingredient):
@@ -16,10 +17,11 @@ class Drink():
             ingredient.toString()
 
     #Constructor
-    def __init__(self, name, source, origin, directions, isMocktail):
+    def __init__(self, name, source, origin, directions, isMocktail, drinkWebsite):
         self.name = name
         self.source = source
         self.origin = origin
         self.directions = directions
         self.isMocktail = isMocktail
         self.ingredients = []
+        self.drinkWebsite = drinkWebsite
