@@ -143,10 +143,11 @@ class DrinkHelper(object):
             if line_count % 2 == 1:
                 drink_details = line.split("|")
                 print("Getting Drink details")
-                drinkName = drink_details[0]
-                drinkSource = drink_details[1]
-                drinkOrigin = drink_details[2]
-                drinkMocktail = drink_details[3]
+                drinkName = drink_details[0]                                            #get Drink Name
+                drinkSource = drink_details[1]                                          #get Drink Source
+                drinkOrigin = drink_details[2]                                          #get Drink Origin
+                drinkMocktail = drink_details[3]                                        #get T/F if drink is mocktail
+                #drinkWebsite = drink_details[4]
                 drinkDirectionsList = []
                 for i in drink_details[4:]:
                     drinkDirectionsList.append(i)
