@@ -150,14 +150,15 @@ class DrinkHelper(object):
                 drinkSource = drink_details[1]                                          #get Drink Source
                 drinkOrigin = drink_details[2]                                          #get Drink Origin
                 drinkMocktail = drink_details[3]                                        #get T/F if drink is mocktail
-                drinkWebsite = drink_details[4]
+                drinkWebsite = drink_details[4]                                         #get drink website
+                drinkWebsiteURL = drink_details[5]                                      #get drink website URL
                 drinkDirectionsList = []
-                for i in drink_details[5:]:
+                for i in drink_details[6:]:
                     drinkDirectionsList.append(i)
 
                 drinkDirections = XMLHelper.createXML(drinkDirectionsList)
                 ###print(drinkDirections)
-                addDrink = Drink(drinkName,drinkSource,drinkOrigin,drinkDirections,drinkMocktail,drinkWebsite)
+                addDrink = Drink(drinkName,drinkSource,drinkOrigin,drinkDirections,drinkMocktail,drinkWebsite,drinkWebsiteURL)
             #Even numbered lines contain ingredient details
             elif line_count % 2 == 0:
                 ingredient_list = line.split("|")

@@ -17,7 +17,7 @@ class Drink():
             ingredient.toString()
 
     #Constructor
-    def __init__(self, name, source, origin, directions, isMocktail, drinkWebsite):
+    def __init__(self, name, source, origin, directions, isMocktail, drinkWebsite,drinkWebsiteURL):
         self.name = name
         self.source = source
         self.origin = origin
@@ -25,3 +25,4 @@ class Drink():
         self.isMocktail = isMocktail
         self.ingredients = []
         self.drinkWebsite = drinkWebsite
+        self.drinkWebsiteURL = drinkWebsiteURL
