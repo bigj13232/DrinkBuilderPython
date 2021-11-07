@@ -540,3 +540,11 @@ Fantastic Beasts|Movie|Fantastic Beasts|F|Redhead Baby Mama|https://www.redheadb
 4|oz|Ice|Ice|1.5|oz|Captain Morgan Spiced Rum|Rum|.5|oz|Triple Sec|Liqueur|2|oz|Fresh Orange Juice|Juice|1|oz|Sprite|Soda|.5|oz|Blue Curaçao|Liqueur|.5|tsp|Silver Shimmer Dust|Other|2|each|Crushed Dry Ice|Other
 Mother of Dragonfruit|TV|Game of Thrones|F|Redhead Baby Mama|https://www.redheadbabymama.com/|Mix the first 3 ingredients with ice in a shaker.|Pour into your glass of choice.|Top with the sparkling cranberry for a layered color effect, or mix right in and enjoy.|Garnish with lemon slices.
 1.5|oz|Dragonfruit Vodka|Vodka|.5|oz|Triple Sec|Liqueur|8|oz|Lemonade|Lemonade|6|oz|Sparkling Cranberry Juice|Juice|2|each|Lemon Slice|Fruit
+Yub Nub Copycat|Movie|Star Wars|F|2 Geeks Who Eat|https://2geekswhoeat.com/|Combine all ingredients in a shaker with ice.|Shake.|Strain into a tiki mug filled with fresh crushed ice.|Serve.
+1.5|oz|Spiced Rum|Rum|1|oz|Reàl Passion Fruit Syrup|Syrup|.75|oz|Lime Juice|Juice|.5|oz|Malibu Rum|Rum|3|dashes|Angostura Bitters|Bitters
+Shando Calrissian|Movie|Star Wars|F|2 Geeks Who Eat|https://2geekswhoeat.com/|Put blueberries in 16 oz pint glass.|Lightly muddle so as to break them down but not completely pulverize them.|Fill glass with ice.|Pour in lemonade.|Top off with beer.|Stir|Garnish with lemon slice and more blueberries if desired.
+5|oz|Lemonade|Lemonade|5|oz|IPA of choice|Beer|.25|oz|Blueberries|Fruit
+The Limesaber|Movie|Star Wars|F|2 Geeks Who Eat|https://2geekswhoeat.com/|Add all ingredients in an ice filled shaker except jalapeno slices.|Strain and pour over ice.|Add jalapeno slices.|Top with club soda.
+1.5|oz|Dulce Vida Lime Tequila|Tequila|1|oz|Lime Juice|Juice|1|oz|Pineapple Juice|Juice|.75|oz|Simple Syrup|Syrup|2|oz|Club Soda|Soda|3|each|Jalapeno Slices|Vegetable
+The Royal Guard|Movie|Star Wars|F|2 Geeks Who Eat|https://2geekswhoeat.com/|Add all ingredients in an ice filled shaker.|Strain and pour over ice.|Top with club soda.
+1.5|oz|Grey Goose Le Citron Vodka|Vodka|3.5|oz|Cranberry Juice|Juice|.5|oz|Lime Juice|Juice|.5|oz|Simple Syrup|Syrup|1|generous dash|Angostura Bitters|Bitters|2|oz|Club Soda|Soda
