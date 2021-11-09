@@ -548,3 +548,7 @@ The Limesaber|Movie|Star Wars|F|2 Geeks Who Eat|https://2geekswhoeat.com/|Add al
 1.5|oz|Dulce Vida Lime Tequila|Tequila|1|oz|Lime Juice|Juice|1|oz|Pineapple Juice|Juice|.75|oz|Simple Syrup|Syrup|2|oz|Club Soda|Soda|3|each|Jalapeno Slices|Vegetable
 The Royal Guard|Movie|Star Wars|F|2 Geeks Who Eat|https://2geekswhoeat.com/|Add all ingredients in an ice filled shaker.|Strain and pour over ice.|Top with club soda.
 1.5|oz|Grey Goose Le Citron Vodka|Vodka|3.5|oz|Cranberry Juice|Juice|.5|oz|Lime Juice|Juice|.5|oz|Simple Syrup|Syrup|1|generous dash|Angostura Bitters|Bitters|2|oz|Club Soda|Soda
+Bloody Kaijus|Movie|Godzilla|F|2 Geeks Who Eat|https://2geekswhoeat.com/|Combine all ingredients except sake in a blender.|Blend until thoroughly combined and broken down.|Fill a collins glass with ice.|Pour in 1 oz of sake and top with green juice mixture.|Serve with your desired sushi garnish.
+32|oz|Celery Juice|Juice|4|oz|Sake|Sake|4|each|Large Bok Choy leaves, chopped|Vegetable|4|each|Romaine Leaves, chopped|Vegetable|1.66|tbsp|Soy Sauce|Other|1|tbsp|Garlic, minced|Other|1|tbsp|Ginger, minced|Other|2|tsp|Lime Ponzu|Other|1|tsp|Seasame Oil|Other|1|each|Assorted sushi, sashimi and ginger skewered|Other
+The Parabellum|Movie|John Wick|2 Geeks Who Eat|https://2geekswhoeat.com/|Combine all ingredients in a cocktail mixing glass with ice.|Stir.|Strain into a glass.|Serve neat.
+2|oz|Bourbon|Bourbon|.5|oz|Sweet Vermouth|Vermouth|.5|oz|Aperix Aperitivo Italiano|Liqueur|1|dash|Angostura Bitters|Bitters|1|dash|Orange Bitters|Bitters|1|each|Luxardo Cherry|Fruit
