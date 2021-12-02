@@ -568,3 +568,5 @@ But why's the rum gone?|Movie|Pirates of the Carribean|T|2 Geeks Who Eat|https:/
 8|oz|Frozen Pineapple|Fruit|8|oz|Frozen Mango|Fruit|8|oz|Frozen Strawberries|Fruit|1|can|Guava Nectar|Juice|.33|cup|Lime Juice|.25|oz|Water|Water|1|tsp|Ground Allspice|Spice
 The Xander Cage|Movie|XXX|F|2 Geeks Who Eat|https://2geekswhoeat.com/|Combine ingredients in a shaker with ice.|Shake.|Serve on ice in a tumbler with orange peel garnish.
 2|oz|Mezcal|Mezcal|.75|oz|Ancho Reyes|Liqueur|.5|oz|Simple Syrup|Syrup|.5|oz|Orange Juice|Juice|.25|oz|Lime Huice|Juice|2|dashes|Cranberry Bitters|Bitters
+Dagobah Slug Slinger|Movie|Star Wars|F|Whisky + Sunshine|https://www.whiskynsunshine.com/|Add all ingredients into a cocktail shaker with ice.|Shake and strain into glass with ice.|Garnish with rosemary sprig.|Enjoy!
+.5|oz|Ginger Liqueur|Liqueur|2|dashes|Grapefruit Bitters|1|oz|Orange-Tangerine Juice|Juice|.75|oz|Triple Sec|Liqueur|2|oz|Reposado Tequila|Tequila|1|sprig|Rosemary|Herb
