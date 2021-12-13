@@ -642,7 +642,7 @@ Ironman|Movie|Ironman|F|Cool Moms Cool Tips|https://coolmomscooltips.com/|Dip th
 2|oz|Scotch|Scotch|2|oz|Champagne|Champagne|4|oz|Lemonade|Lemonade|2|splashes|Grenadine|Mixer|4|oz|Cranberry Juice|Juice|1|each|Blood Orange Wedge|Fruit|2|sprigs|Mint|Herb|2|tbsp|Gold Cake Sprinkles|2|tbsp|Light Corn Syrup|Syrup
 Rarity's Sparkling Martini|Cartoon|My Little Pony|F|Pop Culture Cocktails|https://cocktail-nerd.tumblr.com/|Rim a martini glass with edible glitter.|Shake vodka and liqueur over ice and strain into glass.|Fill glass with soda.|Garnish with edible violets.
 3|oz|Whipped Cream Vodka|Vodka|1|oz|Goldschlager|Liqueur|1|can|Vanilla Soda|Soda|2|tbsp|Edible Glitter|Other|1|tbsp|Edible Violets|Other
-Finn the Human's Adventure-tini|Cartoons|Adventuretime|F|Pop Culture Cocktails|https://cocktail-nerd.tumblr.com/|Shake the vodka and liqueur over ice and strain into a martini glass.|Fill rest with apple juice and orange juice.|Garnish with a skewer of gummy bears.
+Finn the Human's Adventure-tini|Cartoons|Adventure Time|F|Pop Culture Cocktails|https://cocktail-nerd.tumblr.com/|Shake the vodka and liqueur over ice and strain into a martini glass.|Fill rest with apple juice and orange juice.|Garnish with a skewer of gummy bears.
 3|oz|Pineapple Gummy Flavored Vodka|Vodka|1|oz|Orange Curaçao|Liqueur|1|bottle|Orange Juice|Juice|1|bottle|Apple Juice|Juice|3|each|Gummy Bears|Candy
 Professor X's Mind Reader|Comic Book|X-Men|F|Pop Culture Cocktails|https://cocktail-nerd.tumblr.com/|Shake vodka and liqueur over ice and strain into a highball glass.|Add espresso shots.|Fill rest with milk.
 2|oz|Vanilla Vodka|Vodka|2|oz|Espresso Vodka|Vodka|1|oz|Kahlua|Liqueur|1|oz|Caramel Liqueur|Liqueur|1|bottle|Milk|Milk
@@ -652,3 +652,17 @@ Sugar and Spice and Everything Nice|Cartoon|Powerpuff Girls|F|Pop Culture Cockta
 2|oz|Cherry Vodka|Vodka|1|oz|Pineapple Vodka|Vodka|1|oz|Sour Appple Vodka|Vodka|1|oz|Orange Vodka|1|oz|Blue Curaçao|Liqueur|2|oz|Grenadine|Mixer
 Yoshi's Island|Video Games|Yoshi's Island|F|Pop Culture Cocktails|https://cocktail-nerd.tumblr.com/|Rim highball glass with sugar.|Shake vodka and rum over ice and strain into glass.|Fill rest of glass with pineapple juice.|Add a twist of lime and grenadine to taste.|Garnish with a skewer of maraschino cherries and pineapple chunks.
 2|tbsp|Simple Syrup|Syrup|1|oz|Orange Vodka|Vodka|1|oz|Banana Vodka|Vodka|1|oz|Coconut Rum|Rum|1|oz|Key Lime Rum|4|oz|Pineapple Juice|Juice|1|splash|Grenadine|Mixer|1|each|Lime Wedge, juiced|Fruit|3|each|Maraschino Cherry|Fruit|3|each|Pineapple Chunks|Fruit|1|tbsp|Sugar|Sugar
+Peach's Paradise|Video Game|Super Mario|F|Pop Culture Cocktails|https://cocktail-nerd.tumblr.com/|Stir vodka and liqueur over ice into hurricane glass.|Fill with sparkling white grape juice.|Garnish with a fresh peach slice.
+3|oz|Peach Vodka|Vodka|1|oz|French Vanilla Liqueur|Liqueur|1|bottle|Sparkling White Grape Juice|Juice|1|each|Peach Slice|Fruit
+Pikachu's Thunder Jolt|Anime|Pokemon|F|Pop Culture Cocktails|https://cocktail-nerd.tumblr.com/|Rim hurricane glass with sour salt.|Stir tequila and vodka together in a glass with ice.|Fill rest of glass half with pineapple juice and half with sparkling lemonade.|Garnish with a pineapple ring and a cherry.
+1|oz|Tequila|Tequila|2|oz|Orange Pucker Vodka|Vodka|1|bottle|Pineapple Juice|Juice|1|bottle|Sparkling Lemonade|Lemonade|1|each|Pineapple Ring|Fruit|1|each|Maraschino Cherry|Fruit
+The Potions Master|Book|Harry Potter|F|Pop Culture Cocktails|https://cocktail-nerd.tumblr.com/|Shake gin, sambuca, vodka, and pour over ice into highball glass.|Fill with blackberry juice.
+2|oz|Gin|Gin|1|oz|Black Sambuca|Sambuca|2|oz|Blackberry Vodka|Vodka|1|bottle|Blackberry Juice|Juice
+Princess Bubblegum-tini|Cartoon|Adventure Time|F|Pop Culture Cocktails|https://cocktail-nerd.tumblr.com/|Shake vodka over ice and strain into martini glass.|Fill with ginger ale.|Garnish with a raspberry jelly fruit slice.
+2|oz|3 Olives Bubblegum Vodka|2|oz|Pinnacle Cotton Candy Vodka|Vodka|1|bottle|Raspberry Ginger Ale|Soda|1|each|Raspberry Jelly Fruit Slice|Candy
+The Mean Marceline|Cartoon|Adventure Time|F|Pop Culture Cocktails|https://cocktail-nerd.tumblr.com/|Shake vodka and liqueur and pour over ice in a highball glass.|Fill with seltzer.|Add grenadine to taste.|Garnish with 3 maraschino cherries.
+2|oz|Absolut Peppar Vodka|Vodka|1|oz|Chocolate Liqueur|Liqueur|1|oz|Cinnamon Liqueur|Liqueur|1|bottle|Seltzer Water|Seltzer|1|bottle|Grenadine|Mixer|3|each|Maraschino Cherries|Fruit
+Rainbow Dash's Sonic Rainboom|Cartoon|My Little Pony|F|Pop Culture Cocktails|https://cocktail-nerd.tumblr.com/|Shake vodkas over ice and strain into a highball glass.|Fill with sprite and top with a scoop of rainbow sherbet.
+1|oz|Blackberry Vodka|Vodka|1|oz|Raspberry Vodka|1|oz|Mango Vodka|Vodka|1|oz|Peach Vodka|Vodka|1|bottle|Sprite|Soda|1|scoop|Rainbow Sherbert|Sherbert
+Apple Jack's Sweet Appletini|Cartoon|My Little Pony|F|Pop Culture Cocktails|https://cocktail-nerd.tumblr.com/|Pour brandy and rum into a lowball glass.|Fill with sparkling apple juice.|Top with a pinch of cinnamon and garnish with an apple slice.
+2|oz|Applejack Brandy|Brandy|2|oz|Vanilla Rum|Rum|1|bottle|Sparking Apple Juice|Juice|1|pinch|Cinnamon|Spice|1|each|Apple Wedge|Fruit
