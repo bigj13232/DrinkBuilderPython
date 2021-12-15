@@ -670,3 +670,11 @@ Pinkie Pie Party Surprise|Cartoon|My Little Pony|F|Pop Culture Cocktails|https:/
 1|oz|Pinnacle Cake Flavored Vodka|Vodka|1|oz|Caramel Liqueur|Liqueur|1|oz|Amaretto|Liqueur|1|oz|Coconut Rum|Rum|1|bottle|Milk|Milk|1|tsp|Rainbow Sprinkles|Sprinkles
 Ravenclaw Pride|Book|Harry Potter|F|Pop Culture Cocktails|https://cocktail-nerd.tumblr.com/|Shake gin and liqueur over ice and strain into a martini glass.|Fill with sprite and finish with a twist of lemon.
 3|oz|Gin|Gin|1|oz|Blue Curaçao|Liqueur|1|bottle|Sprite|Soda|1|each|Lemon Twist|Fruit
+Hufflepuff Pride|Book|Harry Potter|F|Pop Culture Cocktails|https://cocktail-nerd.tumblr.com/|Pour rum and liqueur into a mug.|Fill with hot apple cider.
+2|oz|Spiced Rum|Rum|1|oz|Godiva Caramel Liqueur|Liqueur|3|oz|Hot Apple Cider|Cider
+Gryffindor|Book|Harry Potter|F|Pop Culture Cocktails|https://cocktail-nerd.tumblr.com/|Pour vodka, liqueur, and cranberry juice in a highball glass.|Add grenadine to taste.
+2|oz|Vodka|Vodka|1|oz|Grand Marnier|Liqueur|1|splash|Grenadine|1|bottle|Cranberry Juice|Juice
+Slytherin Pride|Book|Harry Potter|F|Pop Culture Cocktails|https://cocktail-nerd.tumblr.com/|Shake vodka and liqueur over ice and strain into a martini glass.|Fill with limeade and serve
+2|oz|Vodka|Vodka|1|oz|DeKuyper sour apple pucker schnapps|Schnapps|1|bottle|Limeade|Limeade
+The White Wolf|TV|The Witcher|F|Lemon Baby|https://www.lemonbaby.co/|In a jar, combine the vanilla bean, rye and tea.|Shake vigorously to infuse, cover, and let sit for at least an hour and up to overnight.|Place ice in a cocktail shaker.|Add the infused rye, vermouth and bitters.|Rub the orange peel around the rim of the cocktail glass.|Shake the drink and strain into the glass.|Garnish with orange peel and cherries.
+2|oz|Rye Whiskey|Whiskey|1|inch|Vanilla Bean, split|Other|1|tsp|Earl Grey Tea Leaves|Tea|1|oz|Sweet Vermouth|Vermouth|2|dashes|Angostura Bitters|Bitters|1|dash|Angostura Orange Bitters|Bitters|1|each|Orange Twist|Fruit|3|each|Brandied Cherries|Fruit
