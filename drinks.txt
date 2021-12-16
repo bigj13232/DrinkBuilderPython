@@ -696,3 +696,5 @@ White Walker|TV|Game of Thrones|F|Lemon Baby|https://www.lemonbaby.co/|Shake sco
 1.5|oz|White Walker Scotch|Scotch|1.5|oz|Khalua|Liqueur|1|carton|Half and Half|Milk|2|oz|Blue Ice Cubes|Ice
 The Lioness|TV|Game of Thrones|F|Lemon Baby|https://www.lemonbaby.co/|Shake all ingredients with ice in a cocktail shaker.|Strain into a coupe or martini glass.|Garnish with lemon wheel.
 1.5|oz|Gin|Gin|2|oz|Blood Orange Juice|Juice|.5|oz|St. Germain|Liqueur|.5|oz|Chambord|Liqueur|1|oz|Lemon Juice|Juice|1|each|Lemon Wheel|Fruit
+The Giggling Yoda|Movie|Star Wars|F|The Cocktail Novice|https://thecocktailnovice.com/|Add all ingredients to blender|Blend|Pour into martini glass|Enjoy!
+1|oz|Vodka|Vodka|12|oz|Ginger Ale|Soda|.5|each|Pear, peeled and cored|Fruit|6|each|Green Grapes|Fruit|2|tsp|Lime Juice|Juice|1|sprig|Mint|Herb
