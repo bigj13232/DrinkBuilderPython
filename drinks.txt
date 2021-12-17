@@ -698,3 +698,12 @@ The Lioness|TV|Game of Thrones|F|Lemon Baby|https://www.lemonbaby.co/|Shake all 
 1.5|oz|Gin|Gin|2|oz|Blood Orange Juice|Juice|.5|oz|St. Germain|Liqueur|.5|oz|Chambord|Liqueur|1|oz|Lemon Juice|Juice|1|each|Lemon Wheel|Fruit
 The Giggling Yoda|Movie|Star Wars|F|The Cocktail Novice|https://thecocktailnovice.com/|Add all ingredients to blender|Blend|Pour into martini glass|Enjoy!
 1|oz|Vodka|Vodka|12|oz|Ginger Ale|Soda|.5|each|Pear, peeled and cored|Fruit|6|each|Green Grapes|Fruit|2|tsp|Lime Juice|Juice|1|sprig|Mint|Herb
+Sonic the Hedgehog|Video Game|Sonic the Hedgehog|F|The Cocktail Novice|https://thecocktailnovice.com/|Layer ingredients starting with the grenadine, then schnapps and lastly blue curaçao in a tall shot glass.
+1|part|Grenadine|Mixer|2|parts|Mentholmint Schnapps|Schnapps|4|parts|Blue Curaçao|Liqueur
+The Sonic Screwdriver|TV|Doctor Who|F|The Cocktail Novice|https://thecocktailnovice.com/|Add first three ingredients in a glass with ice.|Fill with Sprite.|Enjoy!
+1|oz|Blue Curaçao|Liqueur|1|oz|Blueberry Vodka|Vodka|.5|oz|Captain Morgan|Rum|1|can|Sprite|Soda|3|oz|Ice|Ice
+Portal 2|Video Game|Portal|F|The Cocktail Novice|https://thecocktailnovice.com/|BLUE:|Rim a shot glass with orange cake sprinkles|In a cocktail shaker, add blue curaçao and vodka, shake with ice.|Pour into rimmed shot glass.|Top with lemonade|ORANGE:|Rim a shot glass with blue cake sprinkles.|In a cocktail shaker, add cointreau and rum, shake with ice.|Pour into rimmed shot glass.|Fill with Orangina.
+.5|oz|Blue Curaçao|Liqueur|.5|oz|Vodka|Vodka|1|bottle|Lemonade|Lemonade|.5|oz|Cointreau|Liqueur|.5|oz|Rum|Rum|1|bottle|Orangina|Juice|1|tbsp|Orange Cake Sprinkles|Sprinkles|1|tbsp|Blue Cake Sprinkles|1|tbsp|Simple Syrup|Syrup
+The Winterfell|TV|Game of Thrones|F|The Cocktail Novice|https://thecocktailnovice.com/|Pour your beer into a glass 3/4 of the way full.|Combine brandy, amaretto, and syrup in another glass.|Pour the mix into your beer.
+1|bottle|Guinness Stout|Beer|2|oz|Apple Brandy|Brandy|1|oz|Amaretto|Liqueur|1|oz|Maple Syrup, grade B|Syrup
+The Golden Nug|Video Game|Dragon Age|F|How to drink|https://www.youtube.com/c/howtodrink|
