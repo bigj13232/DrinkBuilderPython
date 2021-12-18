@@ -706,4 +706,19 @@ Portal 2|Video Game|Portal|F|The Cocktail Novice|https://thecocktailnovice.com/|
 .5|oz|Blue Curaçao|Liqueur|.5|oz|Vodka|Vodka|1|bottle|Lemonade|Lemonade|.5|oz|Cointreau|Liqueur|.5|oz|Rum|Rum|1|bottle|Orangina|Juice|1|tbsp|Orange Cake Sprinkles|Sprinkles|1|tbsp|Blue Cake Sprinkles|1|tbsp|Simple Syrup|Syrup
 The Winterfell|TV|Game of Thrones|F|The Cocktail Novice|https://thecocktailnovice.com/|Pour your beer into a glass 3/4 of the way full.|Combine brandy, amaretto, and syrup in another glass.|Pour the mix into your beer.
 1|bottle|Guinness Stout|Beer|2|oz|Apple Brandy|Brandy|1|oz|Amaretto|Liqueur|1|oz|Maple Syrup, grade B|Syrup
-The Golden Nug|Video Game|Dragon Age|F|How to drink|https://www.youtube.com/c/howtodrink|
+The Golden Nug|Video Game|Dragon Age|F|How to drink|https://www.youtube.com/c/howtodrink|Put ice in shaker and shake|Double strain into glass|Top off with a few Oz of sparkling wine|Garnish with a sprig of Rosemary
+6|each|Raspberries|Fruit|.5|oz|Grenadine|Mixer|1|oz|Cognac|Cognac|2|oz|Ice|Ice
+The Hissing Drake|Video Game|Dragon Age|F|How to drink|https://www.youtube.com/c/howtodrink|Add ingredients and ice to shaker.|Shake.|Pour into glass.|Garnish with singed cinnamon stick.
+.5|oz|Lemon Hart 151|Rum|1|oz|Fireball|Whiskey|.5|oz|Ancho Reyes Chili Liqueur|Liqueur|2|oz|Ice|Ice
+The Benediction|Video Game|Dragon Age|F|How to drink|https://www.youtube.com/c/howtodrink|Mix all ingredients in glass|Garnish with twist of lime and/or wedge of lime
+1-.5|oz|Gin|Gin|1|oz|Yellow Chartreuse|Liqueur|1|each|Twist or Wedge of Lime|Fruit
+The Emerald Valley|Video Game|Dragon Age|F|How to drink|https://www.youtube.com/c/howtodrink|Add all ingredients except ice to shaker.|Dry shake.|Add ice and shake again.|Strain into glass.|Grate with fresh nutmeg.
+.75|oz|Simple Syrup|Syrup|1|oz|Lime Juice|Juice|2|oz|Green Chartreuse|Liqueur|1|each|Egg White|Egg|2|oz|Ice|Ice|1|each|Nutmeg|Spice
+The Randy Dowager|Video Game|Dragon Age|F|How to drink|https://www.youtube.com/c/howtodrink|Add all ingredients except ice and seltzer.|Dry shake.|Add ice and shake again.|Add seltzer to glass.|Strain drink into glass.|Add straw.|Garnish with a sugared rose.
+.25|oz|Simple Syrup|Syrup|.5|oz|Lime Juice|Juice|.5|oz|Lemon Juice|Juice|1.5|oz|Orchard Peach|Liqueur|1|oz|Heavy Cream|Milk|1|each|Egg White|Egg|2|oz|Ice|Ice|1|each|Sugared Rose|Other|1|bottle|Seltzer|Seltzer
+A Night of Shame|Video Game|Dragon Age|F|How to drink|https://www.youtube.com/c/howtodrink|Fill glass with ruby port.|Add several dashes of angostura coco bitters.|Add twist of orange.|Enjoy.
+1|bottle|Ruby Port|Wine|3|dashes|Angostura Coco Bitters|Bitters|1|each|Twist of Orange|Fruit
+Nobel Pursuit|Video Game|Zelda|F|How to drink|https://www.youtube.com/c/howtodrink|Add all ingredients into blender.|Blend.|Pour into glass.|Garnish with wedge of watermelon and sprig of mint.
+.25|oz|Gerudo Syrup|Syrup|.25|oz|Simple Syrup|Syrup|2|oz|Frozen Watermelon Chunks|Fruit|.75|oz|Lime Juice|Juice|2|oz|Reposado Tequila|Tequila|3.5|oz|Frozen Coconut Water|Fruit|
+Gerudo Syrup|Recipe|Nobel Pursuit|T|How to drink|https://www.youtube.com/c/howtodrink|Add all ingredients to pot.|Heat to a boil.|Stir constantly.|Strain into bottle.
+7|oz|Dragon Fruit Puree|Fruit|7|oz|Water|Water|14|oz|Organic Palm Sugar|Sugar
