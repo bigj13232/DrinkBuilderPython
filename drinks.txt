@@ -722,3 +722,13 @@ Nobel Pursuit|Video Game|Zelda|F|How to drink|https://www.youtube.com/c/howtodri
 .25|oz|Gerudo Syrup|Syrup|.25|oz|Simple Syrup|Syrup|2|oz|Frozen Watermelon Chunks|Fruit|.75|oz|Lime Juice|Juice|2|oz|Reposado Tequila|Tequila|3.5|oz|Frozen Coconut Water|Fruit|
 Gerudo Syrup|Recipe|Nobel Pursuit|T|How to drink|https://www.youtube.com/c/howtodrink|Add all ingredients to pot.|Heat to a boil.|Stir constantly.|Strain into bottle.
 7|oz|Dragon Fruit Puree|Fruit|7|oz|Water|Water|14|oz|Organic Palm Sugar|Sugar
+Full Biotic Kick|Video Game|Mass Effect|F|How to drink|https://www.youtube.com/c/howtodrink|Add cracked ice to glass.|Pour in bourbon and amaro.|Top off with ginger beer.|Garnish with orange peel.
+1|oz|Amaro Di Angostura|Liqueur|2|oz|Yellowstone Select|Bourbon|4|oz|Ginger Beer|Soda|1|each|Orange Peel|Fruit|2|oz|Cracked Ice|Ice
+Tasty Tankard|Video Game|Mass Effect|F|How to drink|https://www.youtube.com/c/howtodrink|Add ice to shaker.|Shake.|Strain into glass.|Top with whipped cream and cinnamon.
+6|oz|Iced Chocolate|Chocolate|1.5|oz|Butterscotch Schnapps|Schnapps|.75|oz|Coconut Rum|Rum|.75|oz|Irish Cream|Cream|2|oz|Ice|Ice|1|can|Whipped Cream|Cream|.25|tsp|Cinnamon|Spice
+Iced Chocolate|Recipe|Tasty Tankard|T|How to drink|https://www.youtube.com/c/howtodrink|Heat until chocolate is melted.|Let cool.
+3.5|oz|90% Cocoa Dark Chocolate|Chocolate|16|oz|Whole Milk|Milk
+St. Denis Sazerac|Video Game|Red Dead Redemption|F|How to drink|https://www.youtube.com/c/howtodrink|Rinse glass with absinthe.|Add ice to mixing glass.|Stir.|Strain into chilled glass.|Garnish with a twist of lemon.
+2|dashes|Bogart's Bitters|Bitters|2|oz|Cognac|Cognac|1|bottle|Absinthe|Absinthe|2|oz|Ice|Ice|1|each|Twist of Lemon|Fruit
+Poison Ivy Demetrite|Cartoon|Batman|F|How to drink|https://www.youtube.com/c/howtodrink|Add 1-2 inches of cucumber, roughly chopped|Lightly muddle cucumber.|Add all lime juice, italicus, tequila and chartreuse and shake.|Strain into glass.|Garnish with cucumber wheel and baby's breath.
+1|oz|Fresh Lime Juice|Juice|1|oz|Italicus|Liqueur|1|oz|TTequila Fortaleza Blanco|Tequila|1|oz|Green Chartreuse|Liqueur|2|oz|Cucumber, roughly chopped|Vegetable|1|each|Cucumber Wheel|Vegetable|1|sprig|Baby's Breath|Flower
