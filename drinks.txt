@@ -732,3 +732,25 @@ St. Denis Sazerac|Video Game|Red Dead Redemption|F|How to drink|https://www.yout
 2|dashes|Bogart's Bitters|Bitters|2|oz|Cognac|Cognac|1|bottle|Absinthe|Absinthe|2|oz|Ice|Ice|1|each|Twist of Lemon|Fruit
 Poison Ivy Demetrite|Cartoon|Batman|F|How to drink|https://www.youtube.com/c/howtodrink|Add 1-2 inches of cucumber, roughly chopped|Lightly muddle cucumber.|Add all lime juice, italicus, tequila and chartreuse and shake.|Strain into glass.|Garnish with cucumber wheel and baby's breath.
 1|oz|Fresh Lime Juice|Juice|1|oz|Italicus|Liqueur|1|oz|TTequila Fortaleza Blanco|Tequila|1|oz|Green Chartreuse|Liqueur|2|oz|Cucumber, roughly chopped|Vegetable|1|each|Cucumber Wheel|Vegetable|1|sprig|Baby's Breath|Flower
+Vex Milk|Video Game|Destiny|F|How to drink|https://www.youtube.com/c/howtodrink|Add all ingredients to mixing glass.|Stir.|Strain into glass.
+1|oz|Ricard Pastis|Liqueur|1|Baily's Irish Cream|Cream|4|dashes|Saline Solution|Other|2|oz|Cracked Ice|Ice
+Tincture of Queens Foil|Video Game|Destiny|F|How to drink|https://www.youtube.com/c/howtodrink|Add all ingredients to mixing glass except bitters.|Stir.|Strain into glass.|Add a few hard dashes of bitters.
+.5|oz|Simple Syrup|Syrup|.5|oz|Xantham Gum Mix|Other|.25|oz|Blue Curaçao|Liqueur|.5|oz|Italicus Bergamot Liquor|Liqueur|.5|oz|Absolut Citron|Vodka|1.5|oz|Gin|Gin|2|oz|Cracked Ice|Ice|3|dashes|Angostura Bitters.|Bitter.
+Cloud of Ether|Video Game|Destiny|F|How to drink|https://www.youtube.com/c/howtodrink|Add all ingredients to shaker except foam magic.|Add ice and shake.|Strain into small tin.|Add barspoon of Foam Magic.|Dry shake with strainer spring.|Strain into glass.
+1|oz|Lemon Juice|Juice|.25|oz|Simple Syrup|.25|Creme de Violette|Brandy|.5|oz|Maraschino Liqueur|Liqueur|2|oz|Gin|Gin|1|each|Egg White|Egg|1|tsp|Foam Magic|Other
+Mega Potion|Video Game|Monster Hunter|F|Add all ingredients except blue curaçao to mixing glass.|Stir.|Strain into glass.|Add bar spoon of blue curaçao.
+.5|oz|Honey Syrup|Syrup|1|oz|Suze Aperatif|Liqueur|1.5|oz|Rum|Rum|2|oz|Ice|Ice|1|tsp|Blue Curaçao|Liqueur
+Nectar|Video Game|Hades|F|How to drink|https://www.youtube.com/c/howtodrink|Add all ingredients to mixing glass.|Stir.|Strain into glass.
+.75|oz|Honey Syrup|Syrup|1|tsp|Bénédictine D.O.M. Liqueur|Liqueur|.75|oz|St. Germain|Liqueur|1.5|oz|Rum|Rum|2|oz|Cracked Ice|Ice
+Ambrosia|Video Game|Hades|F|How to drink|https://www.youtube.com/c/howtodrink|Add all ingredients to mixing glass.|Stir.|Strain into glass.
+1|tsp|Bénédictine D.O.M. Liqueur|Liqueur|.5|oz|Honey Syrup|Syrup|1|each|Tonka Bean|Other|1|oz|Rum, Plantation 5yr|Rum|1|oz|Rum, Appleton Estate 12 yr Rare Casks|Rum
+Titan's Blood|Video Game|Hades|F|How to drink|https://www.youtube.com/c/howtodrink|Add all ingredients to shaker.|Shake.|Strain into glass.
+1|oz|Simple Syrup|Syrup|1|oz|Ancho Reyes Chile Liquor|Liqueur|1|oz|Mezcal|Tequila|1|oz|Angostura Bitters|Bitters|2|oz|Cracked Ice|Ice
+Jackie Wells|Video Game|Cyberpunk 2077|F|How to drink|https://www.youtube.com/c/howtodrink|Add all ingredients except ginger beer and ice to shaker.|Shake.|Pour over cracked ice.|Top with ginger beer.
+.5|oz|Lime Juice|Juice|1|oz|Vodka|Vodka|1|oz|Irish Mist|Liqueur|1|bottle|Ginger Beer|Soda
+Legendary Jackie Wells|Video Game|Cyberpunk 2077|F|How to drink|https://www.youtube.com/c/howtodrink|Add all ingredients except seltzer and irish mist to shaker.|Shake.|Strain into other end of shaker.|Dry shake.|Strain into glass.|Top with seltzer.|Spray irish mist over top of drink.
+1|oz|Lime Juice|Juice|.75|oz|Ginger Syrup|Syrup|1.5|oz|Vodka|Vodka|1|each|Egg White|Egg|2|oz|Ice|Ice|1|bottle|Seltzer|Seltzer|1|spray|Irish Mist|Liqueur
+Vesper|Movie|James Bond|F|How to drink|https://www.youtube.com/c/howtodrink|Add all ingredients.|Shake or stir.|Strain into glass.
+.25|oz|Kina L'Aero D'Or|Liqueur|.5|oz|Vodka|Vodka|1.5|oz|London Dry Gin|Gin
+Cobra Kaitale|TV|Cobra Kai|F|How to drink|https://www.youtube.com/c/howtodrink|Add all liquid ingredients and ice to shaker.|Half open gate pour into brandy snifter.|Garnish with orange peel "snake" and lime boat.
+1|oz|Orange Juice|Juice|.25|oz|Passionfruit Juice|Juice|.25|oz|Lime Juice|Juice|2|dashes|Angostura Bitters|Bitters|.5|oz|Orgeat|Liqueur|.5|oz|Velvet Falernum|Rum|.25|oz|Ancho Reyes Chile Liqueur|Liqueur|1.5|oz|Aged Rum|Rum|.25|oz|Lemon Hart 151|Rum|1|each|Whole Orange Peel|Fruit
