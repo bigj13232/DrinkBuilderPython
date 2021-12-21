@@ -754,3 +754,13 @@ Vesper|Movie|James Bond|F|How to drink|https://www.youtube.com/c/howtodrink|Add 
 .25|oz|Kina L'Aero D'Or|Liqueur|.5|oz|Vodka|Vodka|1.5|oz|London Dry Gin|Gin
 Cobra Kaitale|TV|Cobra Kai|F|How to drink|https://www.youtube.com/c/howtodrink|Add all liquid ingredients and ice to shaker.|Half open gate pour into brandy snifter.|Garnish with orange peel "snake" and lime boat.
 1|oz|Orange Juice|Juice|.25|oz|Passionfruit Juice|Juice|.25|oz|Lime Juice|Juice|2|dashes|Angostura Bitters|Bitters|.5|oz|Orgeat|Liqueur|.5|oz|Velvet Falernum|Rum|.25|oz|Ancho Reyes Chile Liqueur|Liqueur|1.5|oz|Aged Rum|Rum|.25|oz|Lemon Hart 151|Rum|1|each|Whole Orange Peel|Fruit
+Loraine’s Sour Taste of Disappointment|Movie|Back to the Future|F|How to drink|https://www.youtube.com/c/howtodrink|Add all liquid ingredients to shaker with ice.|Shake.|Strain into glass.|Garnish with Luxardo cherry.
+.5|oz|Simple Syrup|Syrup|.5|oz|Lemon Juice|.5|oz|Peach Brandy|Brandy|2|oz|J&B Scotch|Scotch|2|oz|Ice|Ice|1|each|Luxardo Cherry|Fruit
+Enchantment Under the Sea Party Punch|Movie|Back to the Future|T|How to drink|https://www.youtube.com/c/howtodrink|Add all ingredients to mixing glass.|Stir.|Pour into glass.
+3|oz|Guava Juice|Juice|2|oz|Orange Juice|Juice|1|oz|Passionfruit Juice|Juice|1|oz|Simple Syrup|Syrup|3|oz|Club Soda|Soda
+Spiked Enchantment Under the Sea Party Punch|Movie|Back to the Future|F|How to drink|https://www.youtube.com/c/howtodrink|Add all ingredients except bourbon to mixing glass.|Stir.|Pour into glass.|Add bourbon directly to the glass.
+3|oz|Guava Juice|Juice|2|oz|Orange Juice|Juice|1|oz|Passionfruit Juice|Juice|1|oz|Simple Syrup|Syrup|3|oz|Club Soda|Soda|1|oz|Early Times Bourbon|Bourbon
+Marty Maker||Movie|Back to the Future|F|How to drink|https://www.youtube.com/c/howtodrink|Add all liquid ingredients to shaker with ice.|Shake.|Gated to open pour into double old fashioned glass.|Garnish with Luxardo cherries and umbrella.|Garnish with luxardo cherries and umbrella.
+2|oz|Guava Juice|Juice|.75|oz|Passionfruit Juice|Juice|.5|oz|Simple Syrup|Syrup|2|oz|Early Times Bourbon|Bourbon|3|each|Luaxardo Cherries|Fruit|1|each|Umbrella|Other
+Slurm|Cartoon|Futurama|F|How to drink|https://www.youtube.com/c/howtodrink|Add all ingredients except club soda to shaker with ice.|Shake.|Strain into glass.|Top with club soda.
+1|oz|Honey Syrup|Syrup|1|oz|Lime Juice|Juice|1|oz|Midori|Liqueur|1.5|oz|Light Rum|Rum|2|dashes|Bitterman's Elemakule Bitters|Bitters|1|bottle|Club Soda|Soda
