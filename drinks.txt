@@ -764,3 +764,11 @@ Marty Maker||Movie|Back to the Future|F|How to drink|https://www.youtube.com/c/h
 2|oz|Guava Juice|Juice|.75|oz|Passionfruit Juice|Juice|.5|oz|Simple Syrup|Syrup|2|oz|Early Times Bourbon|Bourbon|3|each|Luaxardo Cherries|Fruit|1|each|Umbrella|Other
 Slurm|Cartoon|Futurama|F|How to drink|https://www.youtube.com/c/howtodrink|Add all ingredients except club soda to shaker with ice.|Shake.|Strain into glass.|Top with club soda.
 1|oz|Honey Syrup|Syrup|1|oz|Lime Juice|Juice|1|oz|Midori|Liqueur|1.5|oz|Light Rum|Rum|2|dashes|Bitterman's Elemakule Bitters|Bitters|1|bottle|Club Soda|Soda
+Johnny Silverhand|Video Game|Cyberpunk 2077|F|How to drink|https://www.youtube.com/c/howtodrink|Prepare a glass by rimming it with chipotle powder and set aside.|Add simple syrup, both bitters, tequila to a mixing glass.|Stir over ice and strain into prepared glass.|Using the back of a barspoon float approx. 3 oz of Agave Maria beer from the Last Abbey.|Enjoy!
+.5|oz|Simple Syrup|Syrup|1|dash|Angostura Bitters|Bitters|1|dash|Orange Bitters|Bitters|2|oz|Tequila|Tequila|3|oz|Agave Maria Beer|Beer|2|oz|Ice|Ice
+Cactus Juice 2|Cartoon|Avatar: the Last Airbender|T|How to drink|https://www.youtube.com/c/howtodrink|Add all ingredients to glass.|Stir.|Enjoy!
+1|part|Nopale Syrup|Syrup|3|parts|Club Soda|Soda|1|dash|Bitters of your choice|Bitters
+Sokka's Quencher|Cartoon|Avatar: the Last Airbender|T|How to drink|https://www.youtube.com/c/howtodrink|Add all ingredients to shaker.|Shake over ice.|Strain into glass.|Garnish with candied orange wheel.
+1|oz|Nopale Syrup|Syrup|.5|oz|Pineapple Juice|Juice|2|oz|Tequila|Tequila|2|oz|Ice|Ice|1|each|Candied Orange Wheel|Fruit
+Vacation Juice|Video Game|Animal Crossing|F|How to drink|https://www.youtube.com/c/howtodrink|Add first four ingredients to a blender with ice.|Blend to a frappe.|Pour into poco grande glass up to about 3/4|Add blue curaçao to whats left in the blender.|Quickly pulse to mix.|Float this across the top of the drink.|Garnish with a lime wheel, maraschino cherry and plmeria blossom.
+.75|oz|Orange Juice|Juice|1.5|oz|Cream of Coconut|Cream|.75|oz|Pineapple Juice|Juice|2|oz|Rum|Rum|4|oz|Ice|Ice|.5|oz|Blue Curaçao|Liqueur|1|each|Lime Wheel|Fruit|1|each|Maraschino Cherry|Fruit|1|each|Plumeria Blossom|Flower
