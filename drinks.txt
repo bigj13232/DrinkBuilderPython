@@ -772,3 +772,9 @@ Sokka's Quencher|Cartoon|Avatar: the Last Airbender|T|How to drink|https://www.y
 1|oz|Nopale Syrup|Syrup|.5|oz|Pineapple Juice|Juice|2|oz|Tequila|Tequila|2|oz|Ice|Ice|1|each|Candied Orange Wheel|Fruit
 Vacation Juice|Video Game|Animal Crossing|F|How to drink|https://www.youtube.com/c/howtodrink|Add first four ingredients to a blender with ice.|Blend to a frappe.|Pour into poco grande glass up to about 3/4|Add blue curaçao to whats left in the blender.|Quickly pulse to mix.|Float this across the top of the drink.|Garnish with a lime wheel, maraschino cherry and plmeria blossom.
 .75|oz|Orange Juice|Juice|1.5|oz|Cream of Coconut|Cream|.75|oz|Pineapple Juice|Juice|2|oz|Rum|Rum|4|oz|Ice|Ice|.5|oz|Blue Curaçao|Liqueur|1|each|Lime Wheel|Fruit|1|each|Maraschino Cherry|Fruit|1|each|Plumeria Blossom|Flower
+Cosmo Canyon - Shaken|Video Game|Final Fantasy|F|How to drink|https://www.youtube.com/c/howtodrink|Add all ingredients to shaker.|Shake over ice.|Enjoy!
+.25|oz|Lime Juice|Juice|.5|oz|Amaro Nonino|Liqueur|.5|oz|Curaçao|Liqueur|.5|oz|Luxardo Bitter|Liqueur|.25|oz|Simple Syrup|Syrup|1.5|oz|Absolut Citron|Vodka
+Cosmo Canyon - Stirred|Video Game|Final Fantasy|F|How to drink|https://www.youtube.com/c/howtodrink|Add all ingredients to mixing glass.|Stir and strain into glass of choice.|Express a lime peel over the drink.
+.5|oz|Amaro Nonino|Liqueur|.5|oz|Curaçao|Liqueur|.5|oz|Luxardo Bitter|Liqueur|.25|oz|Simple Syrup|Syrup|1.5|oz|Absolut Citron|Vodka|1|each|Lime Peel|Fruit
+Horse Medicine|Cartoon|Bob's Burgers|F|How to drink|https://www.youtube.com/c/howtodrink|Add first four ingredients to a shaker with ice.|Shake and strain over ice into tumbler.|Top with seltzer.
+1|oz|Lime Juice|Juice|1|oz|Simple Syrup|.5|oz|Midori|Liqueur|2|oz|Apple Jack|Brandy|2|oz|Ice|Ice|1|bottle|Seltzer|Soda
