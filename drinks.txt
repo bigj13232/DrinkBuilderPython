@@ -778,3 +778,21 @@ Cosmo Canyon - Stirred|Video Game|Final Fantasy|F|How to drink|https://www.youtu
 .5|oz|Amaro Nonino|Liqueur|.5|oz|Curaçao|Liqueur|.5|oz|Luxardo Bitter|Liqueur|.25|oz|Simple Syrup|Syrup|1.5|oz|Absolut Citron|Vodka|1|each|Lime Peel|Fruit
 Horse Medicine|Cartoon|Bob's Burgers|F|How to drink|https://www.youtube.com/c/howtodrink|Add first four ingredients to a shaker with ice.|Shake and strain over ice into tumbler.|Top with seltzer.
 1|oz|Lime Juice|Juice|1|oz|Simple Syrup|.5|oz|Midori|Liqueur|2|oz|Apple Jack|Brandy|2|oz|Ice|Ice|1|bottle|Seltzer|Soda
+Klingon Bloodwine|TV|Star Trek|F|How to drink|https://www.youtube.com/c/howtodrink|Add all ingredients to shaker with ice.|Shake until as cold as revenge.|Strain into a science fiction glass|Qapla'!
+1|oz|Simple Syrup|Syrup|1|oz|Lime Juice|Juice|1|oz|Lemonhart 151|Rum|1|oz|Angostura Bitters|Bitters|2|oz|Ice|Ice
+Space Wolf|Board Game|Warhammer 40k|F|How to drink|https://www.youtube.com/c/howtodrink|Add all ingredients to shaker with ice.|Shake.|Strain into glass.
+4|oz|Viking Blod Mead|Mead|.25|oz|Absinthe|Absinthe|.5|oz|Everclear|Rum|2|oz|Ice|Ice
+Perk-a-Cola - Speed Cola|Video Game|Call of Duty|F|How to drink|https://www.youtube.com/c/howtodrink|Stir over ice.|Strain into bottle.|Top with club soda.
+.25|oz|Simple Syrup|Syrup|.25|oz|St. Germain|Liqueur|.5|oz|Midori|Liqueur|3|dashes|Acid Phosphate|Other|2|oz|Absolut Citron|Vodka|2|oz|Ice|Ice|1|bottle|Club Soda|Soda
+Perk-a-Cola - Juggernog|Video Game|Call of Duty|F|How to drink|https://www.youtube.com/c/howtodrink|Stir over ice.|Strain into bottle.|Top with club soda.
+1|oz|Cinnamon Syrup|Syrup|.5|oz|Campari|Liqueur|2|oz|Luxardo Sour Cherry Gin|Gin|2|oz|Ice|Ice|1|bottle|Club Soda|Soda
+Perk-a-Cola - Quick Revive|Video Game|Call of Duty|F|How to drink|https://www.youtube.com/c/howtodrink|Stir over ice.|Strain into bottle.|Top with club soda.
+.5|oz|Simple Syrup|Syrup|.5|oz|Blue Curaçao|Liqueur|2|oz|Vodka|Vodka|3|dashes|Acid Phosphate|Other|3|dashes|Orange Bitters|Bitters|2|oz|Ice|Ice|1|bottle|Club Soda|Soda
+Perk-a-Cola - Double Tap Root Beer|Video Game|Call of Duty|F|How to drink|https://www.youtube.com/c/howtodrink|Stir over ice.|Strain into bottle.|Top with club soda.
+1.5|oz|Sasparilla Syrup|Syrup|1.5|oz|Plantation 5 yr. Rum|Rum|3|dashes|Acid Phosphate|Other|2|oz|Ice|Ice|1|bottle|Club Soda|Soda
+Amortentia|Book|Harry Potter|F|How to drink|https://www.youtube.com/c/howtodrink|Add all ingredients to shaker.|Shake with ice.|Strain into potion bottle.
+1|oz|Gardenia Mix|Other|2|oz|Rum|Rum|4|drops|Acid Phosphate|Other|1|dash|Edible pearl luster dust|Other|2|oz|Ice|Ice
+Felix Felices|Book|Harry Potter|F|How to drink|https://www.youtube.com/c/howtodrink|Add all ingredients to shaker.|Shake with ice.|Strain into potion bottle.
+.5|oz|Lemon Juice|Juice|.5|oz|Rosemary Syrup|Syrup|.75|oz|Amaretto|Liqueur|1.5|oz|Cognac|Cognac|1|dash|Edible gold luster dust|Other|2|oz|Ice|Ice
+Pepperup Potion|Book|Harry Potter|F|How to drink|https://www.youtube.com/c/howtodrink|Add all ingredients to shaker.|Shake with ice.|Strain into potion bottle.
+.25|oz|Bergamot Liqueur|Liqueur|1|tsp|Bitters|Bitters|1|each|Lemon Wheel|Fruit|2|oz|London Dry Gin|Gin|2|oz|Hot Water|Water|1|oz|Honey(to taste)|Honey
