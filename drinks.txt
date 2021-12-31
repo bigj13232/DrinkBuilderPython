@@ -796,3 +796,13 @@ Felix Felices|Book|Harry Potter|F|How to drink|https://www.youtube.com/c/howtodr
 .5|oz|Lemon Juice|Juice|.5|oz|Rosemary Syrup|Syrup|.75|oz|Amaretto|Liqueur|1.5|oz|Cognac|Cognac|1|dash|Edible gold luster dust|Other|2|oz|Ice|Ice
 Pepperup Potion|Book|Harry Potter|F|How to drink|https://www.youtube.com/c/howtodrink|Add all ingredients to shaker.|Shake with ice.|Strain into potion bottle.
 .25|oz|Bergamot Liqueur|Liqueur|1|tsp|Bitters|Bitters|1|each|Lemon Wheel|Fruit|2|oz|London Dry Gin|Gin|2|oz|Hot Water|Water|1|oz|Honey(to taste)|Honey
+Spice Beer|Movie|Dune|T|How to drink|https://www.youtube.com/c/howtodrink|Combine all ingredients in glass.|Enjoy!
+1|part|Spice Syrup|Syrup|2|parts|Club Soda|Soda
+Sprice Coffee|Movie|Dune|T|How to drink|https://www.youtube.com/c/howtodrink|Build in glass.|Top with heavy cream, shaken.
+3|oz|Hot Coffee|Coffee|1|oz|Spice Syrup|Syrup|1|oz|Rye|Whiskey|1|oz|Coffee Liqueur|Liqueur|2|oz|Heavy Cream, shaken|Cream
+Spice Syrup|Recipe|Spice Coffee|F|How to drink|https://www.youtube.com/c/howtodrink|Boil till sugar is dissolved.|Remove from heat.|Let Cool.|Strain and Bottle.
+.75|oz|Cinnamon Sticks|Spice|.035|oz|Gentian Root|Spice|.035|oz|Wormwood Root|Spice|4|drops|Orange Blossom Water|Other|11|oz|Water|Water|11.25|oz|Demerara Sugar|Sugar
+Peppermint Patty|TV|Archer|F|How to drink|https://www.youtube.com/c/howtodrink|Add all ingredients to glass.|Stir.|Enjoy!
+3|oz|Hot Cocoa|Cocoa|1|oz|Crème de Cacao|Liqueur|.25|oz|Crème de Menthe|Liqueur|1|oz|Peppermint Schnapps|Schnapps
+Almond Wallop|TV|Archer|F|How to drink|https://www.youtube.com/c/howtodrink|Build in glass.|Float creme de menthe on top.
+.75|oz|Amaretto|Liqueur|1.5|oz|Rye Whiskey|Whiskey|2|oz|Hot Cocoa|Cocoa|1|tsp|Crème de menthe|Liqueur
