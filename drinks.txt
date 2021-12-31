@@ -75,7 +75,7 @@ Star Lord|Comic Book|Guardians of the Galaxy|T|The Drunken Moogle|https://thedru
 Gurdyroot Infusion|Book|Harry Potter|T|The Drunken Moogle|https://thedrunkenmoogle.com/|Mix all ingredients in glass of choice.|Add slice of Ginger as garnish.
 2|oz|Orange Juice|Juice|3|oz|Sparkling Red Grape Juice|Juice|1|oz|Ginger Ale|Soda|1|slice|Fresh Ginger|Ginger
 Totoro|Anime|My Neighboor Totoro|T|The Drunken Moogle|https://thedrunkenmoogle.com/|Mix all ingredients in glass of choice.|Enjoy!
-6|each|Mint Leaves|Mint|1|oz|Lime Juice|Juice|1|oz|GrapeJuice|Juice|.5|oz|Simple Syrup|Sugar|2.5|oz|Non-alcoholic Ginger Beer|Ginger Beer
+6|each|Mint Leaves|Mint|1|oz|Lime Juice|Juice|1|oz|Grape Juice|Juice|.5|oz|Simple Syrup|Sugar|2.5|oz|Non-alcoholic Ginger Beer|Ginger Beer
 Frozen Summer|Movie|Frozen|T|The Drunken Moogle|https://thedrunkenmoogle.com/|Add ingredients to blender.|Blend until smoothie consistancy.|NOTE: Makes two drinks.
 8|oz|Blue Hawaiian Punch|Fruit Punch|1|each|Banana|Fruit|1|handful|Blueberries|Fruit|2|oz|Simple Syrup|Sugar|8|oz|Ice|Ice
 Sonic Screwdriver|TV|Doctor Who|T|The Drunken Moogle|https://thedrunkenmoogle.com/|Mix all ingredients in a highball glass over ice and stir.
@@ -806,3 +806,39 @@ Peppermint Patty|TV|Archer|F|How to drink|https://www.youtube.com/c/howtodrink|A
 3|oz|Hot Cocoa|Cocoa|1|oz|Crème de Cacao|Liqueur|.25|oz|Crème de Menthe|Liqueur|1|oz|Peppermint Schnapps|Schnapps
 Almond Wallop|TV|Archer|F|How to drink|https://www.youtube.com/c/howtodrink|Build in glass.|Float creme de menthe on top.
 .75|oz|Amaretto|Liqueur|1.5|oz|Rye Whiskey|Whiskey|2|oz|Hot Cocoa|Cocoa|1|tsp|Crème de menthe|Liqueur
+Chocolate Stinger|TV|Archer|F|How to drink|https://www.youtube.com/c/howtodrink|Add all ingredients to shaker with ice.|Shake.|Strain into glass.|Enjoy!
+.5|oz|Crème cacao|Liqueur|.125|oz|Menthe de Pastille|Liqueur|2|oz|Cognac|Cognac|.5|oz|Demerara Syrup|Syrup|2|oz|Ice|Ice
+A Night in Tunisia|TV|Archer|F|How to drink|https://www.youtube.com/c/howtodrink|Add all ingredients to shaker.|Dry shake.|Add ice.|Shake again.|Strain into glass.|Garnish with cocoa powder.
+1|each|Egg White|Egg|.5|oz|Crème de Banane|Liqueur|.5|oz|Crème de Cacao|Liqueur|1|tsp|All-Spice Dram|Liqueur|1|twist|Lemon|Fruit|2|oz|Hot Coffee|Coffee|2|oz|Ice|Ice
+The Tart Fart|TV|Archer|F|How to drink|https://www.youtube.com/c/howtodrink|Add all ingredients to shaker.|Shake.|Stain into glass with crushed ice.|Garnish with coffee beans burning in 151.|Enjoy.
+2|oz|Appleton Estate Reserve|Rum|.5|oz|Passoã|Liqueur|.5|oz|Crème de Cacao|Liqueur|1|oz|Heavy Cream|Cream|1|oz|Mr. Black Coffee|Coffee|2|oz|Hot Coffee|Coffee|2|oz|Crushed Ice|Ice|6|Coffee Beans|Coffee|1|tbsp|Overproof Rum(151)|Rum
+Dirty Wastelander|Video Game|Fallout|F|How to drink|https://www.youtube.com/c/howtodrink|Serves 2.|Add all ingredients to shaker with ice.|Shake hard.|Double strain into glass.|Top with cola.
+1|each|Baked Apple|Fruit|6|each|Blackberries|Fruit|4|oz|Irish Whiskey|Whiskey|2|oz|Ice|Ice|1|bottle|Cola|Soda
+Baked Apple|Recipe|Dirty Wastelander|T|How to drink|https://www.youtube.com/c/howtodrink|Rome top and hollow core of apple.|Fill apple with butter, brown sugar, and spices of your choice (cinnamon, allspice, etc).|Bake at 350° F for 7-10 minutes.
+1|each|Apple|Apple|1|tbsp|Butter|Butter|1|tbsp|Spices of your choice(cinnamon, allspice, etc)|Spice
+Cobalt Velvet|Video Game|VA-11 HALL-A|F|How to drink|https://www.youtube.com/c/howtodrink|Add all ingredients to shaker with ice.|Shake.|Top with grapefruit soda.
+.5|oz|Blue Curaçao|Liqueur|1|oz|Gin|Gin|1|oz|Vodka|Vodka|1|bottle|Grapefruit Soda|Soda|2|oz|Ice|Ice
+Suplex|Video Game|VA-11 HALL-A|F|How to drink|https://www.youtube.com/c/howtodrink|Add all ingredients to shaker with ice.|Shake.|Garnish with manly flowers.
+1|oz|Simple Syrup|Syrup|.5|oz|Lemon Juice|.25|oz|Suze|Liqueur|1|oz|Vodka|Vodka|1|oz|Smith + Cross|Rum|2|oz|Ice|Ice|2|oz|Manly Flowers|Flowers
+Flaming Moai|Video Game|VA-11 HALL-A|F|How to drink|https://www.youtube.com/c/howtodrink|Add all ingredients to shaker with ice.|Shake.|Stain into glass over crushed ice.|Garnish with flaming lime boat.
+1|oz|Lime Juice|Juice|.5|oz|Orgeat|Other|.5|oz|Grenadine|Mixer|1|oz|Passoã|Liqueur|1|oz|Plantation 5 yr.|Rum|.5|oz|Smith + Cross|Rum|.5|oz|Lemon Hard 151|Rum|2|oz|Ice|Ice|2|oz|Crushed Ice|Ice|.5|each|Lime, hollowed|Fruit
+Mudder's Milk|TV|Firefly|F|How to drink|https://www.youtube.com/c/howtodrink|Add all ingredients except ice and porter to shaker.|Dry shake.|Add ice to shaker.|Shake again.|Strain into mug.|Top with heavy porter.
+.5|oz|Simple Syrup|Syrup|.5|oz|Crème de Cacao|Liqueur|1|each|Egg White|Egg|1|oz|Bourbon|Bourbon|2|oz|Half-Half|Milk|1|tsp|Lemon Juice|Juice|1|bottle|Heavy Porter|Beer|2|oz|Ice|Ice
+Prarie Oyster|Anime|Cowboy Bebop|F|How to drink|https://www.youtube.com/c/howtodrink|Build all ingredients in shot glass.|Shoot.
+1|each|Egg Yolk|Egg|1|pinch|Salt & Pepper|2|dashes|Worchestershire Sauce|Other|1|dash|Hot Sauce|Other|1|oz|Gin|Gin
+Cowboy|Anime|Cowboy Bebop|F|How to drink|https://www.youtube.com/c/howtodrink|Add all ingredients to shaker with ice.|Shake.|Stain into glass.|Enjoy!
+1|oz|Half&Half|Milk|2|oz|Bourbon|Bourbon|2|oz|Ice|Ice
+Vodka Toddy|Anime|Cowboy Bebop|F|How to drink|https://www.youtube.com/c/howtodrink|Build all ingredients in glass.|Enjoy!
+.5|oz|Rosemary Syrup|Syrup|4|each|Thin Lemon Wheels|Fruit|2|oz|Vodka|4|oz|Hot Water|2|each|Rosemary Sprigs|Herb
+White Gold Tower|Video Game|Skyrim|F|How to drink|https://www.youtube.com/c/howtodrink|Add all ingredients to shaker with ice.|Shake.|Strain into glass.|Enjoy.
+.75|oz|Lavender Syrup|Syrup|1|oz|Heavy Cream|Cream|1|oz|Cognac|Cognac|2|oz|Mead|Mead|2|oz|Ice|Ice
+Velvet LeChance|Video Game|Skyrim|F|How to drink|https://www.youtube.com/c/howtodrink|Add first 4 ingredients to shaker.|Muddle.|Add egg white.|Dry shake.|Add ice.|Shake again.|Strain into glass.|Enjoy!
+5|each|Blackberries|Fruit|1|oz|Honey Syrup|1|oz|Amaro di Angostura|Liqueur|1|oz|Antica Formula Vermouth|Vermouth|1|each|Egg White|Egg|2|oz|Ice|Ice
+Cliff Racer|Video Game|Skyrim|F|How to drink|https://www.youtube.com/c/howtodrink|Add all ingredients to mixing glass with ice.|Stir.|Stain into glass.|Garnish with lemon twist.|Enjoy!
+.5|oz|Cinnamon Syrup|Syrup|.25|oz|Bénédictine|Liqueur|.5|oz|Ancho Reyes Chile Liqueur|Liqueur|1.5|oz|Cognac|Cognac|1|each|Lemon Twist|Fruit
+Cat|TV|The Witcher|F|How to drink|https://www.youtube.com/c/howtodrink|Add all ingredients to shaker with ice.|Shake.|Strain into glass.|Enjoy!
+.5|oz|Lemon Juice|Juice|.25|oz|Midori|Liqueur|1|oz|Ancho Reyes Chile Liqueur|Liqueur|1|oz|Yellow Chartreuse|Liqueur|2|oz|Ice|Ice
+Swallow|TV|The Witcher|F|How to drink|https://www.youtube.com/c/howtodrink|Add all ingredients to shaker with ice.|Shake.|Strain into glass.|Top with seltzer.|Enjoy!
+.25|oz|Blue Curaçao|Liqueur|.25|oz|Nocello|Liqueur|.5|oz|Italicus|Liqueur|1.5|oz|Vodka|Vodka|1|bottle|Seltzer|Soda|2|oz|Ice|Ice
+Black Blood|TV|The Witcher|F|How to drink|https://www.youtube.com/c/howtodrink|Add all ingredients to shaker with ice.|Shake.|Strain into glass.|Garnish with Lemon Twist.|Enjoy!
+.5|oz|Simple Syrup|Syrup|.25|oz|Crème de Cacao|Liqueur|.25|oz|Absinthe|Absinthe|3|oz|Coffee|Coffee|2|oz|Ice|Ice|1|each|Lemon Twist|Fruit
