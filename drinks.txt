@@ -842,3 +842,21 @@ Swallow|TV|The Witcher|F|How to drink|https://www.youtube.com/c/howtodrink|Add a
 .25|oz|Blue Curaçao|Liqueur|.25|oz|Nocello|Liqueur|.5|oz|Italicus|Liqueur|1.5|oz|Vodka|Vodka|1|bottle|Seltzer|Soda|2|oz|Ice|Ice
 Black Blood|TV|The Witcher|F|How to drink|https://www.youtube.com/c/howtodrink|Add all ingredients to shaker with ice.|Shake.|Strain into glass.|Garnish with Lemon Twist.|Enjoy!
 .5|oz|Simple Syrup|Syrup|.25|oz|Crème de Cacao|Liqueur|.25|oz|Absinthe|Absinthe|3|oz|Coffee|Coffee|2|oz|Ice|Ice|1|each|Lemon Twist|Fruit
+Fuzzy Tauntaun|Movie|Star Wars|F|How to drink|https://www.youtube.com/c/howtodrink|Add all ingredients to shaker with ice.|Shake.|Strain into glass.|Top with buzz button foam.
+1.5|oz|Peach Vodka|Vodka|.5|oz|Peach Schnapps|Schnapps|3|oz|Orange-Tangerine Juice|Juice|1|oz|Buzz Button Foam|Other|2|oz|Ice|Ice
+Buzz Button Foam|Recipe|Fuzzy Tauntaun|F|How to drink|https://www.youtube.com/c/howtodrink|Add buzz buttons and vodka to sealable bottle.|Infuse.|Add soy lechitin.|Froth until foam.
+200|g|Peach Vodka|Vodka|20|each|Buzz Button Blossoms|Flower|2|g|Soy Lechitin|Other
+Besbin Fizz|Movie|Star Wars|F|How to drink|https://www.youtube.com/c/howtodrink|Add all ingredients to glass with ice.|Shake.|Strain into glass.|OPTIONAL:Strain into Jet Chill glass.
+.75|oz|Grapefruit Juice|Juice|.25|oz|Orange Juice|Juice|.5|oz|Pomegranate Juice|Juice|.25|oz|Cranberry Juice|.5|oz|Simple Syrup|2|oz|Bacardi Rum|Rum|1|tbsp|Edible Luster Dust|Other|2|oz|Ice|Ice
+Carbon Freeze|Movie|Star Wars|T|How to drink|https://www.youtube.com/c/howtodrink|Build in glass with ice.|OPTIONAL: Omit ice and use a Jet Chill glass.
+2.5|oz|Lemon Lime Powerade|Powerade|2.5|oz|Wild Strawberry Powerade|Powerade|1|tbsp|Green Apple Cocktail Pearls|Other|1|tbsp|Blueberry Cocktail Pearls|Other|2|oz|Ice|Ice
+Wild Strawberry Powerade|Recipe|Carbon Freeze|T|How to drink|https://www.youtube.com/c/howtodrink|Combine sugar and strawberries.|Let sit overnight.|Strain into bottle.|Add water, pinch of salt and pinch of citric acid.
+200|g|Strawberries|Fruit|200|g|Granulated Sugar|Sugar|200|g|Water|Water|1|pinch|Salt|Salt|1|pinch|Citric Acid|Other
+Blue Milk|Movie|Star Wars|T|How to drink|https://www.youtube.com/c/howtodrink|Add all ingredients to a blender.|Blend to incorporate thoroughly.|Freeze to a slushie consistancy.|Serve.
+10|oz|Rice Milk|Rice|.75|cup|Sugar|Sugar|.5|oz|Coconut Oil|Oil|6|drops|Orange Blossom Water|Other|1|pinch|Citric Acid|Other|1|pinch|Blue Spirulina|Tea
+National Lampoon Egg Nog|Movie|National Lampoon's Christmas Vacation|F|How to drink|https://www.youtube.com/c/howtodrink|Combine egg whites and 1 tbsp sugar.|Beat until stiff peaks.|Set aside.|Add all ingredients except for egg whites and nutmeg to mixing glass.|Mix thoroughly.|Fold in egg whites.|Serve with nutmeg for garnish.
+4|each|Egg Whites|Egg|1|tbsp|Sugar|Sugar|4|each|Egg Yolks|Egg|.25|cup|Sugar|Sugar|16|oz|Whole Milk|Milk|8|oz|Heavy Cream|Cream|2|oz|Boubon, heavy pour|Bourbon|2|oz|Rum, heavy pour|Rum|1|pinch|Salt|Salt|1|tsp|Nutmeg, to taste|Spice
+Elfish Coffee|Movie|Elf|F|How to drink|https://www.youtube.com/c/howtodrink|Combine liquid ingredients in coffee cup.|Top with maple whipped cream.|Garnish with crumbled candy cane.
+.75|oz|Maple Syrup|Syrup|4|oz|Hot Coffee|Coffee|1.5|oz|Bourbon|Bourbon|2|tbsp|Maple Whipped Cream|Cream|.5|tbsp|Crumbled Candy Cane|Candy
+Improved Hair of the Pup|Movie|Addams Family|F|How to drink|https://www.youtube.com/c/howtodrink|Add all ingredients to shaker.|Dry shake.|Add egg.|Shake again.|Strain into coupe glass.|Garnish with star anise.
+1|each|Egg|Egg|.5|oz|Simple Syrup|2|dashes|Peychaud's Bitters|Bitters|3|dashes|Cholula Chipotle Sauce|Hot Sauce|2|oz|Vodka|Vodka|2|oz|Ice|Ice|1|each|Star Anise|Spice
