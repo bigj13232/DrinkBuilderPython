@@ -506,7 +506,7 @@ Light Side|Movie|Star Wars|F|iDrink|http://www.idrink.com/|Mix blue Curaçao and
 40|ml|Blue Curaçao|Liqueur|20|ml|Creme de Cacao|Liqueur|1|cube|Ice|Ice|200|ml|Milk|Milk
 Master Yoda|Movie|Star Wars|F|iDrink|http://www.idrink.com/|Mix equal parts Cinnamon Schnapps, Melon Liqueur and Irish Cream, and 1/2 oz Blue Curaçao, over ice.|Add Milk and Splash of Rum on top.|Mix until well blended.
 .5|oz|Blue Curaçao|Liqueur|1|oz|Cinnamon Schnapps|Schnapps|1|oz|Irish Cream|Liqueur|1|oz|Midori|Liqueur|1|splash|Rum|Rum
-Darth Maul|Movie|Star Wars|F|iDrink|http://www.idrink.com/|Add Gin first, then add the rest of the ingrediants.|Stir gently.
+Darth Maul|Movie|Star Wars|F|iDrink|http://www.idrink.com/|Add Gin first, then add the rest of the ingredients.|Stir gently.
 1|part|Chocolate Syrup|Syrup|3|part|Gin|Gin|1|part|Raspberry Syrup|Syrup
 Jar Jar Binks|Movie|Star Wars|F|iDrink|http://www.idrink.com/|Add ingredients and shake with ice.|Strain into glass of choice.
 3|parts|Blue Curaçao|Liqueur|1|part|Lemon Juice|Juice|2|oz|Strawberry Schnapps|Schnapps|1|part|Vodka|Vodka
@@ -860,3 +860,43 @@ Elfish Coffee|Movie|Elf|F|How to drink|https://www.youtube.com/c/howtodrink|Comb
 .75|oz|Maple Syrup|Syrup|4|oz|Hot Coffee|Coffee|1.5|oz|Bourbon|Bourbon|2|tbsp|Maple Whipped Cream|Cream|.5|tbsp|Crumbled Candy Cane|Candy
 Improved Hair of the Pup|Movie|Addams Family|F|How to drink|https://www.youtube.com/c/howtodrink|Add all ingredients to shaker.|Dry shake.|Add egg.|Shake again.|Strain into coupe glass.|Garnish with star anise.
 1|each|Egg|Egg|.5|oz|Simple Syrup|2|dashes|Peychaud's Bitters|Bitters|3|dashes|Cholula Chipotle Sauce|Hot Sauce|2|oz|Vodka|Vodka|2|oz|Ice|Ice|1|each|Star Anise|Spice
+Tavern Punch|Board Game|Dungeons and Dragons|F|How to drink|https://www.youtube.com/c/howtodrink|Combine all ingredients in punch bowl.|Garnish with nutmeg.
+34|oz|Scotch Ale|Beer|17|oz|Viking Blod Mead|Mead|5|oz|Oleo Saccharum|Other|2|oz|Cinnamon Syrup|Syrup|9|oz|Orange Juice|Juice
+Tavern Punch, single|Board Game|Dungeons and Dragons|F|How to drink|https://www.youtube.com/c/howtodrink|Combine all ingredients glass.|Stir.|Enjoy!
+4.25|oz|Scotch Ale|Beer|2|oz|Viking Blod Mead|Mead|.5|oz|Oleo Saccharum|Other|.25|oz|Cinnamon Syrup|Syrup|1|oz|Orange Juice|Juice
+Kobold Kooler|Board Game|Dungeons and Dragons|F|How to drink|https://www.youtube.com/c/howtodrink|Add all ingredients except ice and seltzer to shaker.|Dry shake.|Add ice.|Shake again.|Double strain into glass.|Top with seltzer.
+1|each|Egg White|Egg|1|oz|Lemon Juice|Juice|1|oz|Grenadine|Mixer|2|oz|Hibiscus Tea|Tea|2|oz|Ice|Ice
+Mega Seed Extract|Cartoon|Rick and Morty|F|How to drink|https://www.youtube.com/c/howtodrink|Add all ingredients except ice to shaker.|Dry shake.|Add ice.|Shake again.|Strain into coupe glass.|Garnish with grated tonka bean.
+1|each|Egg White|Egg|.5|oz|Tonka Bean Syrup|Syrup|.5|oz|Mr. Black Coffee Liqueur|Liqueur|2|oz|Blended Scotch|Scotch|2|oz|Ice|Ice
+Tonka Bean Syrup|Recipe|Mega Seed Extract|T|How to drink|https://www.youtube.com/c/howtodrink|Add all ingredients to a blender.|Blend.|Transfer to sauce pan and heat until boiling.|Simmer for a few minutes.|Let cool.|Bottle.
+500|g|Water|Water|500|g|Sugar|Sugar|10|each|Tonka Beans|Other
+Sanderson Sisters Slammer|Movie|Hocus Pocus|F|How to drink|https://www.youtube.com/c/howtodrink|Add all ingredients to shaker with ice.|Shake.|Strain into potion bottle.
+.5|oz|Lime Juice|Juice|.5|oz|Orgeat|Other|1|oz|Midori|Liqueur|1.5|oz|Gin|Gin|.5|oz|Wray & Nephew Overproof Rum|Rum|2|oz|Ice|Ice
+Pumpkin Juice|Movie|Harry Potter|T|How to drink|https://www.youtube.com/c/howtodrink|Add all ingredients to shaker with ice.|Shake.|Pour into glass.|Enjoy!
+4|oz|Juiced Pumpkin|Fruit|1.5|oz|Apricot Juice|Juice|2|dashes|Vanilla Extract|Extract|1.5|oz|Cinnamon Syrup|Syrup|.25|tsp|Ground Cinnamon|Spice|.25|oz|Ground Allspice|Spice|1.5|tbsp|Citric Acid|Other
+Adult Pumpkin Juice|Movie|Harry Potter|F|How to drink|https://www.youtube.com/c/howtodrink|Add all ingredients to shaker with ice.|Shake.|Strain into glass.|Garnish with fresh nutmeg and cinnamon stick.
+1|oz|Juiced Pumpkin|Fruit|1|oz|Cinnamon Syrup|Syrup|.25|Allspice Dram|Other|2|oz|Applejack|Brandy|2|oz|Ice|Ice|.25|tsp|Fresh ground nutmeg|Spice|1|each|Cinnamon Stick|Spice
+Cinnamon Syrup|Recipe|Pumpkin Juice|T|How to drink|https://www.youtube.com/c/howtodrink|Add all ingredients to pot.|Boil until clear.|Let cool.|Bottle.|Add additional cinnamon sticks to bottle, it will continue to flavor.
+1|part|Water|Water|2|parts|Sugar|Sugar|2|each|Whole Cinnamon sticks|Spice
+Juice of a Pumpkin|Recipe|Pumpkin Juice|T|How to drink|https://www.youtube.com/c/howtodrink|Combine ingredients in saucepan.|Heat to a boil.|Immediately let cool.|Strain through a cheesecloth into bottle.
+1|part|Puréed Pumpkin|Fruit|1|part|Water|Water
+Ecto-Cooler|Movie|Ghostbusters|F|How to drink|https://www.youtube.com/c/howtodrink|Add simple syrup, tangerine juice, and plantation 3 star to a shaker with ice.|Shake.|Strain into coupe glass.|Garnish with tangerine slice.|Add blue curaçao.|Stir to complete color transformation.
+.25|oz|Simple Syrup|Syrup|1|oz|Tangerine Juice|Juice|2|oz|Plantation 3 Star|Rum|2|oz|Ice|Ice|1|each|Tangerine Slice|Fruit|.5|oz|Blue Curaçao|Liqueur
+Sierra Madre|Video Game|Fallout|F|How to drink|https://www.youtube.com/c/howtodrink|Add all ingredients to shaker with ice.|Shake.|Double strain into tin can filled with ice.|Garnish with absinthe cotton candy.
+.5|oz|Simple Syrup|Syrup|2|oz|Vodka|Vodka|5|each|Potato Chips|Other|6|oz|Ice|Ice
+Romulan Ale|TV|Star Trek|F|How to drink|https://www.youtube.com/c/howtodrink|Add all ingredients to a shaker with ice.|Shake.|Strain into glass.
+1|oz|Simple Syrup|Syrup|1|oz|Lime Juice|Juice|1|oz|Blue Curaçao|Liqueur|2|oz|Plantation 3 Star|Rum|2|oz|Ice|Ice
+Romulan Ginger Ale|TV|Star Trek|T|How to drink|https://www.youtube.com/c/howtodrink|Add first three ingrediets to shaker with ice.|Shake.|Strain into glass.|Top with seltzer.
+.5|oz|Lime Juice|Juice|1|oz|Ginger Syrup, more to taste|Syrup|2|oz|Butterfly Pea Blossom Tea|Tea|2|oz|Ice|Ice|1|bottle|Seltzer|Soda
+Flaming Moe|Cartoon|The Simpsons|F|How to drink|https://www.youtube.com/c/howtodrink|Add all liquid ingredients to shaker with ice.|Shake.|Open pour into glass.|Garnish with flaming sugar cube lime boat and cinnamon.
+1|dash|Absinthe|Liqueur|2|dashes|Angostura Bitters|Bitters|.5|oz|Grenadine|Mixer|.5|oz|Punt e Mes|Vermouth|.25|oz|Chambord|Liqueur|.25|oz|Drambuie|Liqueur|1|oz|Rye|Whiskey|1|oz|Rhum Barbancourt White|Rum|1|each|Lime Boat|Fruit|1|each|Sugar Cube|Sugar|1|dash|Ground Cinnamon|Spice
+The Family Label|Movie|Indiana Jones|F|How to drink|https://www.youtube.com/c/howtodrink|Add all liquid ingredients to shaker with ice.|Shake.|Stain into glass.|Garnish with candied orange wheel.
+1|oz|Clementine Juice|Juice|.5|oz|Orgeat|Other|.5|oz|Kina L'Aéro D'or|Liqueur|2|oz|Mahia|Brandy|2|oz|Ice|Ice|1|each|Candied Orange Wheel|Fruit
+Six Demon Bag|Movie|Big Trouble in Little China|F|How to drink|https://www.youtube.com/c/howtodrink|Add all ingredients to shaker with ice.|Shake.|Serve.|OPTIONAL: Decant with dry ice.
+.5|oz|Pineapple Juice|Juice|1|oz|Lime Juice|Juice|2|dashes|Elemakule Tiki Bitters|Bitters|.5|oz|Ginger Syrup|Syrup|.75|Baijiu|Liqueur|2|oz|Appleton Estate 12 year Rum|Rum
+The Upside Down|TV|Stranger Things|F|How to drink|https://www.youtube.com/c/howtodrink|Add first four ingredients to mixing glass.|Stir over ice.|Pour into empty rocks glass (no ice).|Drop several drops of squid ink into the glass.|Twist a lemon peel over the top (discard the peel).
+.25|oz|Chocolate Liqueur|Liqueur|.5|oz|Maple Syrup|Syrup|2|oz|Blanco Tequila|Tequila|2|dashes|Peychaud's Bitters|Bitters|2|oz|Ice|Ice|3|drops|Squid Ink|Other|1|each|Lemon Peel|Fruit
+Horatio Cornblower|TV|Archer|F|How to drink|https://www.youtube.com/c/howtodrink|Add all ingredients to mixingg glass.|Stir over ice.|Pour into coupe glass.|Garnish with an orange twist.
+1|oz|Corn Silk Syrup|Syrup|.25|oz|Orange Peach Liqueur|Liqueur|2|oz|Mellow Corn Whiskey|Whiskey|1|dash|20% Saline Solution|Other|2|oz|Ice|Ice|1|each|Orange Twist|Fruit
+Corn Silk Syrup|Recipe|Horatio Cornblower|T|How to drink|https://www.youtube.com/c/howtodrink|Bring 1.5 cups of water to a boil in a pot.|Steep 4 tea bags until dark, 3 minutes.|Remove tea bags.|Add demerara sugar.|Boil until dissolved.|Bottle.
+12|oz|Water|Water|4|each|Korean Corn Silk Tea Bags|3|cups|Demerara Sugar|Sugar
