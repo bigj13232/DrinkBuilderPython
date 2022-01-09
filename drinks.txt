@@ -900,3 +900,9 @@ Horatio Cornblower|TV|Archer|F|How to drink|https://www.youtube.com/c/howtodrink
 1|oz|Corn Silk Syrup|Syrup|.25|oz|Orange Peach Liqueur|Liqueur|2|oz|Mellow Corn Whiskey|Whiskey|1|dash|20% Saline Solution|Other|2|oz|Ice|Ice|1|each|Orange Twist|Fruit
 Corn Silk Syrup|Recipe|Horatio Cornblower|T|How to drink|https://www.youtube.com/c/howtodrink|Bring 1.5 cups of water to a boil in a pot.|Steep 4 tea bags until dark, 3 minutes.|Remove tea bags.|Add demerara sugar.|Boil until dissolved.|Bottle.
 12|oz|Water|Water|4|each|Korean Corn Silk Tea Bags|3|cups|Demerara Sugar|Sugar
+The Endgame|Movie|Avengers|F|How to drink|https://www.youtube.com/c/howtodrink|Add all ingredients to shaker with ice.|Shak vigorously.|Strain into a nick and nora glass.
+1|oz|Lagavulin 16|Whiskey|1|oz|Maraschino|Liqueur|1|oz|Chartreuse|Liqueur|1|oz|Lemon Juice|Juice|2|oz|Ice|Ice
+The Odium|Movie|Captain Marvel|F|How to drink|https://www.youtube.com/c/howtodrink|Add all ingredients to glass with ice.|Stir.|Smoke with hickory.|Serve as you like.
+.5|oz|Molasses|Other|.5|oz|Maurin Quina|Liqueur|2|oz|Vodka|Vodka|1|oz|Lime Juice|Juice|2|oz|Ice|Ice
+The Swanky Panky|TV|Bob's Burgers|F|How to drink|https://www.youtube.com/c/howtodrink|Add all liquid ingredients to mixing glass with ice.|Stir.|Serve in coupe glass.
+2|oz|Antica Sweet Vermouth|Vermouth|1|oz|Aviation Gin|Gin|1|oz|Rittenhouse Rye|Whiskey|2|dashes|Fernet Branca|Bitter|2|oz|Ice|Ice|1|each|Orange Twist|Fruit
