@@ -906,3 +906,11 @@ The Odium|Movie|Captain Marvel|F|How to drink|https://www.youtube.com/c/howtodri
 .5|oz|Molasses|Other|.5|oz|Maurin Quina|Liqueur|2|oz|Vodka|Vodka|1|oz|Lime Juice|Juice|2|oz|Ice|Ice
 The Swanky Panky|TV|Bob's Burgers|F|How to drink|https://www.youtube.com/c/howtodrink|Add all liquid ingredients to mixing glass with ice.|Stir.|Serve in coupe glass.
 2|oz|Antica Sweet Vermouth|Vermouth|1|oz|Aviation Gin|Gin|1|oz|Rittenhouse Rye|Whiskey|2|dashes|Fernet Branca|Bitter|2|oz|Ice|Ice|1|each|Orange Twist|Fruit
+2nd Potion|Video Game|Zelda|F|How to drink|https://www.youtube.com/c/howtodrink|Add first three ingredients to shaker with ice.|Shake.|Pour into potion bottle.|Add lime juice and seltzer to complete color change.
+2|oz|Blue Rum|Rum|1|oz|Simple Syrup|Syrup|.25|oz|Maraschino|Liqueur|2|oz|Ice|Ice|1|oz|Lime Juice|Juice|3|oz|Seltzer|Soda
+T-Virus|Video Game|Resident Evil|F|How to drink|https://www.youtube.com/c/howtodrink|Add all ingredients to shaker with ice.|Shake.|Strain into glass with crushed ice.|Garnish with fresh mint and umbrella.
+1|oz|Lime Juice|Juice|.5|oz|Allspice Dram|Liqueur|.25|oz|Grenadine|Mixer|1.5|oz|Plantation 5 Year|Rum|1.5|oz|Appleton Estate 12 Year|Rum|.5|oz|Wray & Nephew Overproof|Rum|2|oz|Ice|Ice|4|oz|Crushed Ice|Ice
+Stimpak Shot|Video Game|Fallout|F|How to drink|https://www.youtube.com/c/howtodrink|Combine all ingredients in shot glass.|Enjoy!
+1|oz|Lemon Juice|Juice|1|oz|Ginger Syrup|Syrup|1|oz|Vodka|Vodka|.25|oz|Suze|Liqueur
+Miracle Pill|Movie|Princess Bride|F|ow to drink|https://www.youtube.com/c/howtodrink|Add all ingredients to shaker.|Dry shake.|Add ice.|Shake again|Strain into glass.|Garnish with orange twist and fresh grated dark chocolate.
+.5|oz|Amaretto|Liqueur|.5|oz|Benedictine|Liqueur|1|oz|Bourbon|Bourbon|2.5|oz|Cold Brew|Coffee|2|oz|Ice|Ice|1|each|Orange Twist|Fruit|1|tsp|Fresh Grated Dark Chocolate|Chocolate
