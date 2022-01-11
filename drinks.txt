@@ -920,3 +920,31 @@ Vesper 2|Movie|James Bond|F|How to drink|https://www.youtube.com/c/howtodrink|Ad
 1.5|oz|Gordon's Gin|Gin|.5|oz|Vodka|Vodka|.25|oz|Cocchi Americano|Liqueur|2|oz|Ice|Ice|1|each|Lemon Twist|Fruit
 Vesper 3|Movie|James Bond|F|How to drink|https://www.youtube.com/c/howtodrink|Add all ingredients to shaker with ice.|Shake.|Strain into martini glass.|Garnish with twist of lemon.
 1.5|oz|Ford's Gin|Gin|.5|oz|Vodka|Vodka|.25|oz|Kina l'Aero d'Or|Liqueur|2|oz|Ice|Ice|1|each|Lemon Twist|Fruit
+Spider's Web|Comic Book|Spiderman|F|iDrink|http://www.idrink.com/|Mix together with crushed ice in a glass.|Garnish with mint leaves.
+4|oz|Cinnamon Schnapps|Schnapps|1.5|oz|Whipped Cream|Cream|1|drop|Strawberry Juice|Juice|2|oz|Crushed Ice|Ice|3|each|Mint Leaves|Herb
+Kahlua Cobweb|Comic Book|Spiderman|F|iDrink|http://www.idrink.com/|Mix together with crushed ice in a glass.|Garnish with mint leaves.
+1|oz|Coffee Liqueur|Liqueur|5|oz|Cola|Soda|1|scoop|Ice Cream|Ice Cream|1.5|oz|Dark Rum|Rum|2|oz|Crushed Ice|Ice|3|each|Mint Leaves|Herb
+Green Goblin|Comic Book|Spiderman|F|iDrink|http://www.idrink.com/|Mix together with crushed ice in a glass.|Garnish with mint leaves.
+1|oz|Apple Schnapps|Schnapps|1|oz|Peach Schnapps|Schnapps|1|oz|Coconut Rum|Rum|1|oz|Sweet and Sour Mix|Mixer|1|oz|Vodka|Vodka|2|oz|Crushed Ice|Ice|3|each|Mint Leaves|Herb
+Kahlua Spider|Comic Book|Spiderman|F|iDrink|http://www.idrink.com/|Pour Kahlua into tall glass.|Add coke and then icecream.|Push ice cream down to get desired foam effect.|Drink through a straw.
+40|ml|Kahlua|Liqueur|200|ml|Cola|Soda|1|scoop|Vanilla Ice Cream|Cream
+White Spider|Comic Book|Spiderman|F|iDrink|http://www.idrink.com/|Add all ingredients to shaker with ice.|Shake.|Strain into chilled glass.
+1|oz|White Creme de Menthe|Liqueur|2|oz|Vodka|Vodka|2|oz|Ice|Ice
+Green Goblin|Comic Book|Spiderman|F|iDrink|http://www.idrink.com/|Mix together with crushed ice in a glass.|Garnish with mint leaves.
+.5|pint|Beer|Beer|.5|oz|Cider|Cider|1.5|oz|Blue Curaçao|Liqueur|2|oz|Crushed Ice|Ice|3|each|Mint Leaves|Herb
+Radioactive Long Island Iced Tea|Comic Book|Spiderman|F|iDrink|http://www.idrink.com/|Mix together with crushed ice in a glass.|Garnish with mint leaves.
+1|oz|Gin|Gin|1|oz|Midori|Liqueur|1|oz|Rum|Rum|1|oz|Coconut Rum|Rum|1|oz|Tequila|Tequila|1|oz|Triple Sec|Liqueur|1|oz|Vodka|Vodka|1|oz|Chambord|Liqueur|2|oz|Crushed Ice|Ice|3|each|Mint Leaves|Herb
+Bart Simpson|Cartoon|The Simpsons|F|iDrink|http://www.idrink.com/|Mix together with crushed ice in a glass.|Garnish with mint leaves.
+.5|oz|Amaretto|Liqueur|1|splash|Cranberry Juice|Juice|.5|oz|Peach Schnapps|.5|oz|Whiskey|Whiskey|2|oz|Crushed Ice|Ice|3|each|Mint Leaves|Herb
+Simpson Solution|Cartoon|The Simpsons|F|iDrink|http://www.idrink.com/|Mix together with crushed ice in a glass.|Garnish with mint leaves.
+2|gallons|Orange Juice|Juice|750|ml|Peach Schnapps|Schnapps|750|ml|Vodka|Vodka|2|oz|Crushed Ice|Ice|3|each|Mint Leaves|Herb
+Barney Fizz|Cartoon|The Simpsons|F|iDrink|http://www.idrink.com/|Blend all ingredients with ice.|Strain into a tall glass.
+1|oz|Amaretto|Liqueur|1|each|Egg White|Egg|.5|oz|Grain Alcohol|Other|1|tbsp|Sugar|Sugar|1|oz|Chambord|Liqueur|3|oz|Grape Juice|Juice
+Flaming Moe|Cartoon|The Simpsons|F|iDrink|http://www.idrink.com/|Mix all ingredients in a tall glass.|Add cough syrup and ignite.|Extinguish and drink.
+1|oz|Blackberry Liqueur|Liqueur|1|oz|Brandy|Brandy|1|oz|Peppermint Schnapps|Schnapps|1|oz|Sloe Gin|Gin|1|oz|Strawberry Juice|Juice|1|bottle|Cough Syrup|Other
+Nuclear Waste|Cartoon|The Simpsons|F|iDrink|http://www.idrink.com/|Add all ingredients to shaker with ice.|Shake.|Strain into glass.|Enjoy!
+1|dash|Lime Juice|Juice|1|oz|Midori|Liqueur|1|oz|Triple Sec|Liqueur|1.5|oz|Vodka|Vodka|2|oz|Ice|Ice
+The Bartman|Cartoon|The Simpsons|F|iDrink|http://www.idrink.com/|Mix together with crushed ice in a glass.|Garnish with mint leaves.
+12|oz|Lemon Lime Soda|Soda|3|oz|Rum|Rum|.75|oz|Maui Blue Hawaiian Schnapps|Schnapps|3|each|Mint Leaves|Herb|2|oz|Crushed Ice|Ice
+Nuclear Kool-Aid|Cartoon|The Simpsons|F|iDrink|http://www.idrink.com/|Mix together with crushed ice in a glass.|Garnish with mint leaves.
+3|oz|Lemon Lime Soda|Soda|.75|oz|Amaretto|Liqueur|3|oz|Cranberry Juice|Juice|1.5|oz|Southern Comfort|Liqueur|2|oz|Crushed Ice|Ice|3|oz|Mint Leaves|Herb

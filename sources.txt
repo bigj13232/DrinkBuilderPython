@@ -1,6 +1,4 @@
 https://www.youtube.com/c/SecretoftheBooze
-http://www.idrink.com/spiderman.html
-http://www.idrink.com/simpsons.html
 http://www.idrink.com/jamesbond.html
 http://www.idrink.com/hitchhikers.html
 http://www.idrink.com/ghostbusters.html
@@ -32,3 +30,4 @@ https://cocktail-nerd.tumblr.com/
 https://www.lemonbaby.co/
 https://thecocktailnovice.com/geek-cocktails/
 https://www.youtube.com/c/howtodrink
+http://www.idrink.com
