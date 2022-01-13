@@ -25,7 +25,7 @@ Wiggin-Tini: Andrew "Ender" Wiggin|Book|Ender's Game|F|The Drunken Moogle|https:
 Gandalf Grog|Book|Lord of the Ring|F|The Drunken Moogle|https://thedrunkenmoogle.com/|Mix Myers Dark Rum, Lime Juice, and Brown Sugar.|Pour in boiling hot water.|Garnish with cinnamon stick and srange peel.
 8|oz|Boiling Water|Water|2|oz|Myer's Dark Rum|Dark Rum|.25|oz|Lime Juice|Juice|1|tbs|Brown Sugar|Brown Sugar|1|each|Cinnamon Stick|Cinnamon Stick|1|each|Orange Peel|Fruit
 The One Ring|Book|Lord of the Ring|F|The Drunken Moogle|https://thedrunkenmoogle.com/|Rim a shot glass with sugar, preferably yellow sugar.|Pour in chilled Aftershock and layer Galliano.
-.5|oz|Aftershock|Liqueur|1|oz|Galliano|0|tbs|Yellow Sugar(preffered)|Sugar
+.5|oz|Aftershock|Liqueur|1|oz|Galliano|Liquer|1|tbs|Yellow Sugar(preffered)|Sugar
 Pan-Galactic Gargle Blaster 2|Book|Hitchhiker's Guide to the Galaxy|F|The Drunken Moogle|https://thedrunkenmoogle.com/|Fill a highball glass ¾ full of ice.|Add the Jack Daniels and peach schnapps, then top off with orange juice.|Mix well, then add the blue Curaçao over the top.|Garnish with a lemon twist and olive, if you chose to include it.
 1|oz|Jack Daniels|Whiskey|1|oz|Peach Schnapps|Schnapps|5|oz|Orange|Juice|Juice|1|splash|Blue Curaçao|Liqueur|1|each|Lemon Twist|Fruit|1|each|Olive|Optional
 Raphael|Cartoon|Teenage Mutant Ninja Turtles|F|The Drunken Moogle|https://thedrunkenmoogle.com/|Add all ingredients to glass and stir
@@ -974,3 +974,15 @@ Miss Moneypenny|Movie|James Bond|F|iDrink|http://www.idrink.com/|Mix together wi
 1|dash|Apricot Brandy|Brandy|25|ml|Cognac|Cognac|50|ml|Creme de Cacao|Liqueur|2|oz|Crushed Ice|Ice|3|each|Mint Leaves|Herb
 Octopussy|Movie|James Bond|F|iDrink|http://www.idrink.com/|Mix together with crushed ice in a glass.|Garnish with mint leaves.
 .5|oz|Amaretto|Liqueur|1|oz|Apple Schnapps|Schnapps|1.5|oz|Orange Juice|Juice|1|oz|Sloe Gin|Gin|1.5|oz|Sweet and Sour mix|Mixer|1|oz|Triple Sec|Liqueur|2|oz|Crushed Ice|Ice|3|each|Mint Leaves
+Norwegian Iceberg|Book|Hitchhiker's Guide to the Galaxy|F|iDrink|http://www.idrink.com/|Mix together with crushed ice in a glass.|Garnish with mint leaves.
+6|oz|Lemon Lime Soda|Soda|4.5|oz|Vodka|Vodka|1.5|oz|Maui Blue Hawaiian Schnapps|Schnapps|2|oz|Crushed Ice|Ice|3|each|Mint Leaves|Herb
+Heart of Gold|Book|Hitchhiker's Guide to the Galaxy|F|iDrink|http://www.idrink.com/|Fill a shaker half full with ice cubes.|Pour all ingredients into shaker.|Shake well.|Strain drink into a cocktail glass.
+1|oz|Cream|Cream|.5|oz|White Creme de Cacao|Liqueur|.5|oz|Galliano|Liqueur|1|oz|Vodka|Vodka|3|oz|Ice|Ice
+Arthur's Day Dream|Book|Hitchhiker's Guide to the Galaxy|F|iDrink|http://www.idrink.com/|Mix together with crushed ice in a glass.|Garnish with mint leaves.
+2|oz|Club Soda|Soda|1|oz|Lemon Juice|Juice|.5|oz|Strawberry Syrup|Syrup|2|oz|Tequila|Tequila|3|oz|Strawberry Puree|Fruit|2|oz|Crushed Ice|Ice|3|each|Mint Leaves|Herb
+Slimer|Movie|Ghostbusters|F|iDrink|http://www.idrink.com/|Mix all ingredients in glass with ice.|Enjoy!
+12|oz|Lemon Lime Soda|2|oz|Melon Liqueur|Liqueur|3|oz|Sweet and Sour Mix|Mixer|1.5|oz|Vodka|Vodka
+Ghostbuster|Movie|Ghostbusters|F|iDrink|http://www.idrink.com/|Mix all ingredients in glass with ice.|Enjoy!
+2|oz|Coffee Liqueur|Liqueur|2|oz|Irish Cream|Liqueur|2|oz|Vodka|Vodka|2|oz|Ice|Ice
+Amy's Tatoo|TV|Futurama|F|iDrink|http://www.idrink.com/|Mix together with crushed ice in a glass.|Garnish with mint leaves.
+1|splash|Grenadine|Mixer|2|oz|Orange Juice|Juice|2|oz|Pineapple Juice|Juice|.5|oz|Dark Rum|Rum|.5|oz|Light Rum|Rum|2|oz|Crushed Ice|Ice|3|each|Mint Leaves|Herb
