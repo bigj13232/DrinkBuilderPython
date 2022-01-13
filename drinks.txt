@@ -986,3 +986,9 @@ Ghostbuster|Movie|Ghostbusters|F|iDrink|http://www.idrink.com/|Mix all ingredien
 2|oz|Coffee Liqueur|Liqueur|2|oz|Irish Cream|Liqueur|2|oz|Vodka|Vodka|2|oz|Ice|Ice
 Amy's Tatoo|TV|Futurama|F|iDrink|http://www.idrink.com/|Mix together with crushed ice in a glass.|Garnish with mint leaves.
 1|splash|Grenadine|Mixer|2|oz|Orange Juice|Juice|2|oz|Pineapple Juice|Juice|.5|oz|Dark Rum|Rum|.5|oz|Light Rum|Rum|2|oz|Crushed Ice|Ice|3|each|Mint Leaves|Herb
+Stary Puft Marshmallow Man|Movie|Ghostbusters|F|Secret of the Booze|https://www.youtube.com/c/SecretoftheBooze|Fill shaker with ice.|Add ingredients.|Shake for 30 seconds.|Strain into glass.|Layer moonshine on top.|Garnish with a toothpick of marshmallows across glass.|Ignite moonshine.|Add dash of cinnamon.|Extinguish.|Enjoy!
+2|oz|Rum Chata|Liquer|.5|oz|Toasted Marshmallow Syrup|Syrup|2|oz|Crystal Head Vodka|Vodka|1|tbsp|Moonshine|Moonshine|2|each|Marshmallows|Marshmallow|1|each|Toothpick|Other|1|dash|Cinnamon|Spice
+Oogie Boogie|Movie|Nightmare Before Christmas|F|Secret of the Booze|https://www.youtube.com/c/SecretoftheBooze|Add Midori, Limeade, Vodka and ice to blender.|Blend.|Rim glass with green cake sprinkles.|Pour contents of blender into glass.|Garnish with gummi worms.
+.75|oz|Midori|Liquer|2|oz|Limeade|Juice|1|oz|Vodka|Vodka|3|oz|Ice|Ice|1|oz|Simple Syrup|Syrup|2|tbsp|Green Cake Sprinkles|Sprinkles|3|each|Gummi Worms|Candy
+Butterbeer|Movie|Harry Potter|F|Secret of the Booze|https://www.youtube.com/c/SecretoftheBooze|Add schnapps, creme de cacao and spiced rum to shaker with ice.|Shake for 30 seconds.|Strain into glass.|Top with cream soda.|Mix vodka and marshmallow fluff.|Layer marshmallow/vodka solution on top
+2|oz|Butterscotch Schnapps|1|oz|Vanilla Schnapps|Schnapps|.5|oz|Creme de Cacao|Liquer|.5|oz|Spiced Rum|Rum|4|oz|Ice|Ice|1|bottle|Cream Soda|Soda|1|oz|Vodka|Vodka|1|oz|Marshmallow Fluff|Marshmallow
