@@ -992,3 +992,19 @@ Oogie Boogie|Movie|Nightmare Before Christmas|F|Secret of the Booze|https://www.
 .75|oz|Midori|Liquer|2|oz|Limeade|Juice|1|oz|Vodka|Vodka|3|oz|Ice|Ice|1|oz|Simple Syrup|Syrup|2|tbsp|Green Cake Sprinkles|Sprinkles|3|each|Gummi Worms|Candy
 Butterbeer|Movie|Harry Potter|F|Secret of the Booze|https://www.youtube.com/c/SecretoftheBooze|Add schnapps, creme de cacao and spiced rum to shaker with ice.|Shake for 30 seconds.|Strain into glass.|Top with cream soda.|Mix vodka and marshmallow fluff.|Layer marshmallow/vodka solution on top
 2|oz|Butterscotch Schnapps|1|oz|Vanilla Schnapps|Schnapps|.5|oz|Creme de Cacao|Liquer|.5|oz|Spiced Rum|Rum|4|oz|Ice|Ice|1|bottle|Cream Soda|Soda|1|oz|Vodka|Vodka|1|oz|Marshmallow Fluff|Marshmallow
+Don't Make Me Angry|Movie|Incredible Hulk|F|Secret of the Booze|https://www.youtube.com/c/SecretoftheBooze|Add all ingredients to glass with ice.|Starting with a shot glass. Strain into four successively larger glasses.
+2|oz|Pineapple Rum|Rum|4|oz|Surge|Soda|1|oz|Vodka|Vodka|2|oz|Club Soda|Soda|4|oz|Ice|Ice
+Rainbow Road|Video Game|Mario Kart|F|Secret of the Booze|https://www.youtube.com/c/SecretoftheBooze|Build in glass filled with ice.|Add grenadined, silver rum, grapefruit juice, orange juice, a bit more rum, kool-aid, and a bit more rum.|Enjoy!
+.5|oz|Grenadine|Mixer|2|oz|Silver Rum|Rum|1|oz|Grapefruit Juice|Juice|1|oz|Orange Juice|Juice|1|oz|Kool-Aid Berry Burst|Kool-Aid|4|oz|Ice|Ice
+It was Agatha All Along|TV|Wandavision|F|Secret of the Booze|https://www.youtube.com/c/SecretoftheBooze|Add all ingredients to brandy snifter with ice.|Garnish with dried orange wheel.|Enjoy!
+2|oz|Lavender Syrup|Syrup|2|oz|Cranberry Juice|Juice|2|oz|Lunar Gin|Gin|.5|oz|Bourbon|Bourbon|1|oz|Mead|Mead|.5|oz|Blue Curaçao|Liquer|2|oz|Ice|Ice|1|each|Dried Orange Wheel|Fruit
+Audrey 2|Movie|Little Shop of Horrors|F|Secret of the Booze|https://www.youtube.com/c/SecretoftheBooze|Add blackberries and mint leaves to shaker.|Muddle.|Add simple syrup and rum.|Shake for 30 seconds.|Pour into glass.|Add club soda and lime jucie.|Garnish with sprig of mint leaves.
+4|each|Blackberries|Fruit|6|each|Mint Leaves|Herb|1|oz|Simple Syrup|Syrup|2|oz|Rum|Rum|2|oz|Ice|Ice|2|oz|Club Soda|.5|oz|Lime Juice|1|sprig|Mint Leaves|Herb
+Pickle Rick|Cartoon|Rick and Morty|F|Secret of the Booze|https://www.youtube.com/c/SecretoftheBooze|Add liquid ingredients to shaker filled with ice.|Shake for 30 seconds.|Strain into cored out pickle.|Enjoy.
+.5|oz|Szechuan Sauce|Other|1|oz|Pickle Juice|Other|1|oz|Irish Whiskey|Whiskey|1|each|Core Out Pickle|Other|6|oz|Ice|Ice
+The Coven|Movie|The Craft|F|Secret of the Booze|https://www.youtube.com/c/SecretoftheBooze|Add gin, lavender syrup and aquafaba to shaker, then ice.|Chill and shake for 30 seconds.|Strain into glass over elderflower tonic.|Use paper cutout to create moon sliver.|Enjoy!
+1.5|oz|Empress 1908 Gin|Gin|.75|oz|Lavender Syrup|Syrup|.5|oz|Aquafaba|Other|2|oz|Ice|Ice|1|oz|Elderflower Tonic|Tonic|1|tbsp|Purple Cake Sprinkles|Sprinkles
+Mike's Special Stuff|Movie|Space Jam|F|Secret of the Booze|https://www.youtube.com/c/SecretoftheBooze|Add all ingredients to shaker.|Chill and shake for 30 seconds.|Strain into coupe glass.
+2|oz|Tequila|Tequila|1|oz|Lime Juice|Juice|1|tbsp|Blackberry Jam|Jam|1|tbsp|Raspberry Jam|Jam|1|dash|Edible Silver Powder|2|oz|Ice|Ice
+God of Thunder|Movie|Thor|F|Secret of the Booze|https://www.youtube.com/c/SecretoftheBooze|Add mead, spiced whiskey and grenadine to shaker.|Fill shaker with ice.|Shake for 30 seconds.|Strain into glass filled with ice.|Add blue raspberry mix, gin and glitter dust to shot glass.|Stir gently.|Serve both drinks together.|Enjoy!
+4|oz|Mead|Mead|1.5|oz|Spiced Whiskey|Whiskey|1|splash|Grenadine|Mixer|6|oz|Ice|Ice|.75|oz|Blue Raspberry Mix|Mixer|.75|oz|Midsummer Gin|Gin|2|tsp|Edible Glitter Dust
