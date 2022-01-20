@@ -69,7 +69,7 @@ Black Lotus|Games|Magic the Gathering|F|The Drunken Moogle|https://thedrunkenmoo
 Chandra Ablaze|Games|Magic the Gathering|F|The Drunken Moogle|https://thedrunkenmoogle.com/|Add all ingredients to a mixing glass with ice and stir well.|Strain into a medium glass with ice and garnish with an orange.|More bitters can be added if needed to increase the heat content if you desire.
 1.5|oz|Orangecello|Liqueur|1|oz|Vodka|Vodka|2|oz|Sweet & Sour|Mixer|.25|oz|Grenadine|Mixer|5|drops|Bitterman's Hellfire Habanero Shrub Bitters|Bitters
 Jace Mind Sculptor|Games|Magic the Gathering|F|The Drunken Moogle|https://thedrunkenmoogle.com/|Add ice and water to a Martini glass to chill the glass.|Add all ingredients to a mixer glass with ice and stir well.|Dump the ice out of the Martini glass and strain the drink into it and garnish with an orange peel.
-.5|oz|Hypnotiq|Liqueur|1|oz|Blue Curaçao|Liqueur|.5|oz|Bacardi 151|Rum|1|oz|Sweet & Sour|Mixer|1|each|Orange Peel|Fruit
+.5|oz|Hpnotiq|Liqueur|1|oz|Blue Curaçao|Liqueur|.5|oz|Bacardi 151|Rum|1|oz|Sweet & Sour|Mixer|1|each|Orange Peel|Fruit
 Star Lord|Comic Book|Guardians of the Galaxy|T|The Drunken Moogle|https://thedrunkenmoogle.com/|Mix all ingredients in glass of choice.|Add pepper as garnish.
 1|each|Habanero Pepper|Vegetable|1.5|oz|Ginger Beer|Ginger Beer|3|oz|Strawberry Orange Juice|Juice|1|oz|Pineapple Juice|Juice
 Gurdyroot Infusion|Book|Harry Potter|T|The Drunken Moogle|https://thedrunkenmoogle.com/|Mix all ingredients in glass of choice.|Add slice of Ginger as garnish.
@@ -359,7 +359,7 @@ Captain Marvel's Star|Comic Book|Captain Marvel|F|This Worthey Life|https://www.
 The Heart Shaped Cocktail|Movies|Black Panther|F|This Worthey Life|https://www.awortheyread.com/|Into a bar mixing glass add coconut rum, pineapple rum, lavender, Crème de violette, and black currant syrup.|Mix very well using a long-handled bar spoon.|Strain in a rocks glass over a single large cube of ice.|Garnish with edible purple flowers.|Serve.
 1|oz|Don Q Coconut Rum|Rum|1|oz|Malibu Pineapple Rum|Rum|1|oz|Lavender Syrup|Syrup|1|oz|Creme de violette|Liqueur|.5|oz|Black Currant Syrup|Syrup
 Vibranium|Movies|Black Panther|F|This Worthey Life|https://www.awortheyread.com/|In a cocktail glass, add several ice cubes, add Hynotiq, strawberry Italian Soda, mango rum, Grand Marnier liqueur, and Curaçao liqueur.|Stir vigorously with a long-handled bar spoon and strain into a standard rocks glass filled with chisled ice.|Garnish with fresh strawberries and an orange slice.|Serve.
-2|oz|Hypnotiq|Liqueur|2|oz|Strawberry Italian Soda|Soda|1|oz|Mango Rum|Rum|1|oz|Grand Marnier|Liqueur|1|tbsp|Blue Curaçao|Liqueur|1|each|Strawberry|Fruit|1|each|Orange Slice|Fruit|1|cup|Ice|Ice
+2|oz|Hpnotiq|Liqueur|2|oz|Strawberry Italian Soda|Soda|1|oz|Mango Rum|Rum|1|oz|Grand Marnier|Liqueur|1|tbsp|Blue Curaçao|Liqueur|1|each|Strawberry|Fruit|1|each|Orange Slice|Fruit|1|cup|Ice|Ice
 Hey Auntie|Movie|Black Panther|F|This Worthey Life|https://www.awortheyread.com/|Into a cocktail shaker add ice, Hennessey, Don Q Coconut rum, red velvet syrup, and Calypso Black Cherry Lemonade.|Secure the cocktail shaker lid and shake vigorously for 30 seconds.|Fill a standard rocks glass with cracked ice, strain the cocktail into the serving glass.|Garnish with two stemmed Maraschino cherries.|Serve.
 1.25|oz|Hennessey|Cognac|1|oz|Don Q Coconut Rum|Rum|1|oz|Torani Red Velvet Cake Syrup|Syrup|3.5|oz|Calypso Black Cherry Lemonade|Lemonade|2|each|Maraschino Cherries|Fruit|1|cup|Ice|Ice
 The Chiling Mist|Movie|Black Panther|F|This Worthey Life|https://www.awortheyread.com/|Into a shooter glass, add chilled sorrel infused simple syrup and pineapple juice,.|ver the back of a bar-spoon float the chilled Blavod black vodka over the sorrel and pineapple infusion.|Add a rolled sorrel leaf and a wedge of fresh-cut pineapple.|Serve.
@@ -1054,3 +1054,11 @@ Banana|Movie|Minions|F|Secret of the Booze|https://www.youtube.com/c/Secretofthe
 4|oz|Milk|Milk|2|oz|Banana Liqueur|Liqueur|1|oz|Chocolate Vodka|Vodka|2|each|Banana Slices|Fruit
 Special Beam Cannon|Anime|Dragonball|F|Secret of the Booze|https://www.youtube.com/c/SecretoftheBooze|Take your Twizzler and swirl it inside the glass Pour ingredients in order as listed.|Shoot back just after screaming special beam cannon.
 1.5|oz|Jim Beam|Bourbon|.75|oz|Triple Sec|Liqueur|.75|oz|Vodka|Vodka|1|splash|Lime Juice|Juice|1|each|Pink Twizzler|Candy
+Arc Reactor|Movie|Iron Man|F|Secret of the Booze|https://www.youtube.com/c/SecretoftheBooze|Add rum and hpnotiq to shaker with ice.|Shake for 30 seconds.|Strain into a chilled coupe glass.|Top with tonic water.
+2|oz|Coconut Rum|Rum|.5|oz|Hpnotiq|Liqueur|2|oz|Ice|Ice|1|bottle|Tonic Water|Soda
+Iron Man|Movie|Iron Man|F|Secret of the Booze|https://www.youtube.com/c/SecretoftheBooze|Add grenadine and amaretto to low ball glass.|Fill shot glass with orange juice and vodka.|Gently place filled shot glass into filled low ball glass.|Enjoy!
+1|splash|Grenadine|Mixer|4|oz|Amaretto|Liqueur|.75|oz|Vodka|Vodka|.75|oz|Orange Juice|Juice
+Pepper Potts|Movie|Iron Man|F|Secret of the Booze|https://www.youtube.com/c/SecretoftheBooze|Add vermouth to martini glass and coat.|Add vodka to shaker with ice.|Shake for 30 seconds.|Strain into martini glass.|Add olives.|Garnish with peppers skewered on a cocktail skewer.
+ 2|tsp|Dry Vermouth|Vermouth|4|oz|Vodka|Vodka|2|oz|Ice|Ice|3|each|Spanish Olives|Olive|3|each|Assorted Peppers|Vegetable
+Tony Stark|Movie|Iron Man|F|Secret of the Booze|https://www.youtube.com/c/SecretoftheBooze|Add one cherry to low ball glass and muddle.|Add bitters and ice.|Pour in scotch.|Stir gently.|Garnish with other cherry wrapped in the peel and skewered on cocktail skewer.
+ 2|each|Maraschino Cherry|Fruit|3|dashes|Orange Bitters|Bitters|2|each|Ice Cubes|Ice|2|oz|Scotch|Scotch|1|each|Orange Peel|Fruit
