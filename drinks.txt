@@ -1062,3 +1062,7 @@ Pepper Potts|Movie|Iron Man|F|Secret of the Booze|https://www.youtube.com/c/Secr
  2|tsp|Dry Vermouth|Vermouth|4|oz|Vodka|Vodka|2|oz|Ice|Ice|3|each|Spanish Olives|Olive|3|each|Assorted Peppers|Vegetable
 Tony Stark|Movie|Iron Man|F|Secret of the Booze|https://www.youtube.com/c/SecretoftheBooze|Add one cherry to low ball glass and muddle.|Add bitters and ice.|Pour in scotch.|Stir gently.|Garnish with other cherry wrapped in the peel and skewered on cocktail skewer.
  2|each|Maraschino Cherry|Fruit|3|dashes|Orange Bitters|Bitters|2|each|Ice Cubes|Ice|2|oz|Scotch|Scotch|1|each|Orange Peel|Fruit
+ Keep on Drinking|Movie|Finding Dory|F|Secret of the Booze|https://www.youtube.com/c/SecretoftheBooze|Add all but last ingredient to fish bowl.|Top with Sprite to taste.|Keep on swimming.
+ 1|box|Nerds|Candy|20|oz|Ice|Ice|10|oz|Vodka|Vodka|10|oz|Coconut Rum|Rum|5|oz|Blue Curaçao|Liqueur|4|oz|Gummi Fish|Candy|1|each|Orange,sliced|Fruit|1|each|Lemon, sliced|Fruit|1|bottle|Sprite|Soda
+ The God Of Mischief|Movie|Thor|F|Secret of the Booze|https://www.youtube.com/c/SecretoftheBooze|Add all ingredients to shaker with ice.|Shake for 30 seconds.|Strain into glass.|Garnish with 2 lemon peel "horns".
+ 1|oz|Absinthe|Liqueur|2|oz|Mead|Mead|1|oz|Midori|Liqueur|2|oz|Ice|Ice|2|each|Lemon Peel "horns"|Fruit
