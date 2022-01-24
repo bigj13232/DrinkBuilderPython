@@ -1074,3 +1074,17 @@ Tony Stark|Movie|Iron Man|F|Secret of the Booze|https://www.youtube.com/c/Secret
  1|oz|Champagne|Champagne|.5|oz|Blue Curaçao|Liqueur
  Goro|Video Game|Mortal Kombat|F|Secret of the Booze|https://www.youtube.com/c/SecretoftheBooze|Pour grenadine and vodka into a lowball glass.|Fill 2 short and wide shot glasses with equal parts bailey's and kahlua.|Balance shot glasses in rim of glass.|Slam your enemies into the table and slam your drink.
  1|splash|Grenadine|Mixer|2|oz|Chocolate Vodka|Vodka|1.5|oz|Bailey's|Liqueur|1.5|oz|Kahlua|Liqueur
+ Scorpion|Video Game|Mortal Kombat|F|Secret of the Booze|https://www.youtube.com/c/SecretoftheBooze|Add tabasco/sriracha and tequila to shot glass.|Layer 151 rum on top.|Light with match.|Extinguish.|Drink.|OPTIONAL: Can be used as bomb in "Your Soul is Mine" cocktail.
+ 1.25|oz|Tequila|Tequila|.5|oz|151 Rum|Rum|3|drops|Tabasco/Sriracha|Sauce
+ Sub Zero|Video Game|Mortal Kombat|F|Secret of the Booze|https://www.youtube.com/c/SecretoftheBooze|Add all ingredients to blender.|Blend.|Pour into shot glass.|OPTIONAL: Can be used as bomb in "Your Soul is Mine" cocktail.
+ .75|oz|Blue Curaçao|Liqueur|.75|oz|Coconut Rum|Rum|1|oz|Ice|Ice
+ Kano|Video Game|Mortal Kombat|F|Secret of the Booze|https://www.youtube.com/c/SecretoftheBooze|Add all ingredients to shot glass.|OPTIONAL: Can be used as bomb in "Your Soul is Mine" cocktail.
+ .75|oz|Moonshine|Moonshine|.75|oz|Fosters Beer|Beer|1|tsp|Silver Shimmer Powder|Other|1|each|Maracschino Cherry|Fruit
+ Sonya Blade|Video Game|Mortal Kombat|F|Secret of the Booze|https://www.youtube.com/c/SecretoftheBooze|Add all ingredients to shot glass.|OPTIONAL: Can be used as bomb in "Your Soul is Mine" cocktail.
+ .5|oz|Apple Pie Liqueur|Liqueur|.5|oz|Creme de Minte|Liqueur|.5|oz|Black Sambuca|Sambuca
+ Liu Kang|Video Game|Mortal Kombat|F|Secret of the Booze|https://www.youtube.com/c/SecretoftheBooze|Add all ingredients to shot glass.|OPTIONAL: Can be used as bomb in "Your Soul is Mine" cocktail.
+ .75|oz|Fireball|Whiskey|.75|oz|Tsing Tao|Beer
+ Raiden|Video Game|Mortal Kombat|F|Secret of the Booze|https://www.youtube.com/c/SecretoftheBooze|Add all ingredients to shot glass.|OPTIONAL: Can be used as bomb in "Your Soul is Mine" cocktail.
+ .75|oz|Bacardi|Rum|.75|oz|Hpnotiq|Liqueur|1|tsp|Silver Shimmer Powder|Other
+ NakatomI|Movie|Die Hard|F|Secret of the Booze|https://www.youtube.com/c/SecretoftheBooze|Rim glass with sugar.|Add saki, cranberry juice and champagne into glass.|Pour shot of Schnapps and drop into drink.
+ 4|oz|Cranberry Juice|Juice|1|oz|Saki|Saki|3|oz|Blush Champagne|Champagne|1.5|oz|Peach Schnapps|Schnapps
