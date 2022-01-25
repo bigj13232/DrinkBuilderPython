@@ -1088,3 +1088,6 @@ Tony Stark|Movie|Iron Man|F|Secret of the Booze|https://www.youtube.com/c/Secret
  .75|oz|Bacardi|Rum|.75|oz|Hpnotiq|Liqueur|1|tsp|Silver Shimmer Powder|Other
  NakatomI|Movie|Die Hard|F|Secret of the Booze|https://www.youtube.com/c/SecretoftheBooze|Rim glass with sugar.|Add saki, cranberry juice and champagne into glass.|Pour shot of Schnapps and drop into drink.
  4|oz|Cranberry Juice|Juice|1|oz|Saki|Saki|3|oz|Blush Champagne|Champagne|1.5|oz|Peach Schnapps|Schnapps
+ Yippe Ki Yay|Movie|Die Hard|F|Secret of the Booze|https://www.youtube.com/c/SecretoftheBooze|Add to Shaker Tin.|Strain over fresh ice.
+ 4|oz|Egg Nog|Egg Nog|1.5|oz|Whiskey|Whiskey|1.5|oz|Dark Rum|Rum|2|oz|Ice|Ice
+ 
