@@ -781,7 +781,7 @@ Horse Medicine|Cartoon|Bob's Burgers|F|How to drink|https://www.youtube.com/c/ho
 Klingon Bloodwine|TV|Star Trek|F|How to drink|https://www.youtube.com/c/howtodrink|Add all ingredients to shaker with ice.|Shake until as cold as revenge.|Strain into a science fiction glass|Qapla'!
 1|oz|Simple Syrup|Syrup|1|oz|Lime Juice|Juice|1|oz|Lemonhart 151|Rum|1|oz|Angostura Bitters|Bitters|2|oz|Ice|Ice
 Space Wolf|Board Game|Warhammer 40k|F|How to drink|https://www.youtube.com/c/howtodrink|Add all ingredients to shaker with ice.|Shake.|Strain into glass.
-4|oz|Viking Blod Mead|Mead|.25|oz|Absinthe|Absinthe|.5|oz|Everclear|Rum|2|oz|Ice|Ice
+4|oz|Viking Blod Mead|Mead|.25|oz|Absinthe|Absinthe|.5|oz|Everclear|Grain Alcohol|2|oz|Ice|Ice
 Perk-a-Cola - Speed Cola|Video Game|Call of Duty|F|How to drink|https://www.youtube.com/c/howtodrink|Stir over ice.|Strain into bottle.|Top with club soda.
 .25|oz|Simple Syrup|Syrup|.25|oz|St. Germain|Liqueur|.5|oz|Midori|Liqueur|3|dashes|Acid Phosphate|Other|2|oz|Absolut Citron|Vodka|2|oz|Ice|Ice|1|bottle|Club Soda|Soda
 Perk-a-Cola - Juggernog|Video Game|Call of Duty|F|How to drink|https://www.youtube.com/c/howtodrink|Stir over ice.|Strain into bottle.|Top with club soda.
@@ -1098,3 +1098,14 @@ Tony Stark|Movie|Iron Man|F|Secret of the Booze|https://www.youtube.com/c/Secret
  2|oz|Peppermint Vodka|Vodka|2|oz|Creme de Menthe|Liqueur|4|oz|Milk|Milk|2|oz|Ice|Ice|1|can|Whipped Cream|Cream|1|each|Candy Cane, crushed|Candy
  Buddy the Elf|Movie|Elf|F|Secret of the Booze|https://www.youtube.com/c/SecretoftheBooze|Add liquid ingredients to Irish coffe mug.|Stir gently.|Top with Whipped Cream then Chocolate Syrup.|Garnish with Candy Cane.
  6|oz|Coffee|Coffee|1.5|oz|Maple Syrup Whiskey|Whiskey|1.5|oz|Eggnog|Eggnog|1|can|Whipped Cream|1|bottle|Chocolate Syrup|Syrup|1|each|Candy Cane|Candy
+ Chilling Adventures of Sabrina|TV|Chilling Adventures of Sabrina|F|Secret of the Booze|https://www.youtube.com/c/SecretoftheBooze|Rim a shot glass with icing and sprinkles.|Add remaining ingredients.|Summon Satan.
+ 1|tsp|Icing|Icing|1|tbsp|Sprinkles|Sprinkles|.5|oz|Frangelico|Liqueur|.5|oz|Whipped Cream Vodka|Vodka|.5|oz|Black Sambuca|Sambuca
+ Sam|TV|Supernatural|F|Secret of the Booze|https://www.youtube.com/c/SecretoftheBooze|Rim glass with salt.|Add maraschino cherry to glass.|Muddle.|Add remaining ingredients.|Stir gently.
+ 1|tsp|Salt|Salt|1|each|Maraschino Cherry|Fruit|2|oz|Bourbon|Bourbon|1|oz|Orange Juice|Juice|.5|oz|Maple Syrup|Syrup
+ Dean|TV|Supernatural|F|Secret of the Booze|https://www.youtube.com/c/SecretoftheBooze|Add first three ingredients to glass.|Top with whipped cream.|Garnish with maraschino cherry.
+ 1|oz|Grenadine|Mixer|1|oz|Vanilla Schnapps|Schnapps|.5|oz|Whipped Cream Vodka|Vodka|1|can|Whipped Cream|Cream|1|each|Maraschino Cherry|Fruit
+ Hawkeye|Movie|Avengers|F|Secret of the Booze|https://www.youtube.com/c/SecretoftheBooze|Add ingredients to shaker.|Shake.|Strain into a glass filled with ice.
+ 3|oz|Grape Vodka|Vodka|1|oz|Everclear|Grain Alcohol|1|splash|Cranberry Grape Juice|Juice|6|oz|Ice|Ice
+ Black Widow|Movie|Avengers|F|Secret of the Booze|https://www.youtube.com/c/SecretoftheBooze|Fill shaker with ice.|Add liquid ingredients to shaker.|Shake.|Strain into champagne flute.|Garnish with strawberries skewered to form black widow emblem.
+ 2|oz|Kahlua|Liqueur|3|oz|Chocolate Raspberry Liqueur|Liqueur|1|splash|Milk|Milk|1|tsp|Chocolate Syrup|Syrup|6|oz|Ice|Ice|2|each|Stawberries|Fruit
+ 
