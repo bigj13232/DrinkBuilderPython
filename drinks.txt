@@ -1108,4 +1108,5 @@ Tony Stark|Movie|Iron Man|F|Secret of the Booze|https://www.youtube.com/c/Secret
  3|oz|Grape Vodka|Vodka|1|oz|Everclear|Grain Alcohol|1|splash|Cranberry Grape Juice|Juice|6|oz|Ice|Ice
  Black Widow|Movie|Avengers|F|Secret of the Booze|https://www.youtube.com/c/SecretoftheBooze|Fill shaker with ice.|Add liquid ingredients to shaker.|Shake.|Strain into champagne flute.|Garnish with strawberries skewered to form black widow emblem.
  2|oz|Kahlua|Liqueur|3|oz|Chocolate Raspberry Liqueur|Liqueur|1|splash|Milk|Milk|1|tsp|Chocolate Syrup|Syrup|6|oz|Ice|Ice|2|each|Stawberries|Fruit
- 
+ Bane's Venom Tank|Comic Book|Batman|F|Secret of the Booze|https://www.youtube.com/c/SecretoftheBooze|Fill 2 glasses with tequila/midori and simple syrup/energy drink respectively.|Use 2 lengths of hose to syphon into larger cup.|Enjoy!
+ 2|oz|Tequila|Tequila|1|oz|Midori|Liqueur|1.5|oz|Simple Syrup|Syrup|1.5|oz|Venom Energy Drink|Energy Drink
