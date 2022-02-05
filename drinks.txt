@@ -1061,52 +1061,60 @@ Iron Man|Movie|Iron Man|F|Secret of the Booze|https://www.youtube.com/c/Secretof
 Pepper Potts|Movie|Iron Man|F|Secret of the Booze|https://www.youtube.com/c/SecretoftheBooze|Add vermouth to martini glass and coat.|Add vodka to shaker with ice.|Shake for 30 seconds.|Strain into martini glass.|Add olives.|Garnish with peppers skewered on a cocktail skewer.
  2|tsp|Dry Vermouth|Vermouth|4|oz|Vodka|Vodka|2|oz|Ice|Ice|3|each|Spanish Olives|Olive|3|each|Assorted Peppers|Vegetable
 Tony Stark|Movie|Iron Man|F|Secret of the Booze|https://www.youtube.com/c/SecretoftheBooze|Add one cherry to low ball glass and muddle.|Add bitters and ice.|Pour in scotch.|Stir gently.|Garnish with other cherry wrapped in the peel and skewered on cocktail skewer.
- 2|each|Maraschino Cherry|Fruit|3|dashes|Orange Bitters|Bitters|2|each|Ice Cubes|Ice|2|oz|Scotch|Scotch|1|each|Orange Peel|Fruit
- Keep on Drinking|Movie|Finding Dory|F|Secret of the Booze|https://www.youtube.com/c/SecretoftheBooze|Add all but last ingredient to fish bowl.|Top with Sprite to taste.|Keep on swimming.
- 1|box|Nerds|Candy|20|oz|Ice|Ice|10|oz|Vodka|Vodka|10|oz|Coconut Rum|Rum|5|oz|Blue Curaçao|Liqueur|4|oz|Gummi Fish|Candy|1|each|Orange,sliced|Fruit|1|each|Lemon, sliced|Fruit|1|bottle|Sprite|Soda
- The God Of Mischief|Movie|Thor|F|Secret of the Booze|https://www.youtube.com/c/SecretoftheBooze|Add all ingredients to shaker with ice.|Shake for 30 seconds.|Strain into glass.|Garnish with 2 lemon peel "horns".
- 1|oz|Absinthe|Liqueur|2|oz|Mead|Mead|1|oz|Midori|Liqueur|2|oz|Ice|Ice|2|each|Lemon Peel "horns"|Fruit
- The Country Boy|TV|Walking Dead|F|Secret of the Booze|https://www.youtube.com/c/SecretoftheBooze|Add all ingredients to a low ball glass.|Stir.|Enjoy and slay some walkers.
- 4|each|Ice Cubes|Ice|4|oz|Pink Lemonade|Lemonade|2|oz|Sweet Tea Vodka|Vodka|1|oz|Jack Fire|Whiskey
- Your Soul is Mine|Video Game|Mortal Kombat|F|Secret of the Booze|https://www.youtube.com/c/SecretoftheBooze|Pour Absinthe into shot glass.|Pour remaining ingredients into pint glass.|Drop shot into pint glass.|OPTIONAL: Can be combined with other Kombatant Shots.|Score that flawless victory..
- 2|oz|Absinthe|Liqueur|4|pz|Red Bull|Energy Drink|.25|oz|Blue Curaçao|Liqueur
- Johnny Cage|Video Game|Mortal Kombat|F|Secret of the Booze|https://www.youtube.com/c/SecretoftheBooze|Pour into a shot glass.|Enjoy and crack some nuts.|OPTIONAL: Can be used as bomb in "Your Soul is Mine" cocktail.
- 1|oz|Champagne|Champagne|.5|oz|Blue Curaçao|Liqueur
- Goro|Video Game|Mortal Kombat|F|Secret of the Booze|https://www.youtube.com/c/SecretoftheBooze|Pour grenadine and vodka into a lowball glass.|Fill 2 short and wide shot glasses with equal parts bailey's and kahlua.|Balance shot glasses in rim of glass.|Slam your enemies into the table and slam your drink.
- 1|splash|Grenadine|Mixer|2|oz|Chocolate Vodka|Vodka|1.5|oz|Bailey's|Liqueur|1.5|oz|Kahlua|Liqueur
- Scorpion|Video Game|Mortal Kombat|F|Secret of the Booze|https://www.youtube.com/c/SecretoftheBooze|Add tabasco/sriracha and tequila to shot glass.|Layer 151 rum on top.|Light with match.|Extinguish.|Drink.|OPTIONAL: Can be used as bomb in "Your Soul is Mine" cocktail.
- 1.25|oz|Tequila|Tequila|.5|oz|151 Rum|Rum|3|drops|Tabasco/Sriracha|Sauce
- Sub Zero|Video Game|Mortal Kombat|F|Secret of the Booze|https://www.youtube.com/c/SecretoftheBooze|Add all ingredients to blender.|Blend.|Pour into shot glass.|OPTIONAL: Can be used as bomb in "Your Soul is Mine" cocktail.
- .75|oz|Blue Curaçao|Liqueur|.75|oz|Coconut Rum|Rum|1|oz|Ice|Ice
- Kano|Video Game|Mortal Kombat|F|Secret of the Booze|https://www.youtube.com/c/SecretoftheBooze|Add all ingredients to shot glass.|OPTIONAL: Can be used as bomb in "Your Soul is Mine" cocktail.
- .75|oz|Moonshine|Moonshine|.75|oz|Fosters Beer|Beer|1|tsp|Silver Shimmer Powder|Other|1|each|Maracschino Cherry|Fruit
- Sonya Blade|Video Game|Mortal Kombat|F|Secret of the Booze|https://www.youtube.com/c/SecretoftheBooze|Add all ingredients to shot glass.|OPTIONAL: Can be used as bomb in "Your Soul is Mine" cocktail.
- .5|oz|Apple Pie Liqueur|Liqueur|.5|oz|Creme de Minte|Liqueur|.5|oz|Black Sambuca|Sambuca
- Liu Kang|Video Game|Mortal Kombat|F|Secret of the Booze|https://www.youtube.com/c/SecretoftheBooze|Add all ingredients to shot glass.|OPTIONAL: Can be used as bomb in "Your Soul is Mine" cocktail.
- .75|oz|Fireball|Whiskey|.75|oz|Tsing Tao|Beer
- Raiden|Video Game|Mortal Kombat|F|Secret of the Booze|https://www.youtube.com/c/SecretoftheBooze|Add all ingredients to shot glass.|OPTIONAL: Can be used as bomb in "Your Soul is Mine" cocktail.
- .75|oz|Bacardi|Rum|.75|oz|Hpnotiq|Liqueur|1|tsp|Silver Shimmer Powder|Other
- NakatomI|Movie|Die Hard|F|Secret of the Booze|https://www.youtube.com/c/SecretoftheBooze|Rim glass with sugar.|Add saki, cranberry juice and champagne into glass.|Pour shot of Schnapps and drop into drink.
- 4|oz|Cranberry Juice|Juice|1|oz|Saki|Saki|3|oz|Blush Champagne|Champagne|1.5|oz|Peach Schnapps|Schnapps
- Yippe Ki Yay|Movie|Die Hard|F|Secret of the Booze|https://www.youtube.com/c/SecretoftheBooze|Add to Shaker Tin.|Strain over fresh ice.
- 4|oz|Egg Nog|Egg Nog|1.5|oz|Whiskey|Whiskey|1.5|oz|Dark Rum|Rum|2|oz|Ice|Ice
- Red Rider Bee Bee Gun|Movie|Christmas Story|F|Secret of the Booze|https://www.youtube.com/c/SecretoftheBooze|Add all ingredients into a shaker tin with ice.|Shake.|Strain over ice into fresh glass.|Garnish with lemon, lime wedges and 2 cranberries.
- 4|oz|Cranberry Juice|Juice|1|oz|Lemonade Vodka|Vodka|.5|oz|Lime|Juice|1|oz|Sake|Sake|1|each|Lemon Wedge|Fruit|1|each|Lime Wedge|Fruit|2|each|Cranberries|Fruit
- The Griswold Family Christmas|Movie|National Lampoon's Christmas Vacation|F|Secret of the Booze|https://www.youtube.com/c/SecretoftheBooze|Add to a pot and bring to a boil.
- 1|bottle|Merlot|Wine|16|oz|Black Tea|Tea|3|each|Lemons, squeezed|Juice|2|each|Oranges, squeezed|Juice|4|eacb|Cloves|Spice|1|each|Cinnamon Stick|Spice|4|oz|Captain Morgan|Rum
- The Grinch|Cartoon|The Grinch|F|Secret of the Booze|https://www.youtube.com/c/SecretoftheBooze|Add to shaker tin with Ice.Shake.|Strain into Irish Coffee Mug.|Top with Whip Cream and garnish with a Candy Cane.
- 2|oz|Peppermint Vodka|Vodka|2|oz|Creme de Menthe|Liqueur|4|oz|Milk|Milk|2|oz|Ice|Ice|1|can|Whipped Cream|Cream|1|each|Candy Cane, crushed|Candy
- Buddy the Elf|Movie|Elf|F|Secret of the Booze|https://www.youtube.com/c/SecretoftheBooze|Add liquid ingredients to Irish coffe mug.|Stir gently.|Top with Whipped Cream then Chocolate Syrup.|Garnish with Candy Cane.
- 6|oz|Coffee|Coffee|1.5|oz|Maple Syrup Whiskey|Whiskey|1.5|oz|Eggnog|Eggnog|1|can|Whipped Cream|1|bottle|Chocolate Syrup|Syrup|1|each|Candy Cane|Candy
- Chilling Adventures of Sabrina|TV|Chilling Adventures of Sabrina|F|Secret of the Booze|https://www.youtube.com/c/SecretoftheBooze|Rim a shot glass with icing and sprinkles.|Add remaining ingredients.|Summon Satan.
- 1|tsp|Icing|Icing|1|tbsp|Sprinkles|Sprinkles|.5|oz|Frangelico|Liqueur|.5|oz|Whipped Cream Vodka|Vodka|.5|oz|Black Sambuca|Sambuca
- Sam|TV|Supernatural|F|Secret of the Booze|https://www.youtube.com/c/SecretoftheBooze|Rim glass with salt.|Add maraschino cherry to glass.|Muddle.|Add remaining ingredients.|Stir gently.
- 1|tsp|Salt|Salt|1|each|Maraschino Cherry|Fruit|2|oz|Bourbon|Bourbon|1|oz|Orange Juice|Juice|.5|oz|Maple Syrup|Syrup
- Dean|TV|Supernatural|F|Secret of the Booze|https://www.youtube.com/c/SecretoftheBooze|Add first three ingredients to glass.|Top with whipped cream.|Garnish with maraschino cherry.
- 1|oz|Grenadine|Mixer|1|oz|Vanilla Schnapps|Schnapps|.5|oz|Whipped Cream Vodka|Vodka|1|can|Whipped Cream|Cream|1|each|Maraschino Cherry|Fruit
- Hawkeye|Movie|Avengers|F|Secret of the Booze|https://www.youtube.com/c/SecretoftheBooze|Add ingredients to shaker.|Shake.|Strain into a glass filled with ice.
- 3|oz|Grape Vodka|Vodka|1|oz|Everclear|Grain Alcohol|1|splash|Cranberry Grape Juice|Juice|6|oz|Ice|Ice
- Black Widow|Movie|Avengers|F|Secret of the Booze|https://www.youtube.com/c/SecretoftheBooze|Fill shaker with ice.|Add liquid ingredients to shaker.|Shake.|Strain into champagne flute.|Garnish with strawberries skewered to form black widow emblem.
- 2|oz|Kahlua|Liqueur|3|oz|Chocolate Raspberry Liqueur|Liqueur|1|splash|Milk|Milk|1|tsp|Chocolate Syrup|Syrup|6|oz|Ice|Ice|2|each|Stawberries|Fruit
- Bane's Venom Tank|Comic Book|Batman|F|Secret of the Booze|https://www.youtube.com/c/SecretoftheBooze|Fill 2 glasses with tequila/midori and simple syrup/energy drink respectively.|Use 2 lengths of hose to syphon into larger cup.|Enjoy!
- 2|oz|Tequila|Tequila|1|oz|Midori|Liqueur|1.5|oz|Simple Syrup|Syrup|1.5|oz|Venom Energy Drink|Energy Drink
+2|each|Maraschino Cherry|Fruit|3|dashes|Orange Bitters|Bitters|2|each|Ice Cubes|Ice|2|oz|Scotch|Scotch|1|each|Orange Peel|Fruit
+Keep on Drinking|Movie|Finding Dory|F|Secret of the Booze|https://www.youtube.com/c/SecretoftheBooze|Add all but last ingredient to fish bowl.|Top with Sprite to taste.|Keep on swimming.
+1|box|Nerds|Candy|20|oz|Ice|Ice|10|oz|Vodka|Vodka|10|oz|Coconut Rum|Rum|5|oz|Blue Curaçao|Liqueur|4|oz|Gummi Fish|Candy|1|each|Orange,sliced|Fruit|1|each|Lemon, sliced|Fruit|1|bottle|Sprite|Soda
+The God Of Mischief|Movie|Thor|F|Secret of the Booze|https://www.youtube.com/c/SecretoftheBooze|Add all ingredients to shaker with ice.|Shake for 30 seconds.|Strain into glass.|Garnish with 2 lemon peel "horns".
+1|oz|Absinthe|Liqueur|2|oz|Mead|Mead|1|oz|Midori|Liqueur|2|oz|Ice|Ice|2|each|Lemon Peel "horns"|Fruit
+The Country Boy|TV|Walking Dead|F|Secret of the Booze|https://www.youtube.com/c/SecretoftheBooze|Add all ingredients to a low ball glass.|Stir.|Enjoy and slay some walkers.
+4|each|Ice Cubes|Ice|4|oz|Pink Lemonade|Lemonade|2|oz|Sweet Tea Vodka|Vodka|1|oz|Jack Fire|Whiskey
+Your Soul is Mine|Video Game|Mortal Kombat|F|Secret of the Booze|https://www.youtube.com/c/SecretoftheBooze|Pour Absinthe into shot glass.|Pour remaining ingredients into pint glass.|Drop shot into pint glass.|OPTIONAL: Can be combined with other Kombatant Shots.|Score that flawless victory..
+2|oz|Absinthe|Liqueur|4|pz|Red Bull|Energy Drink|.25|oz|Blue Curaçao|Liqueur
+Johnny Cage|Video Game|Mortal Kombat|F|Secret of the Booze|https://www.youtube.com/c/SecretoftheBooze|Pour into a shot glass.|Enjoy and crack some nuts.|OPTIONAL: Can be used as bomb in "Your Soul is Mine" cocktail.
+1|oz|Champagne|Champagne|.5|oz|Blue Curaçao|Liqueur
+Goro|Video Game|Mortal Kombat|F|Secret of the Booze|https://www.youtube.com/c/SecretoftheBooze|Pour grenadine and vodka into a lowball glass.|Fill 2 short and wide shot glasses with equal parts bailey's and kahlua.|Balance shot glasses in rim of glass.|Slam your enemies into the table and slam your drink.
+1|splash|Grenadine|Mixer|2|oz|Chocolate Vodka|Vodka|1.5|oz|Bailey's|Liqueur|1.5|oz|Kahlua|Liqueur
+Scorpion|Video Game|Mortal Kombat|F|Secret of the Booze|https://www.youtube.com/c/SecretoftheBooze|Add tabasco/sriracha and tequila to shot glass.|Layer 151 rum on top.|Light with match.|Extinguish.|Drink.|OPTIONAL: Can be used as bomb in "Your Soul is Mine" cocktail.
+1.25|oz|Tequila|Tequila|.5|oz|151 Rum|Rum|3|drops|Tabasco/Sriracha|Sauce
+Sub Zero|Video Game|Mortal Kombat|F|Secret of the Booze|https://www.youtube.com/c/SecretoftheBooze|Add all ingredients to blender.|Blend.|Pour into shot glass.|OPTIONAL: Can be used as bomb in "Your Soul is Mine" cocktail.
+.75|oz|Blue Curaçao|Liqueur|.75|oz|Coconut Rum|Rum|1|oz|Ice|Ice
+Kano|Video Game|Mortal Kombat|F|Secret of the Booze|https://www.youtube.com/c/SecretoftheBooze|Add all ingredients to shot glass.|OPTIONAL: Can be used as bomb in "Your Soul is Mine" cocktail.
+.75|oz|Moonshine|Moonshine|.75|oz|Fosters Beer|Beer|1|tsp|Silver Shimmer Powder|Other|1|each|Maracschino Cherry|Fruit
+Sonya Blade|Video Game|Mortal Kombat|F|Secret of the Booze|https://www.youtube.com/c/SecretoftheBooze|Add all ingredients to shot glass.|OPTIONAL: Can be used as bomb in "Your Soul is Mine" cocktail.
+.5|oz|Apple Pie Liqueur|Liqueur|.5|oz|Creme de Minte|Liqueur|.5|oz|Black Sambuca|Sambuca
+Liu Kang|Video Game|Mortal Kombat|F|Secret of the Booze|https://www.youtube.com/c/SecretoftheBooze|Add all ingredients to shot glass.|OPTIONAL: Can be used as bomb in "Your Soul is Mine" cocktail.
+.75|oz|Fireball|Whiskey|.75|oz|Tsing Tao|Beer
+Raiden|Video Game|Mortal Kombat|F|Secret of the Booze|https://www.youtube.com/c/SecretoftheBooze|Add all ingredients to shot glass.|OPTIONAL: Can be used as bomb in "Your Soul is Mine" cocktail.
+.75|oz|Bacardi|Rum|.75|oz|Hpnotiq|Liqueur|1|tsp|Silver Shimmer Powder|Other
+NakatomI|Movie|Die Hard|F|Secret of the Booze|https://www.youtube.com/c/SecretoftheBooze|Rim glass with sugar.|Add saki, cranberry juice and champagne into glass.|Pour shot of Schnapps and drop into drink.
+4|oz|Cranberry Juice|Juice|1|oz|Saki|Saki|3|oz|Blush Champagne|Champagne|1.5|oz|Peach Schnapps|Schnapps
+Yippe Ki Yay|Movie|Die Hard|F|Secret of the Booze|https://www.youtube.com/c/SecretoftheBooze|Add to Shaker Tin.|Strain over fresh ice.
+4|oz|Egg Nog|Egg Nog|1.5|oz|Whiskey|Whiskey|1.5|oz|Dark Rum|Rum|2|oz|Ice|Ice
+Red Rider Bee Bee Gun|Movie|Christmas Story|F|Secret of the Booze|https://www.youtube.com/c/SecretoftheBooze|Add all ingredients into a shaker tin with ice.|Shake.|Strain over ice into fresh glass.|Garnish with lemon, lime wedges and 2 cranberries.
+4|oz|Cranberry Juice|Juice|1|oz|Lemonade Vodka|Vodka|.5|oz|Lime|Juice|1|oz|Sake|Sake|1|each|Lemon Wedge|Fruit|1|each|Lime Wedge|Fruit|2|each|Cranberries|Fruit
+The Griswold Family Christmas|Movie|National Lampoon's Christmas Vacation|F|Secret of the Booze|https://www.youtube.com/c/SecretoftheBooze|Add to a pot and bring to a boil.
+1|bottle|Merlot|Wine|16|oz|Black Tea|Tea|3|each|Lemons, squeezed|Juice|2|each|Oranges, squeezed|Juice|4|eacb|Cloves|Spice|1|each|Cinnamon Stick|Spice|4|oz|Captain Morgan|Rum
+The Grinch|Cartoon|The Grinch|F|Secret of the Booze|https://www.youtube.com/c/SecretoftheBooze|Add to shaker tin with Ice.Shake.|Strain into Irish Coffee Mug.|Top with Whip Cream and garnish with a Candy Cane.
+2|oz|Peppermint Vodka|Vodka|2|oz|Creme de Menthe|Liqueur|4|oz|Milk|Milk|2|oz|Ice|Ice|1|can|Whipped Cream|Cream|1|each|Candy Cane, crushed|Candy
+Buddy the Elf|Movie|Elf|F|Secret of the Booze|https://www.youtube.com/c/SecretoftheBooze|Add liquid ingredients to Irish coffe mug.|Stir gently.|Top with Whipped Cream then Chocolate Syrup.|Garnish with Candy Cane.
+6|oz|Coffee|Coffee|1.5|oz|Maple Syrup Whiskey|Whiskey|1.5|oz|Eggnog|Eggnog|1|can|Whipped Cream|1|bottle|Chocolate Syrup|Syrup|1|each|Candy Cane|Candy
+Chilling Adventures of Sabrina|TV|Chilling Adventures of Sabrina|F|Secret of the Booze|https://www.youtube.com/c/SecretoftheBooze|Rim a shot glass with icing and sprinkles.|Add remaining ingredients.|Summon Satan.
+1|tsp|Icing|Icing|1|tbsp|Sprinkles|Sprinkles|.5|oz|Frangelico|Liqueur|.5|oz|Whipped Cream Vodka|Vodka|.5|oz|Black Sambuca|Sambuca
+Sam|TV|Supernatural|F|Secret of the Booze|https://www.youtube.com/c/SecretoftheBooze|Rim glass with salt.|Add maraschino cherry to glass.|Muddle.|Add remaining ingredients.|Stir gently.
+1|tsp|Salt|Salt|1|each|Maraschino Cherry|Fruit|2|oz|Bourbon|Bourbon|1|oz|Orange Juice|Juice|.5|oz|Maple Syrup|Syrup
+Dean|TV|Supernatural|F|Secret of the Booze|https://www.youtube.com/c/SecretoftheBooze|Add first three ingredients to glass.|Top with whipped cream.|Garnish with maraschino cherry.
+1|oz|Grenadine|Mixer|1|oz|Vanilla Schnapps|Schnapps|.5|oz|Whipped Cream Vodka|Vodka|1|can|Whipped Cream|Cream|1|each|Maraschino Cherry|Fruit
+Hawkeye|Movie|Avengers|F|Secret of the Booze|https://www.youtube.com/c/SecretoftheBooze|Add ingredients to shaker.|Shake.|Strain into a glass filled with ice.
+3|oz|Grape Vodka|Vodka|1|oz|Everclear|Grain Alcohol|1|splash|Cranberry Grape Juice|Juice|6|oz|Ice|Ice
+Black Widow|Movie|Avengers|F|Secret of the Booze|https://www.youtube.com/c/SecretoftheBooze|Fill shaker with ice.|Add liquid ingredients to shaker.|Shake.|Strain into champagne flute.|Garnish with strawberries skewered to form black widow emblem.
+2|oz|Kahlua|Liqueur|3|oz|Chocolate Raspberry Liqueur|Liqueur|1|splash|Milk|Milk|1|tsp|Chocolate Syrup|Syrup|6|oz|Ice|Ice|2|each|Stawberries|Fruit
+Bane's Venom Tank|Comic Book|Batman|F|Secret of the Booze|https://www.youtube.com/c/SecretoftheBooze|Fill 2 glasses with tequila/midori and simple syrup/energy drink respectively.|Use 2 lengths of hose to syphon into larger cup.|Enjoy!
+2|oz|Tequila|Tequila|1|oz|Midori|Liqueur|1.5|oz|Simple Syrup|Syrup|1.5|oz|Venom Energy Drink|Energy Drink
+Thanos's Infinity Gauntlet Inception Bomb|Movie|Infinity War|F|Secret of the Booze|https://www.youtube.com/c/SecretoftheBooze|Add 9 oz pineapple juice and 9 oz coconut rum to glass pitcher.|For the Infinity Stones:|For the Time Stone, add Midori and 1 oz vodka to a low ball glass.|For the Mind Stone, add lemonade vodka and 1 oz pineapple juice to low ball glass.|For the Power Stone, add viniq and .5 oz vodka to a shot glass.|For the Space Stone, add blue raspberry liqueur and blue curacao to a shot glass.|For the Soul Stone, add margarita mix, .33 oz pineapple juice and silver rum to shot glass.|For the Reality Stone, add daquiri mix and .5 oz coconut rum to a shot glass.|Carefully balance the low ball glasses in the mouth of the pitcher.|In each of the low ball glasses, carefully balance two of the shot glasses.
+10.33|oz|Pineapple Juice|Juice|9.5|oz|Coconut Rum|Rum|1|oz|Midori|Liqueur|1.5|oz|Vodka|Vodka|1|oz|Lemonade Vodka|Vodka|.5|oz|Viniq Liqueur|Liqueur|.5|oz|Blue Raspberry Liqueur|Liqueur|.5|oz|Blue Curacao|Liqueur|.33|oz|Grapefruit Margarita Mix|Mixer|.33|oz|Silver Rum|Rum|.5|oz|Strawberry Daquiri Mix|Mixer
+Ant-Man: A Tiny Cocktail|Movie|Ant-Man|F|Secret of the Booze|https://www.youtube.com/c/SecretoftheBooze|Layer the drink in following order Jack Fire, Dark Rum, Everclear.|Garnish with an ant made from toothpicks and grapes.
+.5|oz|Jack Fire|Whiskey|.5|oz|Dark Rum|Rum|.5|oz|Everclear|Grain Alcohol
+Merc with a Mouth|Movie|Deadpool|F|Secret of the Booze|https://www.youtube.com/c/SecretoftheBooze|Add citron and Vodka to bottom half of shot.|Add a dash of grenadine.|Lastly, layer the Vanilla Coke to the top of the drink.
+.25|shot|Whipped Vodka|Vodka|.25|shot|Citron|Vodka|.25|shot|Grenadine|Mixer|.25|shot|Vanilla Coke|Soda
+Oroku Saki Bomb|Movie|Teenage Mutant Ninja Turtles|F|Secret of the Booze|https://www.youtube.com/c/SecretoftheBooze|Fill Pint Glass half way with Kirin Ichiban.|Fill Shot Glass with Saki.|Drop Shot into glass and enjoy.|Be sure to enjoy while cursing about those damn turtles!
+6|oz|Kirin Ichiban|Beer|1.5|oz|Saki|Saki
