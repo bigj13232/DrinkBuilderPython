@@ -1118,3 +1118,9 @@ Merc with a Mouth|Movie|Deadpool|F|Secret of the Booze|https://www.youtube.com/c
 .25|shot|Whipped Vodka|Vodka|.25|shot|Citron|Vodka|.25|shot|Grenadine|Mixer|.25|shot|Vanilla Coke|Soda
 Oroku Saki Bomb|Movie|Teenage Mutant Ninja Turtles|F|Secret of the Booze|https://www.youtube.com/c/SecretoftheBooze|Fill Pint Glass half way with Kirin Ichiban.|Fill Shot Glass with Saki.|Drop Shot into glass and enjoy.|Be sure to enjoy while cursing about those damn turtles!
 6|oz|Kirin Ichiban|Beer|1.5|oz|Saki|Saki
+The McFly|Movie|Back to the Future|F|Secret of the Booze|https://www.youtube.com/c/SecretoftheBooze|Take 12 shot glasses and put them in two rows of 6 shots.|Fill the first 4 shots 1/2 with Tab and 1/2 with Whiskey, next four (4) 1/2 with Pepsi and 1/2 with Whiskey, and final 4 shots 1/2 with Root Beer and 1/2 with Whiskey.|Layer the shots with Bacardi 151 and set those shots on fire creating the flame threads the delorian leaves behind after she hits 88 miles per hour.
+3|oz|Tab|Soda|9|oz|Whiskey|Whiskey|3|oz|Pepsi|Soda|3|oz|Root Beer|Soda|1.5|oz|Bacardi 151|Rum
+Gomez|Movie|Addams Family|F|Secret of the Booze|https://www.youtube.com/c/SecretoftheBooze|Add a lit cigar to a decanter and fill with smoke.|Mix ingredients in a cocktail shaker.|Strain into decanter and shake.|Strain over ice.
+2|oz|Scotch|Scotch|.5|oz|Simple Syrup Infused with Cigar Smoke|Syrup|1|dash|Orange Bitters|Bitters
+Morticia|Movie|Addams Family|F|Secret of the Booze|https://www.youtube.com/c/SecretoftheBooze|In a cocktail shaker, combine gin, lemon juice, simple syrup, and raspberry liqueur.|Shake vigorously.|Strain into a chilled champagne flute and top with champagne.
+1.5|oz|Gin|Gin|.75|oz|Lemon Juice|Juice|.5|oz|Simple Syrup|Syrup|1|oz|Raspberry Liqueur|Liqueur|2|oz|Champagne|Champagne
