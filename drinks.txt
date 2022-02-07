@@ -1124,3 +1124,17 @@ Gomez|Movie|Addams Family|F|Secret of the Booze|https://www.youtube.com/c/Secret
 2|oz|Scotch|Scotch|.5|oz|Simple Syrup Infused with Cigar Smoke|Syrup|1|dash|Orange Bitters|Bitters
 Morticia|Movie|Addams Family|F|Secret of the Booze|https://www.youtube.com/c/SecretoftheBooze|In a cocktail shaker, combine gin, lemon juice, simple syrup, and raspberry liqueur.|Shake vigorously.|Strain into a chilled champagne flute and top with champagne.
 1.5|oz|Gin|Gin|.75|oz|Lemon Juice|Juice|.5|oz|Simple Syrup|Syrup|1|oz|Raspberry Liqueur|Liqueur|2|oz|Champagne|Champagne
+Dracula's Blood|Movie|Dracula|F|Secret of the Booze|https://www.youtube.com/c/SecretoftheBooze|Add cherries to a cocktail shaker and gently muddle to break the skins.|Add ice, simple syrup, merlot, and bourbon to the shaker.|Shake and strain into a glass filled with ice.|Serve with a lemon slice.
+4|each|Cherries|Fruit|.25|oz|Simple Syrup|Syrup|1.5|oz|Merlot|Wine|1|oz|Bourbon|Bourbon|1|each|Lemon Slice|Fruit
+Spocktail|TV|Star Trek|F|Secret of the Booze|https://www.youtube.com/c/SecretoftheBooze|Add gin, hpnotiq and ice to shaker.|Shake.|Strain into glass.|Top with blue curaçao.|Garnish with two pineapple wedge "ears".
+1.5|oz|Dry Gin|Gin|1|oz|Blue Raspberry Hpnotiq|Liqueur|4|oz|Ice|Ice|1|splash|Blue Curaçao|Liqueur|2|each|Pineapple Wedges|Fruit
+T-1000|Movie|Terminator|F|Secret of the Booze|https://www.youtube.com/c/SecretoftheBooze|Shake the gin and Triple Sec in a Shaker tin.|Follow that up by adding Seltzer water and Metallic powders.|Do not add too much of the powder as it will over power the drink quickly.|Once all ingredients are added to the drink stir.
+1|oz|Gin|Gin|2|oz|Triple Sec|Liqueur|1|bottle|Seltzer Water|Soda|1|tbsp|Silver Shimmer Powder|Other|1|tbsp|Black Shimmer Powder|Other
+Punisher's War Zone|Comic Book|Punisher|F|Secret of the Booze|https://www.youtube.com/c/SecretoftheBooze|Take equal parts Lemonade and Ice Tea and put into ice cube trays.|Rim your glass with Pepper.|Add in your Bullet Rye, Ice cubes and then finally top with Ginger Beer.
+1|tbsp|Pepper|Spice|2|oz|Bullet Rye|Rye|4|oz|Ginger Beer|Soda|1|bottle|Lemonade|Lemonade|1|bottle|Iced Tea|Iced Tea
+The Drink Without Fear|Comic Book|Daredevil|F|Secret of the Booze|https://www.youtube.com/c/SecretoftheBooze|Add ingredients into a glass.|Enjoy!
+4|oz|Coffee|Coffee|1|oz|Jim Beam's Devil's Cut|Bourbon|1|oz|Creme de Cacao|Liqueur
+Princess Peach|Video Game|Super Mario|F|Secret of the Booze|https://www.youtube.com/c/SecretoftheBooze|Stir all ingredients|Pour into martini glass.
+4|oz|Milk|Milk|2|oz|Peach Schnapps|Schnapps|1|splash|Strawberry Syrup|Syrup
+The Sea Witch|Movie|The Little Mermaid|F|Secret of the Booze|https://www.youtube.com/c/SecretoftheBooze|Add sake, sour pucker and ice to shaker.|Add enough cranberry juice to bring out purple color.|Shake.|Strain into glass.|Add whipped cream "hair".
+3|oz|Unfiltered Sake|Sake|3|oz|Grape Sour Pucker|Mixer|6|oz|Ice|Ice|1|bottle|Cranberry Juice|Juice|1|can|Whipped Cream|Cream
