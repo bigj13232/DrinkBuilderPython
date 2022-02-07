@@ -624,7 +624,7 @@ Sugar Cherry Minisicle|Recipe|Captain America: Civil War Inspired Cocktail & Sug
 8|oz|Maraschino Cherry Juice|Juice|1|tbsp|Sugar|Sugar|4|oz|Club Soda|Soda|2|tbsp|Kinky Blue|Liqueur|1|tbsp|Sugar|Sugar
 Bagheera Rum & Mexican Coke|Movie|The Jungle Book|F|Whisky + Sunshine|https://www.whiskynsunshine.com/|In a cocktail shaker add rum, Iced Cake flavored vodka, a pinch of cinnamon, and a single ice cube.|Shake like there is no tomorrow, for about 30 seconds.|Strain cocktail mixture into a whiskey glass filled with crushed ice.|Garnish with a cinnamon stick and jalapeño (optional)|Serve.
 1|oz|Ron Barceló Rum|Rum|1|oz|Smirnoff Iced Cake Vodka|Vodka|3|oz|Jarritos Mexican Cola|Soda|1|pinch|Cinnamon|Spice|1|each|Cinnamon Stick|Spice|1|each|Ice Cube|Ice|3|oz|Crushed Ice|Ice
-Kaa Martini|Movie|The Jungle Book|F|Whisky + Sunshine|https://www.whiskynsunshine.com/|In a cocktail shaker add Disaronna, tequila, raspberry simple syrup, freshly squeezed lemon juice, and lots of crushed ice.|Secure cap and shake cocktail for 30 seconds.|Strain into a frosted Martini glass filled with 2–3 ice cubes.|Using a freshly cut lemon peel, press the cut edge of the lemon around the rim of the glass.|Garnish with a fresh raspberry on a cocktail stick.
+Kaa Martini|Movie|The Jungle Book|F|Whisky + Sunshine|https://www.whiskynsunshine.com/|In a cocktail shaker add Disaronno, tequila, raspberry simple syrup, freshly squeezed lemon juice, and lots of crushed ice.|Secure cap and shake cocktail for 30 seconds.|Strain into a frosted Martini glass filled with 2–3 ice cubes.|Using a freshly cut lemon peel, press the cut edge of the lemon around the rim of the glass.|Garnish with a fresh raspberry on a cocktail stick.
 2|oz|Disaronno|Liqueur|1.5|oz|Blue Nectar Tequila Blanco|Tequila|1.5|oz|Raspberry Simple Syrup|Syrup|.5|oz|Fresh Squeezed Lemon Juice|Juice|1|each|Raspberry|Fruit|4|oz|Ice|Ice
 The Mad Hatter|Movie|Alice in Wonderland|F|Whisky + Sunshine|https://www.whiskynsunshine.com/|In a cocktail shaker add whiskey, Svedka Strawberry Lemonade vodka, grenadine, lemonade, and a single ice cube.|Shake vigorously.|Pour contents into a stainless steel (or standard) martini glass filled with crushed ice.|Garnish with sliced jalapeños and strawberry slices.|Serve.
 1|oz|Whiskey|Whiskey|1|oz|Svenda Strawberry Lemonade Vodka|Vodka|2|oz|Grenadine|Mixer|1|oz|Lemonade|Lemonade|2|each|Strawberreies, sliced|Fruit|1|each|Jalapeño|Vegetable|1|each|Ice Cube|Ice|3|oz|Crushed Ice|Ice
@@ -1138,3 +1138,21 @@ Princess Peach|Video Game|Super Mario|F|Secret of the Booze|https://www.youtube.
 4|oz|Milk|Milk|2|oz|Peach Schnapps|Schnapps|1|splash|Strawberry Syrup|Syrup
 The Sea Witch|Movie|The Little Mermaid|F|Secret of the Booze|https://www.youtube.com/c/SecretoftheBooze|Add sake, sour pucker and ice to shaker.|Add enough cranberry juice to bring out purple color.|Shake.|Strain into glass.|Add whipped cream "hair".
 3|oz|Unfiltered Sake|Sake|3|oz|Grape Sour Pucker|Mixer|6|oz|Ice|Ice|1|bottle|Cranberry Juice|Juice|1|can|Whipped Cream|Cream
+Star Spangled Man|Movie|Captain America|F|Secret of the Booze|https://www.youtube.com/c/SecretoftheBooze|Layer ingredients as follows in shot glass: grenadine, rum chata and blue curacao.
+.5|oz|Grenadine|Mixer|.5|oz|Rum Chata|Liqueur|.5|oz|Blue Curaçao|Liqueur
+Martini Of Truth|Movie|Wonder Woman|F|Secret of the Booze|https://www.youtube.com/c/SecretoftheBooze|Add liquid ingredients to a mixing glass with ice.|Stir.|Strain into martini glass rimmed with edible gold powder.|Garnish with Maracschino cherry.
+2|oz|Whiskey|Whiskey|.5|oz|Grand Marnier|Liqueur|.5|oz|Sweet Vermouth|Vermouth|1|dash|Bitters|Bitters|4|oz|Ice|Ice|1|tbsp|Edible Gold Powder|Other|1|each|Maracschino Cherry|Fruit
+Lightsaber Shots|Movie|Star Wars|F|Secret of the Booze|https://www.youtube.com/c/SecretoftheBooze|In test tube shot glasses, combine everclear/pomegranate mixer/1 oz Triple Sec, gin/sour apple schnapps/1 oz Triple Sec, and bacardi/blue raspberry mix/1 oz Triple Sec respectively to create the Sith, the Master and the Apprentice.
+1|oz|Everclear|Grain Alcohol|2|oz|Pomegranate Mix|Mixer|1|oz|Gin|2|oz|Sour Apple Schnapps|Schnapps|1|oz|Bacardi|Rum|2|oz|Blue Raspberry Mix|Mixer|3|oz|Triple Sec|Liqueur
+Star Lord|Movie|Guardians of the Galaxy|F|Secret of the Booze|https://www.youtube.com/c/SecretoftheBooze|Add into shaker with ice.|Shake.|Strain over a ball of ice in a low ball glass.|Rim glass with orange peel then drop into cocktail.
+2|oz|Campari|Liqueur|2|oz|Disaronno|Liqueur|1|tsp|Lemon Juice|Juice|1|Ice Ball|Ice|1|each|Orange Peel|Fruit
+Gamora|Movie|Guardians of the Galaxy|F|Secret of the Booze|https://www.youtube.com/c/SecretoftheBooze|Add Ingredients into a Champagne glass top with Cherries.
+.5|oz|Gin|Gin|1.5|oz|Midori|Liqueur|2|oz|Lime Soda|Soda|2|oz|Prosecco|Wine
+Drax|Movie|Guardians of the Galaxy|F|Secret of the Booze|https://www.youtube.com/c/SecretoftheBooze|Mix all ingredients in shaker.|Strain into glass with Ice.|Fill with Maraschino Cherries.
+1|oz|Hpnotiq|Liqueur|2|oz|Pineapple Rum|Rum|1|oz|Sake|Sake|2|oz|Simple Syrup|Syrup|6|each|Maracschino Cherries|Fruit
+Rocket|Movie|Guardians of the Galaxy|F|Secret of the Booze|https://www.youtube.com/c/SecretoftheBooze|Add all ingredients to shot glass.|Enjoy!
+.5|oz|Butterscotch Schnapps|Schnapps|.5|oz|Whiskey|Whiskey|.5|oz|Captain Morgan|Rum
+Groot|Movie|Guardians of the Galaxy|F|Secret of the Booze|https://www.youtube.com/c/SecretoftheBooze|Add all ingredients into stout.|Garnish with fennel.
+12|oz|Stout Beer|1.5|oz|Maple Syrup Whiskey|Whiskey|1|sprig|Fennel|Herb
+Baby Groot|Movie|Guardians of the Galaxy|F|Secret of the Booze|https://www.youtube.com/c/SecretoftheBooze|Add to a pint glass the butterscotch schnapps and whiskey.|Fill glass with ice.|Stir.|Strain into low ball glass filled with ice.|Top with root beer.
+1|oz|Butterscotch Schnapps|Schnapps|1|oz|Maple Rye Whiskey|Whiskey|1|bottle|Root Beer|Soda
