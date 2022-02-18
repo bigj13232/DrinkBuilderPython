@@ -1156,3 +1156,13 @@ Groot|Movie|Guardians of the Galaxy|F|Secret of the Booze|https://www.youtube.co
 12|oz|Stout Beer|1.5|oz|Maple Syrup Whiskey|Whiskey|1|sprig|Fennel|Herb
 Baby Groot|Movie|Guardians of the Galaxy|F|Secret of the Booze|https://www.youtube.com/c/SecretoftheBooze|Add to a pint glass the butterscotch schnapps and whiskey.|Fill glass with ice.|Stir.|Strain into low ball glass filled with ice.|Top with root beer.
 1|oz|Butterscotch Schnapps|Schnapps|1|oz|Maple Rye Whiskey|Whiskey|1|bottle|Root Beer|Soda
+The Major|Anime|Ghost in the Shell|F|Secret of the Booze|https://www.youtube.com/c/SecretoftheBooze|Add liquid ingredients to shaker with ice.|Shake.|Strain into a martini glass.|Top with purple or black twizzlers
+1|oz|Cream|Cream|1|oz|Light Rum|Rum|.5|oz|Creme de cacao|Liquer|3|each|Black or Purple Twizzlers|Candy
+Poison Ivy|Comic Book|Batman|F|Secret of the Booze|https://www.youtube.com/c/SecretoftheBooze|Muddle sugar and mint.|Add ice, spirits, top it with Sprite and add hot sauce.|Garnish with mint.
+1|tbsp|Sugar|Sugar|1|sprig|Mint|Herb|1.5|oz|Bacardi|Rum|.5|oz|Midori|Liquer|1|can|Sprite|Soda|.25|oz|Hot Sauce|Other
+Belle|Movie|Beauty and the Beast|F|Secret of the Booze|https://www.youtube.com/c/SecretoftheBooze|Shake with ice.|Strain into chocolate-rimmed martini glass.|Top with whipped cream and a cherry.
+1|oz|Chocolate Vodka|Vodka|1|oz|Banana Liquer|Liquer|.5|oz|Cream|Milk|2|tbsp|Chocolate Sauce|Chocolate|1|can|Whipped Cream|Cream|1|each|Cherry|Fruit
+King Kong|Movie|King Kong|F|Secret of the Booze|https://www.youtube.com/c/SecretoftheBooze|Blend ingredients with one banana.|Garnish with a banana.
+2|each|Bananas|Fruit|6|oz|Dark Rum|Rum|2|oz|Banana Liquer|4|oz|Ice|Ice
+Leap of Faith|Video Game|Assassin's Creed|F|Secret of the Booze|https://www.youtube.com/c/SecretoftheBooze|Add grand marnier and wine to glass.|Garnish with orange wedge.|Fill shot glass with sprite.|Drop shot glass into other glass.|Enjoy.
+2|oz|Grand Marnier|Liquer|2.5|oz|Red Wine|Wine|1.5|oz|Sprite|Sprite|1|each|Orange Wedge|Fruit|
