@@ -1166,3 +1166,17 @@ King Kong|Movie|King Kong|F|Secret of the Booze|https://www.youtube.com/c/Secret
 2|each|Bananas|Fruit|6|oz|Dark Rum|Rum|2|oz|Banana Liquer|4|oz|Ice|Ice
 Leap of Faith|Video Game|Assassin's Creed|F|Secret of the Booze|https://www.youtube.com/c/SecretoftheBooze|Add grand marnier and wine to glass.|Garnish with orange wedge.|Fill shot glass with sprite.|Drop shot glass into other glass.|Enjoy.
 2|oz|Grand Marnier|Liquer|2.5|oz|Red Wine|Wine|1.5|oz|Sprite|Sprite|1|each|Orange Wedge|Fruit|
+Unicorn Blood|Book|Harry Potter|F|Tasty|https://tasty.co/|Add everything to a cocktail shaker with ice and shake (hard!) for a full 20 seconds.|Strain into a coupe glass.
+1.5|oz|Silver Tequila|Tequila|1.5|oz|St. Germain|Liquer|1|oz|Lemon Juice|Juice
+Hair Of The Three-Headed Dog|Book|Harry Potter|F|Tasty|https://tasty.co/|Mix tequila, tomato juice, lime juice, Worcestershire and Tabasco sauces.|Mix salt and chili powder together in a small bowl or saucer.|Rub the rim of a pint glass with a slice of lime and roll the outside of the glass rim in the chili salt to coat it.|Fill glass halfway with ice, add tomato mixture, stir well, and top with beer.|Garnish with celery if you like.
+1.5|oz|Tequila|Tequila|4|oz|Tomato Juice|Juice|1|tbsp|Lime Juice|Juice|1|tbsp|Worcestershire Sauce|Sauce|1|tsp|Tabasco|Sauce|12|oz|Mexican Beer|Beer|2|tbsp|Kosher Salt|Salt|.5|tsp|Chili Powder|Spice|1|stalk|Celery, washed, root end trimmed|Vegetable
+Wolfsbane Potion|Book|Harry Potter|F|Tasty|https://tasty.co/|Combine Scott and Fernet in a shaker with ice and stir vigorously for 20 seconds, until fully chilled.|Strain into a rocks glass with a large ice cube.|Top with cola, to taste.
+1.5|oz|Scotch Whiskey|Scotch|1.5|Fernet-Branca|Liquer|1|can|Coca-Cola|Soda
+The Phoenix Feather|Book|Harry Potter|F|Tasty|https://tasty.co/|Combine Lillet, Campari, and grapefruit juice in a cocktail shaker with ice and shake, vigorously, for about 20 seconds.|Strain into a Collins glass filled with ice cubes and top with seltzer.
+2|oz|Lillet Blanc|Wine|1.5|Campari|Liquer|1|oz|Fresh-squeezed Grapefruit Juice|Juice|1|bottle|Seltzer or Club Soda|Soda
+Butterbeer|Book|Harry Potter|F|Tasty|https://tasty.co/|Heat cider, bourbon and butterscotch syrup in a medium saucepan until the butterscotch dissolves and the mixture is steaming hot.|Remove from heat and stir in the ginger beer.|Ladle into mugs and serve with loads of whipped cream on top.
+7|tbsp|Butterscotch Sauce|Sauce|24|oz|Apple Cider|Cider|8|oz|Bourbon Whiskey|16|oz|Ginger Beer|Beer|1|can|Whipped Cream|Cream
+Polyjuice Potion|Book|Harry Potter|F|Tasty|https://tasty.co/|Shake gin, juices, and Chartreuse in a shaker with ice.|Strain into a glass (you can serve up or over ice).|Top with a splash of soda if you'd like it a little lighter.
+1.5|oz|Gin|Gin|1.5|oz|Green Juice|Juice|1|oz|Green Chartreuse|Liquer|.5|oz|Lime Juice|Juice|1|can|7-Up|Soda
+Felix Felicis|Book|Harry Potter|F|Tasty|https://tasty.co/|Mix simple syrup and lemon juice in the bottom of a champagne flute.|Add ginger beer and fill with Champagne.
+.25|oz|Simple Syrup|.25|oz|Lemon Juice|Juice|1.5|oz|Ginger Beer|1|bottle|Champagne|Champagne
