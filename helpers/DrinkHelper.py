@@ -40,6 +40,9 @@ class DrinkHelper(object):
             #Get drink direcrions
             directions = str(input("Enter drink directions: "))
 
+            #Get drink source website
+            drinkWebsite = str(input("Enter drink source website: "))
+
             #Get whether or not drink is a mocktail(T/F)
             mocktailAnswer = str(input("Is the drink a mocktail? T/F: "))
             mocktail = -1
@@ -57,7 +60,7 @@ class DrinkHelper(object):
             drinkLoop = str(input("is the above correct? "))
 
             #Create drink w/o ingredients
-            addDrink = Drink(name, source, origin, directions, mocktail)
+            addDrink = Drink(name, source, origin, directions, mocktail,drinkWebsite)
 
             addingIngredientsLoop = 'Y'
            
@@ -143,17 +146,19 @@ class DrinkHelper(object):
             if line_count % 2 == 1:
                 drink_details = line.split("|")
                 print("Getting Drink details")
-                drinkName = drink_details[0]
-                drinkSource = drink_details[1]
-                drinkOrigin = drink_details[2]
-                drinkMocktail = drink_details[3]
+                drinkName = drink_details[0]                                            #get Drink Name
+                drinkSource = drink_details[1]                                          #get Drink Source
+                drinkOrigin = drink_details[2]                                          #get Drink Origin
+                drinkMocktail = drink_details[3]                                        #get T/F if drink is mocktail
+                drinkWebsite = drink_details[4]                                         #get drink website
+                drinkWebsiteURL = drink_details[5]                                      #get drink website URL
                 drinkDirectionsList = []
-                for i in drink_details[4:]:
+                for i in drink_details[6:]:
                     drinkDirectionsList.append(i)
 
                 drinkDirections = XMLHelper.createXML(drinkDirectionsList)
                 ###print(drinkDirections)
-                addDrink = Drink(drinkName,drinkSource,drinkOrigin,drinkDirections,drinkMocktail)
+                addDrink = Drink(drinkName,drinkSource,drinkOrigin,drinkDirections,drinkMocktail,drinkWebsite,drinkWebsiteURL)
             #Even numbered lines contain ingredient details
             elif line_count % 2 == 0:
                 ingredient_list = line.split("|")

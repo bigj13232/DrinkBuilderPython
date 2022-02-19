@@ -7,7 +7,7 @@ class DatabaseHelper():
         #   creates drink variables to pass into sql execution
         #   :param: drink
         #   :return: sql_variables
-        sql_variables = (drink.name, drink.source, drink.origin,drink.directions, drink.isMocktail)
+        sql_variables = (drink.name, drink.source, drink.origin,drink.directions, drink.isMocktail,drink.drinkWebsite,drink.drinkWebsiteURL)
         return sql_variables
     def createIngredientArray(row_id, ingredient):
         #   creates ingredient variables to pass into sql execution
