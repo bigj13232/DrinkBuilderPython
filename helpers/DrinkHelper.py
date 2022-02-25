@@ -1,54 +1,12 @@
+from helpers.DatabaseHelper import DatabaseHelper
 from helpers.MenuHelper import MenuHelper
+from helpers.XMLHelper import XMLHelper
+
 from drink.Drink import Drink
 from drink.Ingredient import Ingredient
-import sqlite3
-from sqlite3 import Error
+
 
 class DrinkHelper(object):
-    @staticmethod
-    def create_connection():
-        #   create database connection
-        #   :return: conn
-        """create a datbase connection to sqlite database"""
-        conn = None
-        try:
-            conn = sqlite3.connect(r"drink.db")
-        except Error as e:
-            print(e)
-        return conn
-    def createDrinkArray(drink):
-        #   creates drink variables to pass into sql execution
-        #   :param: drink
-        #   :return: sql_variables
-        sql_variables = (drink.name, drink.source, drink.origin,drink.directions, drink.isMocktail)
-        return sql_variables
-    def createIngredientArray(row_id, ingredient):
-        #   creates ingredient variables to pass into sql execution
-        #   :param: row_id
-        #   :param: ingredient
-        #   :return: sql_variables
-        sql_variables = (row_id, ingredient.amount, ingredient.measurement, ingredient.name, ingredient.type)
-        return sql_variables
-    def insert_drink(drink):
-        #   inserts drink into database
-        #   :param: drink
-        sql = ''' INSERT INTO drinks(name,source,origin,directions,mocktail) VALUES(?,?,?,?,?) '''
-        drink_variables = DrinkHelper.createDrinkArray(drink)
-        conn = DrinkHelper.create_connection()
-        cur = conn.cursor()
-        cur.execute(sql, drink_variables)
-        conn.commit()
-        return cur.lastrowid
-    def insert_ingredient(cur_row, ingredient):
-        #   insert ingredient into database
-        #   :param: cur_row
-        #   :param: ingredient
-        sql = ''' INSERT INTO ingredients(drink_id,amount,measurement,name,type) VALUES(?,?,?,?,?)'''
-        ingredient_variables = DrinkHelper.createIngredientArray(cur_row, ingredient)
-        conn = DrinkHelper.create_connection()
-        cur = conn.cursor()
-        cur.execute(sql, ingredient_variables)
-        conn.commit()
     @staticmethod
     def addDrink():
         #   Gather drink/ingredient details and add to database
@@ -82,6 +40,9 @@ class DrinkHelper(object):
             #Get drink direcrions
             directions = str(input("Enter drink directions: "))
 
+            #Get drink source website
+            drinkWebsite = str(input("Enter drink source website: "))
+
             #Get whether or not drink is a mocktail(T/F)
             mocktailAnswer = str(input("Is the drink a mocktail? T/F: "))
             mocktail = -1
@@ -99,7 +60,7 @@ class DrinkHelper(object):
             drinkLoop = str(input("is the above correct? "))
 
             #Create drink w/o ingredients
-            addDrink = Drink(name, source, origin, directions, mocktail)
+            addDrink = Drink(name, source, origin, directions, mocktail,drinkWebsite)
 
             addingIngredientsLoop = 'Y'
            
@@ -115,12 +76,13 @@ class DrinkHelper(object):
                     #Get Ingredient measurement
                     #begin ingredient measurement loop
                     sourceChoice = int(-1)
-                    while(int(sourceChoice) <=0 or int(sourceChoice) > 3):
+                    while(int(sourceChoice) <=0 or int(sourceChoice) > 4):
                         MenuHelper.displayMeasurements()
                         sourceChoice = int(input("Enter selection: "))
                         if (sourceChoice == 1): ingredientMeasurement = 'Ounce(s)'
                         elif (sourceChoice == 2): ingredientMeasurement = 'ML'
                         elif (sourceChoice == 3): ingredientMeasurement = 'each'
+                        elif (sourceChoice == 4): ingredientMeasurement = 'dash(s)'
                         else: print("Invalid Option( " + sourceChoice + " ) - Try Again.")                   
                     #end ingredientMeasurementAnswer
 
@@ -143,19 +105,21 @@ class DrinkHelper(object):
             #end addingIngredientsLoop
 
             #Insert drink into database and get last row
-            insert_row = DrinkHelper.insert_drink(addDrink)
+            insert_row = DatabaseHelper.insert_drink(addDrink)
 
             print("Insert row is: " + str(insert_row))
 
             #Iterate through drink ingredients and add them to database
             for ingredient in addDrink.ingredients:
-                DrinkHelper.insert_ingredient(insert_row, ingredient)
+                DatabaseHelper.insert_ingredient(insert_row, ingredient)
             drinkLoop = input("Do you wish to add another drink? ")
         #end drinkLoop
     
+
     @staticmethod
     def editDrink():
-        print("Edit Drink")
+        drink_name = input("Enter drink name to search for: ")
+
 
     @staticmethod
     def removeDrink():
@@ -164,3 +128,47 @@ class DrinkHelper(object):
     @staticmethod
     def viewDrink():
         print("View Drink")
+
+    def chunker(seq, size):
+        return (seq[pos:pos + size] for pos in range(0, len(seq), size))
+
+    @staticmethod
+    def addFromFile():
+        #Open text file, parse to drink_lines variable
+        with open('drinks.txt', 'r') as drinks_text:
+            drink_lines = drinks_text.readlines()
+            
+
+        line_count = 0
+        for line in drink_lines:
+            line_count+=1
+            #Odd Numbered Lines contain drink details
+            if line_count % 2 == 1:
+                drink_details = line.split("|")
+                print("Getting Drink details")
+                drinkName = drink_details[0]                                            #get Drink Name
+                drinkSource = drink_details[1]                                          #get Drink Source
+                drinkOrigin = drink_details[2]                                          #get Drink Origin
+                drinkMocktail = drink_details[3]                                        #get T/F if drink is mocktail
+                drinkWebsite = drink_details[4]                                         #get drink website
+                drinkWebsiteURL = drink_details[5]                                      #get drink website URL
+                drinkDirectionsList = []
+                for i in drink_details[6:]:
+                    drinkDirectionsList.append(i)
+
+                drinkDirections = XMLHelper.createXML(drinkDirectionsList)
+                ###print(drinkDirections)
+                addDrink = Drink(drinkName,drinkSource,drinkOrigin,drinkDirections,drinkMocktail,drinkWebsite,drinkWebsiteURL)
+            #Even numbered lines contain ingredient details
+            elif line_count % 2 == 0:
+                ingredient_list = line.split("|")
+
+                for ingredients in DrinkHelper.chunker(ingredient_list, 4):
+                    ingredient = Ingredient(ingredients[0], ingredients[1], ingredients[2], ingredients[3])
+                    addDrink.addIngredient(ingredient)
+                row = DatabaseHelper.insert_drink(addDrink)
+
+                for ingredient in addDrink.ingredients:
+                    DatabaseHelper.insert_ingredient(row, ingredient)
+
+                    
