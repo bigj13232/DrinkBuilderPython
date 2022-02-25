@@ -7,7 +7,7 @@ Eren Jaegerbomb|Anime|Attack on Titan|F|The Drunken Moogle|https://thedrunkenmoo
 Gods of Death Love Apples|Anime|Death Note|F|The Drunken Moogle|https://thedrunkenmoogle.com/|Mix the brandy, rum, and bitters in a separate glass.|Crush a little bit of apple in a rocks glass to add a bit of flavor.|Add the alcohol, apple juice, and ice.|Serve with an apple garnish.
 1|oz|Brandy|Brandy|1|oz|Coruba|Dark Rum|1|dash|Angostura Bitters|Bitters|4|oz|Apple Juice|Juice|1|each|Apple|Fruit
 Godot's Special Blend #12|Anime|Pheonix Wright|F|The Drunken Moogle|https://thedrunkenmoogle.com/|Infuse your spiced rum with cinnamon cloves|Make your coffee|preferably fairly strong.|In an Irish coffee glass|mix all ingredients and stir.
-5|oz.Coffee|Coffee|1|oz|cinnamon Infused Spiced Rum|Spiced Rum|.75|oz|Irish Cream|Liqueur|1|splash|Chambord|Liqueur
+5|oz|Coffee|Coffee|1|oz|Cinnamon Infused Spiced Rum|Spiced Rum|.75|oz|Irish Cream|Liqueur|1|splash|Chambord|Liqueur
 Kaneda|Anime|Akira|F|The Drunken Moogle|https://thedrunkenmoogle.com/|Mix Whiskey|Aftershock and Lemon Juice in Martini Glass|Top with Club Soda
 .75|oz|Maker's Mark|Whiskey|1.5|oz|Aftershock|Liqueur|1|splash|Lemon Juice|Juice|1|bottle|Club Soda|Mixer
 Spirit Bomb|Anime|Dragonball Z|F|The Drunken Moogle|https://thedrunkenmoogle.com/|Pour Red Bull into pint glass.|Pour a shot mixed with Tequila and Blue Curaçao.|Drop shot into glass.
@@ -27,7 +27,7 @@ Gandalf Grog|Book|Lord of the Ring|F|The Drunken Moogle|https://thedrunkenmoogle
 The One Ring|Book|Lord of the Ring|F|The Drunken Moogle|https://thedrunkenmoogle.com/|Rim a shot glass with sugar, preferably yellow sugar.|Pour in chilled Aftershock and layer Galliano.
 .5|oz|Aftershock|Liqueur|1|oz|Galliano|Liqueur|1|tbs|Yellow Sugar(preffered)|Sugar
 Pan-Galactic Gargle Blaster 2|Book|Hitchhiker's Guide to the Galaxy|F|The Drunken Moogle|https://thedrunkenmoogle.com/|Fill a highball glass ¾ full of ice.|Add the Jack Daniels and peach schnapps, then top off with orange juice.|Mix well, then add the blue Curaçao over the top.|Garnish with a lemon twist and olive, if you chose to include it.
-1|oz|Jack Daniels|Whiskey|1|oz|Peach Schnapps|Schnapps|5|oz|Orange|Juice|Juice|1|splash|Blue Curaçao|Liqueur|1|each|Lemon Twist|Fruit|1|each|Olive|Optional
+1|oz|Jack Daniels|Whiskey|1|oz|Peach Schnapps|Schnapps|5|oz|Orange Juice|Juice|1|splash|Blue Curaçao|Liqueur|1|each|Lemon Twist|Fruit|1|each|Olive|Optional
 Raphael|Cartoon|Teenage Mutant Ninja Turtles|F|The Drunken Moogle|https://thedrunkenmoogle.com/|Add all ingredients to glass and stir
 3|oz|Strawberry Pucker|Liqueur|1.5|oz|Vodka|Vodka|3|oz|Cherry Soda|Soda|1|dash|Grenadine|Mixer
 Donatello|Cartoon|Teenage Mutant Ninja Turtles|F|The Drunken Moogle|https://thedrunkenmoogle.com/|Add all ingredients to glass and stir
@@ -37,7 +37,7 @@ The Clown Prince|Cartoon|Batman: the Animated Series|F|The Drunken Moogle|https:
 Captain Planet|Cartoon|Captain Planet|F|The Drunken Moogle|https://thedrunkenmoogle.com/|Add Whiskey(earth), Tequila(fire), Vodka(wind), Seltzer(water) and Fruit Punch(heart) into mixing glass with ice.|Shake and pour into a tall glass with ice.
 .75|oz|Whiskey|Whiskey|.75|oz|Tequila|Tequila|.75|oz|Vodka|Vodka|.75|oz|Seltzer|Seltzer|.75|oz|Fruit Punch|Fruit Punch
 Harley Quinn Jello Shot|Cartoon|Batman: the Animated Series|F|The Drunken Moogle|https://thedrunkenmoogle.com/|Part 1: Mix 1 Cup Vodka 1 Cup Hot Water and 1 Box of Strawberry Jello. Fill as many shots as possible only half way till you run out of jello mixture.|Part 2: Once Part 1 hardens, mix 1 cup Chambord 1 Cup Hot Water and 1 box of Grape Jello. Pour this mix GENTLY on top of the existing Jello shot.|Part 3: Wait for this layer to harden. Boom Harley Quinn Jello shot.|If eating with a spoon, garnish with whip cream and marshmallow on top.
-8|oz|Vodka|Vodka|8|oz|Chambord|Liqueur|1|each|Strawberry Jello Mix|Jello|1|each|Grape Jello Mix|Jello|16|oz|Hot Water|Water1|can|Whipped Cream|Topping|1|bag|Mini Marshmallows|Topping
+8|oz|Vodka|Vodka|8|oz|Chambord|Liqueur|1|each|Strawberry Jello Mix|Jello|1|each|Grape Jello Mix|Jello|16|oz|Hot Water|Water|1|can|Whipped Cream|Topping|1|bag|Mini Marshmallows|Topping
 Cactus Juice|Cartoon|Avatar: the Last Airbender|F|The Drunken Moogle|https://thedrunkenmoogle.com/|Mix alcoholic ingredients in a tall glass over ice.|Fill with club soda and stir.
 2|oz|Midori|Liqueur|.5|oz|Coconut Rum|Rum|.5|oz|Absinthe|Liqueur|1|bottle|Club Soda|Mixer
 Jake|Cartoon|Adventure Time|F|The Drunken Moogle|https://thedrunkenmoogle.com/|Shake all alcohol with ice.|Strain into any size glass of your choice.|Fill with Orange juice.
@@ -49,7 +49,7 @@ Princess Bubble-tini|Cartoon|Adventure Time|F|The Drunken Moogle|https://thedrun
 Marceline's Bite|Cartoon|Adventure Time|F|The Drunken Moogle|https://thedrunkenmoogle.com/|Add all alcohol to a cocktail shaker and shake vigorously with ice.|Strain into a old fashion glass.|Fill with Sprite.|Slowly sink grenadine to the bottom and garnish with a strawberry.
 1|oz|Strawberry Rum|Rum|.5|oz|Whipped Cream Vodka|Vodka|.5|oz|UV Cake Vodka|Vodka|.5|oz|Grenadine|Mixer|1|bottle|Sprite|Soda
 The Ice King|Cartoon|Adventure Time|F|The Drunken Moogle|https://thedrunkenmoogle.com/|Makes 2-6 Servings|Pour all ingredients into a blender and blend on high until properly mixed.|Pour into tall glasses.
-.66|Cups|Sugar|Sugar|1.5|Cups|UV Blue|Vodka|1.5|Cups|Water|1|cup|Fresh Squeezed Lemon Juice|Juice|4|cups|Ice|Ice
+.66|Cups|Sugar|Sugar|1.5|Cups|UV Blue|Vodka|1.5|Cups|Water|Water|1|cup|Fresh Squeezed Lemon Juice|Juice|4|cups|Ice|Ice
 Spider-man|Comic Book|Spider-man|F|The Drunken Moogle|https://thedrunkenmoogle.com/|In a shot glass, add vodka and grenadine, then layer in the Blue Curaçao.
 .5|oz|Grenadine|Mixer|.5|oz|Blue Curaçao|Liqueur|.5|oz|Vodka|Vodka
 Harley Quinn's Ace|Comic Book|Batman|F|The Drunken Moogle|https://thedrunkenmoogle.com/|Chill martini glass.|In a shaker add ice, Chambord, St. Germain and Vodka.|Shake.|Strain into martini glass|Top with Champagne and add a cherry.
