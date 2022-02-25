@@ -135,7 +135,7 @@ class DrinkHelper(object):
     @staticmethod
     def addFromFile():
         #Open text file, parse to drink_lines variable
-        with open('drinks.txt', 'r') as drinks_text:
+        with open('drinks.txt', 'r', encoding="utf8") as drinks_text:
             drink_lines = drinks_text.readlines()
             
 

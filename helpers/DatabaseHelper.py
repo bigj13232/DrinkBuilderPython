@@ -30,7 +30,7 @@ class DatabaseHelper():
     def insert_drink(drink):
         #   inserts drink into database
         #   :param: drink
-        sql = ''' INSERT INTO drinks(name,source,origin,directions,mocktail) VALUES(?,?,?,?,?) '''
+        sql = ''' INSERT INTO drinks(name,source,origin,directions,mocktail,drink_source,drink_source_url) VALUES(?,?,?,?,?,?,?) '''
         drink_variables = DatabaseHelper.createDrinkArray(drink)
         conn = DatabaseHelper.create_connection()
         cur = conn.cursor()
