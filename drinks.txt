@@ -525,13 +525,13 @@ Droid|Movie|Star Wars|F|iDrink|http://www.idrink.com/|Mix together with crushed 
 Gamora 2|Movie|Avengers|F|Jamonkey|https://jamonkey.com/|Dip your glass into the simple syrup and then into the purple cake sprinkles.|Pour your Midori, and Vodka and top with Mountain Dew.|Add shimmer dust.|Stir to combine.|Fill with ice.|Top with purple rock candy.
 1|oz|Midori|Liqueur|1|oz|Vodka|Vodka|4|oz|Sprite|Soda|1|tsp|Silver Cake Shimmer Dust|Other|6|oz|Ice|Ice|1|tbsp|Purple Sugar Sprinkles|Sprinkles|2|oz|Simple Syrup|Syrup|3|each|Purple Rock Candy|Candy
 Red Lightsaber|Movie|Star Wars|F|Jamonkey|https://jamonkey.com/|Pour 1 tbsp. of simple syrup on a small plate.|Pour the cake sugar on a separate small plate.|Dip the glass rim into the syrup and then into the sugar.|Set to the side. Fill your glass with ice.|Add 2-3 pieces of ice in a cocktail shaker.|Add all the Liquor ingredients and grenadine into the cocktail shaker.|Shake to combine.|Pour your liquor mix into the glass.|Top with sprite and lightly stir.|Garnish.
-1|oz|Tequila|Tequila|.5|oz|Brandy|Brandy|1|oz|Pomegranate Liqueur|Liqueur|1|tsp|Grenadine|Mixer|2|oz|Sprite|Soda|2|tsp|Silver Cake Shimmer Dust|Other|1|tbsp|Black Sugar Sprinkles|Sprinkles|2|oz|Simple Syrup
+1|oz|Tequila|Tequila|.5|oz|Brandy|Brandy|1|oz|Pomegranate Liqueur|Liqueur|1|tsp|Grenadine|Mixer|2|oz|Sprite|Soda|2|tsp|Silver Cake Shimmer Dust|Other|1|tbsp|Black Sugar Sprinkles|Sprinkles|2|oz|Simple Syrup|Syrup
 Blue Lightsaber|Movie|Star Wars|F|Jamonkey|https://jamonkey.com/|Pour 1 tbsp. of simple syrup on a small plate.|Pour the cake sugar on a separate small plate.|Dip the glass rim into the syrup and then into the sugar.|Set to the side.|Fill your glass with ice.|Add 2-3 pieces of ice in a cocktail shaker.|Add all the Liquor ingredients into the cocktail shaker.|Shake to combine.|Pour your liquor mix into the glass.|Top with sprite and lightly stir.|Garnish.
-1|oz|Clear Rum|Rum|.5|oz|Silver Tequila|Tequila|1|oz|Blue Curaçao|Liqueur|2|oz|Sprite|Soda|1|tsp|Silver Cake Shimmer Dust|Other|1|tbsp|Silver Sugar Sprinkles|Sprinkles|2|oz|Simple Syrup
+1|oz|Clear Rum|Rum|.5|oz|Silver Tequila|Tequila|1|oz|Blue Curaçao|Liqueur|2|oz|Sprite|Soda|1|tsp|Silver Cake Shimmer Dust|Other|1|tbsp|Silver Sugar Sprinkles|Sprinkles|2|oz|Simple Syrup|Syrup
 Sabacc|Movie|Star Wars|F|Jamonkey|https://jamonkey.com/|Mix a few drops of food coloring with margarita salt.|Line the rim with the blue salt.|Stir together all ingredients and pour over ice.|Garnish with a lime or a pineapple.
-1.5|oz|Tequila|Tequila||.5|oz|Cointreau|Liqueur|4|oz|Pineapple Juice|Juice|1|tbsp|Margarita Salt|Salt|3|drops|Blue Food Coloring|Food Coloring
+1.5|oz|Tequila|Tequila|.5|oz|Cointreau|Liqueur|4|oz|Pineapple Juice|Juice|1|tbsp|Margarita Salt|Salt|3|drops|Blue Food Coloring|Food Coloring
 Hocus Pocus|Movie|Hocus Pocus|F|Jamonkey|https://jamonkey.com/|Add your cake gel to the sides in a drip pattern.|Set to the side to dry.|In a cocktail shaker filled with ice add vodka, rum, pineapple juice and blue Curaçao and shake until mixed.
-1|oz|Vodka|1|oz|Spiced Rum|Rum|.5|oz|Blue Curaçao|Curaçao|6|oz|Pineapple Juice|Jucie|1|tbsp|Neon Green Cake Gel|Other|2|each|Cherry|Fruit
+1|oz|Vodka|Vodka|1|oz|Spiced Rum|Rum|.5|oz|Blue Curaçao|Curaçao|6|oz|Pineapple Juice|Juice|1|tbsp|Neon Green Cake Gel|Other|2|each|Cherry|Fruit
 Kylo Ren|Movie|Star Wars|F|Redhead Baby Mama|https://www.redheadbabymama.com/|On one appetizer plate pour simple syrup.|Pour back sanding sugar onto the other plate.|Dip glassware rims in the simple syrup and then in the sanding sugar.|Let dry for 1 minute|Fill each glass with ice 3/4 of the way full.|Combine Margarita Mix, Cranberry Juice and Lime Juice into a large vessel.|Pour 3oz Tequila, 1oz Luxardo Maraschino liqueur into each glass.|Top off each cocktail with Margarita and Juice mix.
 3|oz|Tequila|Tequila|1|oz|Luxardo Maraschino Liqueur|Liqueur|.5|oz|Fresh Lime Juice|Juice|1|oz|Cranberry Juice|Juice|2|oz|Simple Syrup|Syrup|1|tbsp|Black Sugar Sprinkles|Sprinkles
 Schweitzer Slush|Movie|Jungle Cruise|T|Redhead Baby Mama|https://www.redheadbabymama.com/|Mix the Juices together to form POG juice.|Fill a glass with cubed or chipped ice.|Mix equal parts POG and Sprite in the glass.|Garnish with cherry and mint, as well as a straw.
@@ -555,26 +555,26 @@ The Parabellum|Movie|John Wick|F|2 Geeks Who Eat|https://2geekswhoeat.com/|Combi
 Cousin Eddie's Egg Nog|Movie|Chrismas Vacation|F|2 Geeks Who Eat|https://2geekswhoeat.com/|Combine all ingredients in a cocktail shaker.|Dry shake all ingredients.|Add ice to shaker.|Shake again.|Double strain into glass.|Serve.|Garnish with fresh grated nutmeg.
 1.5|oz|Knob Creek Bourbon|Bourbon|.75|oz|Frangelico|Liqueur|1|each|Whole Egg|Other|1|oz|Heavy Cream|Cream|1|pinch|Cinnamon|Spice|1|pinch|Nutmeg|Spice
 Buddy's Balanced Breakfast|Movie|Elf|F|2 Geeks Who Eat|https://2geekswhoeat.com/|Combine all ingredient in a cocktail mixing glass.|Stir.|Pour over glass w/ Werther's candy stuck to bottom.|Skewer 3 candy corn and serve with a candy cane on the side as a garnish.
-1.5|oz|Templeton Rye Whiskey|Whiskey|.75|oz|Maple Syrup|Syrup|.25|Crème de Cacao|Liqueur|3|dashes|Scrappy's Chocolate Bitters|Bitters|1|each|Werther's Original Hard Candy|Candy|3|each|Christmas Themed Candy Corn|Candy|1|each|Candy Cane|Candy
+1.5|oz|Templeton Rye Whiskey|Whiskey|.75|oz|Maple Syrup|Syrup|.25|oz|Crème de Cacao|Liqueur|3|dashes|Scrappy's Chocolate Bitters|Bitters|1|each|Werther's Original Hard Candy|Candy|3|each|Christmas Themed Candy Corn|Candy|1|each|Candy Cane|Candy
 Three Dots|Movie|Predator|F|2 Geeks Who Eat|https://2geekswhoeat.com/|Combine all ingredients in a shaker without ice, shake.|Add ice and shake again.|Double strain into a coupe.|Garnish with bitters in the 3 dot pattern.
-2|oz|Pisco|Brandy|1|oz|Lime Juice|Juice|.5|oz|Simple Syrup|Syrup|1|each|Egg White|3|drops|Angostura Bitters|Bitters
+2|oz|Pisco|Brandy|1|oz|Lime Juice|Juice|.5|oz|Simple Syrup|Syrup|1|each|Egg White|Egg|3|drops|Angostura Bitters|Bitters
 The Alpha Tonic|Movie|Valerian and the City of a Thousand Planets|F|2 Geeks Who Eat|https://2geekswhoeat.com|/Stir in a cocktail mixing glass with ice.|Strain and pour over ice.|Top with tonic water.|Serve.
-1.5|oz|Vodka|Vodka|.25|oz|Blue Curaçao|Liqueur|1|dash|Lemon Bitters|Bitters|1|dash|Bitterman's Hopped Grapefruit Bitters|1|bottle|Tonic Water|Water
+1.5|oz|Vodka|Vodka|.25|oz|Blue Curaçao|Liqueur|1|dash|Lemon Bitters|Bitters|1|dash|Bitterman's Hopped Grapefruit Bitters|Bitters|1|bottle|Tonic Water|Water
 Bumblebee's Knees|Movie|Transformers|F|2 Geeks Who Eat|https://2geekswhoeat.com/|Combine all ingredients in a cocktail mixing glass with ice.|Stir.|Strain into glass.|Cheers!
 2|oz|London Style Gin|Gin|.75|oz|Lemon Juice|Juice|.75|oz|Honey Syrup|Syrup|.25|oz|Chartreuse|Liqueur
 The Excommunicato|Movie|John Wick|F|2 Geeks Who Eat|https://2geekswhoeat.com/|Combine all ingredients in a cocktail mixing glass with ice.|Stir.|Strain into shot glass.
 .75|oz|Bulliet Bourbon|Bourbon|.5|oz|Bruto Americano|Liqueur|.25|oz|Maraschino Liqueur|Liqueur
 But why's the rum gone?|Movie|Pirates of the Carribean|T|2 Geeks Who Eat|https://2geekswhoeat.com/|Combine all ingredients in a blender.|Blend until smooth.|Add more water if it is too thick.|Serve into 2 large tiki mugs or 4 smaller ones.
-8|oz|Frozen Pineapple|Fruit|8|oz|Frozen Mango|Fruit|8|oz|Frozen Strawberries|Fruit|1|can|Guava Nectar|Juice|.33|cup|Lime Juice|.25|oz|Water|Water|1|tsp|Ground Allspice|Spice
+8|oz|Frozen Pineapple|Fruit|8|oz|Frozen Mango|Fruit|8|oz|Frozen Strawberries|Fruit|1|can|Guava Nectar|Juice|.33|cup|Lime Juice|Juice|.25|oz|Water|Water|1|tsp|Ground Allspice|Spice
 The Xander Cage|Movie|XXX|F|2 Geeks Who Eat|https://2geekswhoeat.com/|Combine ingredients in a shaker with ice.|Shake.|Serve on ice in a tumbler with orange peel garnish.
 2|oz|Mezcal|Mezcal|.75|oz|Ancho Reyes|Liqueur|.5|oz|Simple Syrup|Syrup|.5|oz|Orange Juice|Juice|.25|oz|Lime Huice|Juice|2|dashes|Cranberry Bitters|Bitters
 Dagobah Slug Slinger|Movie|Star Wars|F|Whisky + Sunshine|https://www.whiskynsunshine.com/|Add all ingredients into a cocktail shaker with ice.|Shake and strain into glass with ice.|Garnish with rosemary sprig.|Enjoy!
-.5|oz|Ginger Liqueur|Liqueur|2|dashes|Grapefruit Bitters|1|oz|Orange-Tangerine Juice|Juice|.75|oz|Triple Sec|Liqueur|2|oz|Reposado Tequila|Tequila|1|sprig|Rosemary|Herb
+.5|oz|Ginger Liqueur|Liqueur|2|dashes|Grapefruit Bitters|Bitters|1|oz|Orange-Tangerine Juice|Juice|.75|oz|Triple Sec|Liqueur|2|oz|Reposado Tequila|Tequila|1|sprig|Rosemary|Herb
 Mischievous Scamp|TV|Loki|F|Whisky + Sunshine|https://www.whiskynsunshine.com/|Add Jötunheim ice to a rocks glass.|Add Jötunheim ice to a cocktail shaker.|Add Absinthe and Pineapple juice to the cocktail shaker.|Shake gently; strain over Jötunheim ice in rocks glass.|Top off with tonic water to taste.|Garnish with gummy horns if desired.|Enjoy.
 1.5|oz|Absinthe|Liqueur|4|oz|Pineapple Juice|Juice|1|bottle|Tonic Water|Tonic Water|8|oz|Ice|Ice|2|each|Gummy candy for horn garnish|Candy
 Zemo's Turjish Delight|TV|The Falcon and the Winter Soldier|F|Whisky + Sunshine|https://www.whiskynsunshine.com/|Combine gin, limoncello, and simple syrup in a cocktail shaker with ice and shake.|Strain the beverage into a coupe glass.|Garnish with a lemon slice.
 3|oz|Bloom Jasmine Rose Gin|Gin|1.5|oz|Limoncello Liqueur|Liqueur|1.5|oz|Simple Syrup|Syrup|1|slice|Dried Lemon|Fruit
-THE LEGEND OF KORRA AVATAR|TV|The Legend of Korra|T|Whisky + Sunshine|https://www.whiskynsunshine.com/|Place the Popping Pearls at the bottom of your glass.|Gently pour Fresca over the Popping Pearls.|Using the measuring spoon, drizzle Blue Curaçao along the side of the glass to allow the blue to settle to the bottom along with the pearls but not mix in so the blue is still its own distinct color.
+The Legend of Korra|TV|The Legend of Korra|T|Whisky + Sunshine|https://www.whiskynsunshine.com/|Place the Popping Pearls at the bottom of your glass.|Gently pour Fresca over the Popping Pearls.|Using the measuring spoon, drizzle Blue Curaçao along the side of the glass to allow the blue to settle to the bottom along with the pearls but not mix in so the blue is still its own distinct color.
 12|oz|Fresca|Soda|1|tsp|Blue Curaçao|Liqueur|3|tbsp|Pomegranate Popping Pearls / Popping Boba|Boba
 The Darcy|TV|Wandavision|F|Whisky + Sunshine|https://www.whiskynsunshine.com/|Add espresso, vodka, and whiskey to a cocktail shaker.|Fill the cocktail shaker about 1/2 full of ice and shake for 15–30 seconds. You shake to chill and properly dilute the cocktail. The longer you shake, the more diluted the cocktail will become.|Gently strain the cocktail mix into your coffee cup.|Enjoy responsibly.
 2|oz|Espresso|Coffee|2|oz|Espresso Vodka|Vodka|1|oz|Whiskey(OPTIONAL: Chocolate Whiskey)|Whiskey|6|oz|Ice|Ice
@@ -589,7 +589,7 @@ Kree|Movie|Guardians of the Galaxy|F|Whisky + Sunshine|https://www.whiskynsunshi
 Captain Marvel|Movie|Captain Marvel|F|Whisky + Sunshine|https://www.whiskynsunshine.com/|Fill your glass 3/4 of the way full with ice.|In a cocktail shaker, add 3–4 pieces of ice, vodka, tequila, orange liqueur, and Grenadine.|Shake vigorously.|Top off with cranberry juice.|Garnish with mint and cherries.|Enjoy!
 1.5|oz|Cherry Vodka|Vodka|1|oz|Gold Tequila|Tequila|1|oz|Orange Liqueur|Liqueur|3|oz|Cranberry Juice|Juice|1|sprig|Mint|Herb|3|each|Cherries|Fruit|3|oz|Ice|Ice
 Power Stone|Movie|Avengers|F|Whisky + Sunshine|https://www.whiskynsunshine.com/|Dip the rim of your glass in the simple syrup and then into the cake sprinkles.|Set the glass to the side.|Place all the liquors and juices in a cocktail shaker and shake to combine.|Now add 1/2 tsp. of shimmer into the shaker and shake to combine.|Fill your glass with ice.|Pour your cocktail into the glass.|Garnish with a mint sprig.
-1|oz]Blueberry Vodka|Vodka|1|oz|Coconut Rum|Rum|2|oz|Pomegranate Juice|Juice|2|oz|Pineapple Juice|Juice|2|tbsp|Purple Cake Sprinkles|Sprinkles|1|tbsp|Simple Syrup|Syrup|.5|tsp|Silver Shimmer Dust|Other|1|sprig|Mint|Herb
+1|oz|Blueberry Vodka|Vodka|1|oz|Coconut Rum|Rum|2|oz|Pomegranate Juice|Juice|2|oz|Pineapple Juice|Juice|2|tbsp|Purple Cake Sprinkles|Sprinkles|1|tbsp|Simple Syrup|Syrup|.5|tsp|Silver Shimmer Dust|Other|1|sprig|Mint|Herb
 Wasp on the Rocks|Movie|Ant-Man|F|Whisky + Sunshine|https://www.whiskynsunshine.com/|Add all of the ingredients into a shaker and fill with 2–3 pieces of ice.|Shake vigorously and strain into a glass filled with ice.|Garnish with cherries and a mint sprig.
 2|oz|Spiced Rum|Rum|4|oz|Pineapple Juice|Juice|1|oz|Orange Juice|Juice|1|oz|Cream of Coconut|Other
 Black Panther|Movie|Black Panther|F|Whisky + Sunshine|https://www.whiskynsunshine.com/|Fill a cocktail shaker with ice cubes, add Blueberry vodka, Iced Cake vodka, Kinky Blue, blueberry simple syrup, and secure the cocktail shaker cap.|Shake vigorously for a long, long, long time. 30 seconds should do it.|Strain into a standard Martini glass filled with ice.|Garnish with a single leaf of fresh mint.|Serve.
@@ -631,15 +631,15 @@ The Mad Hatter|Movie|Alice in Wonderland|F|Whisky + Sunshine|https://www.whiskyn
 Cherry Bomb|Movie|Guardians of the Galaxy|F|Whisky + Sunshine|https://www.whiskynsunshine.com/|Add ice to glass.|Pour in cherry lemonade and add Maker's Mark whisky.|Cover glass and shake gently.|Serve.
 2|oz|Maker's Mark|Whiskey|4|oz|Cherry Lemonade|Lemonade|2|oz|Ice|Ice
 Thanos|Movie|Avengers|F|Cool Moms Cool Tips|https://coolmomscooltips.com/|Dab simple syrup all around the rim of a glass.|Now dip the glass in the gold sprinkles. Set aside.|Add 2-3 pieces of ice, and combine vodka, blue Curaçao, and sweet and sour in a drink shaker.|Fill your gold rimmed glass with ice.|Pour the liquor mix into the glass.|
-1.5|oz|Vodka|Vodka|1|oz|Blue Curaçao|Liqueur|2|oz|Cranberry Juice|Juice|1|oz|Sprite|Soda|1|oz|Sweet and Sour Mix|Mixer|2|tbsp|Simple Syrup|Syrup|2|tbsp|Gold Cake Sprinkles|Sprinkles3|each|Ice Cubes|Ice
+1.5|oz|Vodka|Vodka|1|oz|Blue Curaçao|Liqueur|2|oz|Cranberry Juice|Juice|1|oz|Sprite|Soda|1|oz|Sweet and Sour Mix|Mixer|2|tbsp|Simple Syrup|Syrup|2|tbsp|Gold Cake Sprinkles|Sprinkles|3|each|Ice Cubes|Ice
 The Lion King|Movie|The Lion King|F|Cool Moms Cool Tips|https://coolmomscooltips.com/|Shake together the pineapple and orange juice, dark rum, and coconut rum.|Pour into your glass filled with ice.|Then slowly pour in a splash of grenadine.  Doing this allows the Grenadine to sink to the bottom to get the gorgeous color|Garnish with a blackberry, lime and pineapple leaves.
 2|oz|Orange Juice|Juice|3|oz|Pineapple Juice|Juice|1|oz|Coconut Rum|Rum|1.5|oz|Dark Rum Plus|Rum|6|oz|Ice|Ice|1|splash|Grenadine|Mixer|1|each|Lime Wheel|Fruit|3|each|Black Raspberies|Fruit|3|each|Pineapple Leaves|Other
 Wasp Slushie|Movie|Antman|F|Cool Moms Cool Tips|https://coolmomscooltips.com/|Pour a bit of simple syrup onto an appetizer plate.|Place the cake sprinkles on a separate appetizer plate.|Dip the rim of the glass into the syrup and then into the cake sprinkles.|Set to the side.|Place all the other ingredients into your blender and blend until smooth.|Pour into your rimmed glasses and enjoy!
-2|oz|Vodka|Vodka|1|oz|Chopped Pineapple|Fruit|1|each|Lemon, juiced|Juice|8|oz|Pineapple Juice|Juice|4|oz|Orange Juice|Juice|1|tsp|Honey|Other|16|oz|Ice|Ice|2|tbsp|Silver Cake Sprinkles|Sprinkles|2|tbsp|Simple Syrup
+2|oz|Vodka|Vodka|1|oz|Chopped Pineapple|Fruit|1|each|Lemon, juiced|Juice|8|oz|Pineapple Juice|Juice|4|oz|Orange Juice|Juice|1|tsp|Honey|Other|16|oz|Ice|Ice|2|tbsp|Silver Cake Sprinkles|Sprinkles|2|tbsp|Simple Syrup|Syrup
 Black Widow|Movie|Avengers|F|Cool Moms Cool Tips|https://coolmomscooltips.com/|Dip the rim of your glass in simple syrup and then dip the glass into the black sprinkles. Set to the side|In a blender add ALL of the ingredients for about 30 seconds|Pour the liquor mix into the glass and garnish.
 1|oz|Raspberry Liqueur|Liqueur|.5|oz|Agave Nectar|Nectar|1|oz|Vodka|Vodka|2|oz|Pomegranate Syrup|Syrup|2|oz|Seltzer Water|Soda|2|tbsp|Simple Syrup|Syrup|2|tbsp|Black and Red Sanding Sugar|Sprinkles|12|oz|Ice|Ice|3|each|Mint Leaves|Herb|1|each|Raspberry or Strawberry|Fruit
 Ironman|Movie|Ironman|F|Cool Moms Cool Tips|https://coolmomscooltips.com/|Dip the rim of the glasses in the corn syrup then into the gold sprinkles, set aside.|In a large cocktail shaker add all of the different liquors, cranberry juice and grenadine.Shake to combine.|Pour the liquor mix into a glass filled with ice.|Top with Lemonade.|Garnish and toast!
-2|oz|Scotch|Scotch|2|oz|Champagne|Champagne|4|oz|Lemonade|Lemonade|2|splashes|Grenadine|Mixer|4|oz|Cranberry Juice|Juice|1|each|Blood Orange Wedge|Fruit|2|sprigs|Mint|Herb|2|tbsp|Gold Cake Sprinkles|2|tbsp|Light Corn Syrup|Syrup
+2|oz|Scotch|Scotch|2|oz|Champagne|Champagne|4|oz|Lemonade|Lemonade|2|splashes|Grenadine|Mixer|4|oz|Cranberry Juice|Juice|1|each|Blood Orange Wedge|Fruit|2|sprigs|Mint|Herb|2|tbsp|Gold Cake Sprinkles|Sprinkles|2|tbsp|Light Corn Syrup|Syrup
 Rarity's Sparkling Martini|Cartoon|My Little Pony|F|Pop Culture Cocktails|https://cocktail-nerd.tumblr.com/|Rim a martini glass with edible glitter.|Shake vodka and liqueur over ice and strain into glass.|Fill glass with soda.|Garnish with edible violets.
 3|oz|Whipped Cream Vodka|Vodka|1|oz|Goldschlager|Liqueur|1|can|Vanilla Soda|Soda|2|tbsp|Edible Glitter|Other|1|tbsp|Edible Violets|Other
 Finn the Human's Adventure-tini|Cartoons|Adventure Time|F|Pop Culture Cocktails|https://cocktail-nerd.tumblr.com/|Shake the vodka and liqueur over ice and strain into a martini glass.|Fill rest with apple juice and orange juice.|Garnish with a skewer of gummy bears.
@@ -649,9 +649,9 @@ Professor X's Mind Reader|Comic Book|X-Men|F|Pop Culture Cocktails|https://cockt
 Weapon X|Comic Book|X-Men|F|Pop Culture Cocktails|https://cocktail-nerd.tumblr.com/|Pour whiskey, brandy, and liqueur into a mug.|Fill with hot cider.
 2|oz|Crown Royal|Whiskey|2|oz|Brandy|Brandy|1|oz|Cinnamon Liqueur|liqueur|6|oz|Hot Cider|Cider
 Sugar and Spice and Everything Nice|Cartoon|Powerpuff Girls|F|Pop Culture Cocktails|https://cocktail-nerd.tumblr.com/|Combine cherry vodka and grenadine in one cup, pineapple vodka and sour apple liqueur in one cup, and orange vodka and blue Curaçao in another cup.|Layer them in a highball glass with the cherry vodka at the bottom, the orange vodka in the middle, and the pineapple vodka at the top.
-2|oz|Cherry Vodka|Vodka|1|oz|Pineapple Vodka|Vodka|1|oz|Sour Appple Vodka|Vodka|1|oz|Orange Vodka|1|oz|Blue Curaçao|Liqueur|2|oz|Grenadine|Mixer
+2|oz|Cherry Vodka|Vodka|1|oz|Pineapple Vodka|Vodka|1|oz|Sour Appple Vodka|Vodka|1|oz|Orange Vodka|Vodka|1|oz|Blue Curaçao|Liqueur|2|oz|Grenadine|Mixer
 Yoshi's Island|Video Games|Yoshi's Island|F|Pop Culture Cocktails|https://cocktail-nerd.tumblr.com/|Rim highball glass with sugar.|Shake vodka and rum over ice and strain into glass.|Fill rest of glass with pineapple juice.|Add a twist of lime and grenadine to taste.|Garnish with a skewer of maraschino cherries and pineapple chunks.
-2|tbsp|Simple Syrup|Syrup|1|oz|Orange Vodka|Vodka|1|oz|Banana Vodka|Vodka|1|oz|Coconut Rum|Rum|1|oz|Key Lime Rum|4|oz|Pineapple Juice|Juice|1|splash|Grenadine|Mixer|1|each|Lime Wedge, juiced|Fruit|3|each|Maraschino Cherry|Fruit|3|each|Pineapple Chunks|Fruit|1|tbsp|Sugar|Sugar
+2|tbsp|Simple Syrup|Syrup|1|oz|Orange Vodka|Vodka|1|oz|Banana Vodka|Vodka|1|oz|Coconut Rum|Rum|1|oz|Key Lime Rum|Rum|4|oz|Pineapple Juice|Juice|1|splash|Grenadine|Mixer|1|each|Lime Wedge, juiced|Fruit|3|each|Maraschino Cherry|Fruit|3|each|Pineapple Chunks|Fruit|1|tbsp|Sugar|Sugar
 Peach's Paradise|Video Game|Super Mario|F|Pop Culture Cocktails|https://cocktail-nerd.tumblr.com/|Stir vodka and liqueur over ice into hurricane glass.|Fill with sparkling white grape juice.|Garnish with a fresh peach slice.
 3|oz|Peach Vodka|Vodka|1|oz|French Vanilla Liqueur|Liqueur|1|bottle|Sparkling White Grape Juice|Juice|1|each|Peach Slice|Fruit
 Pikachu's Thunder Jolt|Anime|Pokemon|F|Pop Culture Cocktails|https://cocktail-nerd.tumblr.com/|Rim hurricane glass with sour salt.|Stir tequila and vodka together in a glass with ice.|Fill rest of glass half with pineapple juice and half with sparkling lemonade.|Garnish with a pineapple ring and a cherry.
@@ -659,11 +659,11 @@ Pikachu's Thunder Jolt|Anime|Pokemon|F|Pop Culture Cocktails|https://cocktail-ne
 The Potions Master|Book|Harry Potter|F|Pop Culture Cocktails|https://cocktail-nerd.tumblr.com/|Shake gin, sambuca, vodka, and pour over ice into highball glass.|Fill with blackberry juice.
 2|oz|Gin|Gin|1|oz|Black Sambuca|Sambuca|2|oz|Blackberry Vodka|Vodka|1|bottle|Blackberry Juice|Juice
 Princess Bubblegum-tini|Cartoon|Adventure Time|F|Pop Culture Cocktails|https://cocktail-nerd.tumblr.com/|Shake vodka over ice and strain into martini glass.|Fill with ginger ale.|Garnish with a raspberry jelly fruit slice.
-2|oz|3 Olives Bubblegum Vodka|2|oz|Pinnacle Cotton Candy Vodka|Vodka|1|bottle|Raspberry Ginger Ale|Soda|1|each|Raspberry Jelly Fruit Slice|Candy
+2|oz|3 Olives Bubblegum Vodka|Vodka|2|oz|Pinnacle Cotton Candy Vodka|Vodka|1|bottle|Raspberry Ginger Ale|Soda|1|each|Raspberry Jelly Fruit Slice|Candy
 The Mean Marceline|Cartoon|Adventure Time|F|Pop Culture Cocktails|https://cocktail-nerd.tumblr.com/|Shake vodka and liqueur and pour over ice in a highball glass.|Fill with seltzer.|Add grenadine to taste.|Garnish with 3 maraschino cherries.
 2|oz|Absolut Peppar Vodka|Vodka|1|oz|Chocolate Liqueur|Liqueur|1|oz|Cinnamon Liqueur|Liqueur|1|bottle|Seltzer Water|Seltzer|1|bottle|Grenadine|Mixer|3|each|Maraschino Cherries|Fruit
 Rainbow Dash's Sonic Rainboom|Cartoon|My Little Pony|F|Pop Culture Cocktails|https://cocktail-nerd.tumblr.com/|Shake vodkas over ice and strain into a highball glass.|Fill with sprite and top with a scoop of rainbow sherbet.
-1|oz|Blackberry Vodka|Vodka|1|oz|Raspberry Vodka|1|oz|Mango Vodka|Vodka|1|oz|Peach Vodka|Vodka|1|bottle|Sprite|Soda|1|scoop|Rainbow Sherbert|Sherbert
+1|oz|Blackberry Vodka|Vodka|1|oz|Raspberry Vodka|Vodka|1|oz|Mango Vodka|Vodka|1|oz|Peach Vodka|Vodka|1|bottle|Sprite|Soda|1|scoop|Rainbow Sherbert|Sherbert
 Apple Jack's Sweet Appletini|Cartoon|My Little Pony|F|Pop Culture Cocktails|https://cocktail-nerd.tumblr.com/|Pour brandy and rum into a lowball glass.|Fill with sparkling apple juice.|Top with a pinch of cinnamon and garnish with an apple slice.
 2|oz|Applejack Brandy|Brandy|2|oz|Vanilla Rum|Rum|1|bottle|Sparking Apple Juice|Juice|1|pinch|Cinnamon|Spice|1|each|Apple Wedge|Fruit
 Pinkie Pie Party Surprise|Cartoon|My Little Pony|F|Pop Culture Cocktails|https://cocktail-nerd.tumblr.com/|Shake vodka, liqueurs, and rum and pour over ice into a hurricane glass.|Fill with milk.|Garnish with rainbow sprinkles.
@@ -673,7 +673,7 @@ Ravenclaw Pride|Book|Harry Potter|F|Pop Culture Cocktails|https://cocktail-nerd.
 Hufflepuff Pride|Book|Harry Potter|F|Pop Culture Cocktails|https://cocktail-nerd.tumblr.com/|Pour rum and liqueur into a mug.|Fill with hot apple cider.
 2|oz|Spiced Rum|Rum|1|oz|Godiva Caramel Liqueur|Liqueur|3|oz|Hot Apple Cider|Cider
 Gryffindor|Book|Harry Potter|F|Pop Culture Cocktails|https://cocktail-nerd.tumblr.com/|Pour vodka, liqueur, and cranberry juice in a highball glass.|Add grenadine to taste.
-2|oz|Vodka|Vodka|1|oz|Grand Marnier|Liqueur|1|splash|Grenadine|1|bottle|Cranberry Juice|Juice
+2|oz|Vodka|Vodka|1|oz|Grand Marnier|Liqueur|1|splash|Grenadine|Mixer|1|bottle|Cranberry Juice|Juice
 Slytherin Pride|Book|Harry Potter|F|Pop Culture Cocktails|https://cocktail-nerd.tumblr.com/|Shake vodka and liqueur over ice and strain into a martini glass.|Fill with limeade and serve
 2|oz|Vodka|Vodka|1|oz|DeKuyper sour apple pucker schnapps|Schnapps|1|bottle|Limeade|Limeade
 The White Wolf|TV|The Witcher|F|Lemon Baby|https://www.lemonbaby.co/|In a jar, combine the vanilla bean, rye and tea.|Shake vigorously to infuse, cover, and let sit for at least an hour and up to overnight.|Place ice in a cocktail shaker.|Add the infused rye, vermouth and bitters.|Rub the orange peel around the rim of the cocktail glass.|Shake the drink and strain into the glass.|Garnish with orange peel and cherries.
@@ -683,15 +683,15 @@ Permafrost|Movie|Frozen|F|Lemon Baby|https://www.lemonbaby.co/|Blend ingredients
 Dracarys|TV|Game of Thrones|F|Lemon Baby|https://www.lemonbaby.co/|Combine dragonfruit and light rum in a bowl or cup and let sit for 5 minutes.|Shake all ingredients except for the 151 rum in a shaker with ice.|Pour into a short glass.|Carefully pour the 151 in the glass (use the back of a spoon to create a layer).|AT YOUR OWN RISK, ignite the 151 with a long lighter. (Never use a match or a short lighter).
 6|cubes|Frozen Dragonfruit|Fruit|1.5|oz|Light Rum|Rum|1|oz|Lemon Juice|Juice|1|oz|Overproof(151) Rum|Rum|.5|oz|St. Germain|Liqueur
 The Pointy End|TV|Game of Thrones|F|Lemon Baby|https://www.lemonbaby.co/|Pour in tequila.|Top with rosemary lemonade (you will have extra. Drink it or save it for another cocktail).|Add bitters.|Pour beet juice slowly over the top.|Garnish with rosemary.
-2|oz|Tequila|Tequila|1.5|oz|Beet Juice|Juice|2|dashes|Orange Bitters|8|oz|Rosemary Lemonade|Lemonade|1|sprig|Rosemary|Herb
+2|oz|Tequila|Tequila|1.5|oz|Beet Juice|Juice|2|dashes|Orange Bitters|Bitters|8|oz|Rosemary Lemonade|Lemonade|1|sprig|Rosemary|Herb
 Rosemary Lemonade|Recipe|The Pointy End|T|Lemon Baby|https://www.lemonbaby.co/|Heat sugar and water over low to medium heat.|Let simmer until sugar is dissolved and take off the heat.|Throw in the sprigs and let cool.|Remove rosemary and strain into a jar.|Combine all ingredients into a pitcher and stir until combined.
 6|oz|Lemon Juice|Juice|16|oz|Club Soda|Soda|.25|cup|Sugar|Sugar|2|oz|Water|Water|3|sprigs|Rosemary|Herb
 Wildfire|TV|Game of Thrones|F|Lemon Baby|https://www.lemonbaby.co/|Shake all ingredients except for petals in a shaker with ice.|Strain into two glasses.|Float rose petals.
 2|oz|Midori|Liqueur|3|oz|Lemon Juice|Juice|3|oz|Gin|Gin|6|each|Rose Petals|Other
 The Little Hero|TV|Game of Thrones|F|Lemon Baby|https://www.lemonbaby.co/|Cut the orange peel with scissors to resemble a dragon’s tail.|Muddle orange slices in the bottom of a shaker.|Add bourbon, syrup, and bitters to shaker and stir.|Fill with ice and shake.|Strain into a shallow glass.|Garnish with orange peel and cherry.
-3|oz|Bourbon|Bourbon|2|each|Orange Slices|Fruit|.5|Elderflower Syrup|Syrup|1|dash|Barrel-aged Bitters|Bitters|3|each|Cocktail Cherries|Fruit|1|each|Long Strip of Oranfe Peel|Fruit
+3|oz|Bourbon|Bourbon|2|each|Orange Slices|Fruit|.5|oz|Elderflower Syrup|Syrup|1|dash|Barrel-aged Bitters|Bitters|3|each|Cocktail Cherries|Fruit|1|each|Long Strip of Orange Peel|Fruit
 The Mother of Dragons|TV|Game of Thrones|F|Lemon Baby|https://www.lemonbaby.co/|Arrange the cucumber slices in the glass.|Fill with ice.|Add vodka and lemon juice.|Add cubes of dragonfruit.|Fill with sparkling water.|Garnish with lemon or cucumber wheel.
-1.5|oz|Vodka|Vodka|5|cubes|Frozen Dragonfruit|Fruit|1.5|tbsp|Lemon Juice|1|bottle|Sparkling Water|Water|2|each|Pieces of cucumber, sliced paper-thin|Vegetable
+1.5|oz|Vodka|Vodka|5|cubes|Frozen Dragonfruit|Fruit|1.5|tbsp|Lemon Juice|Juice|1|bottle|Sparkling Water|Water|2|each|Pieces of cucumber, sliced paper-thin|Vegetable
 White Walker|TV|Game of Thrones|F|Lemon Baby|https://www.lemonbaby.co/|Shake scotch and coffee liqueur together in a shaker with ice.|Strain into an ice filled glass.|Top with half and half.
 1.5|oz|White Walker Scotch|Scotch|1.5|oz|Khalua|Liqueur|1|carton|Half and Half|Milk|2|oz|Blue Ice Cubes|Ice
 The Lioness|TV|Game of Thrones|F|Lemon Baby|https://www.lemonbaby.co/|Shake all ingredients with ice in a cocktail shaker.|Strain into a coupe or martini glass.|Garnish with lemon wheel.
@@ -703,7 +703,7 @@ Sonic the Hedgehog|Video Game|Sonic the Hedgehog|F|The Cocktail Novice|https://t
 The Sonic Screwdriver|TV|Doctor Who|F|The Cocktail Novice|https://thecocktailnovice.com/|Add first three ingredients in a glass with ice.|Fill with Sprite.|Enjoy!
 1|oz|Blue Curaçao|Liqueur|1|oz|Blueberry Vodka|Vodka|.5|oz|Captain Morgan|Rum|1|can|Sprite|Soda|3|oz|Ice|Ice
 Portal 2|Video Game|Portal|F|The Cocktail Novice|https://thecocktailnovice.com/|BLUE:|Rim a shot glass with orange cake sprinkles|In a cocktail shaker, add blue curaçao and vodka, shake with ice.|Pour into rimmed shot glass.|Top with lemonade|ORANGE:|Rim a shot glass with blue cake sprinkles.|In a cocktail shaker, add cointreau and rum, shake with ice.|Pour into rimmed shot glass.|Fill with Orangina.
-.5|oz|Blue Curaçao|Liqueur|.5|oz|Vodka|Vodka|1|bottle|Lemonade|Lemonade|.5|oz|Cointreau|Liqueur|.5|oz|Rum|Rum|1|bottle|Orangina|Juice|1|tbsp|Orange Cake Sprinkles|Sprinkles|1|tbsp|Blue Cake Sprinkles|1|tbsp|Simple Syrup|Syrup
+.5|oz|Blue Curaçao|Liqueur|.5|oz|Vodka|Vodka|1|bottle|Lemonade|Lemonade|.5|oz|Cointreau|Liqueur|.5|oz|Rum|Rum|1|bottle|Orangina|Juice|1|tbsp|Orange Cake Sprinkles|Sprinkles|1|tbsp|Blue Cake Sprinkles|Sprikles|1|tbsp|Simple Syrup|Syrup
 The Winterfell|TV|Game of Thrones|F|The Cocktail Novice|https://thecocktailnovice.com/|Pour your beer into a glass 3/4 of the way full.|Combine brandy, amaretto, and syrup in another glass.|Pour the mix into your beer.
 1|bottle|Guinness Stout|Beer|2|oz|Apple Brandy|Brandy|1|oz|Amaretto|Liqueur|1|oz|Maple Syrup, grade B|Syrup
 The Golden Nug|Video Game|Dragon Age|F|How to drink|https://www.youtube.com/c/howtodrink|Put ice in shaker and shake|Double strain into glass|Top off with a few Oz of sparkling wine|Garnish with a sprig of Rosemary
@@ -719,7 +719,7 @@ The Randy Dowager|Video Game|Dragon Age|F|How to drink|https://www.youtube.com/c
 A Night of Shame|Video Game|Dragon Age|F|How to drink|https://www.youtube.com/c/howtodrink|Fill glass with ruby port.|Add several dashes of angostura coco bitters.|Add twist of orange.|Enjoy.
 1|bottle|Ruby Port|Wine|3|dashes|Angostura Coco Bitters|Bitters|1|each|Twist of Orange|Fruit
 Nobel Pursuit|Video Game|Zelda|F|How to drink|https://www.youtube.com/c/howtodrink|Add all ingredients into blender.|Blend.|Pour into glass.|Garnish with wedge of watermelon and sprig of mint.
-.25|oz|Gerudo Syrup|Syrup|.25|oz|Simple Syrup|Syrup|2|oz|Frozen Watermelon Chunks|Fruit|.75|oz|Lime Juice|Juice|2|oz|Reposado Tequila|Tequila|3.5|oz|Frozen Coconut Water|Fruit|
+.25|oz|Gerudo Syrup|Syrup|.25|oz|Simple Syrup|Syrup|2|oz|Frozen Watermelon Chunks|Fruit|.75|oz|Lime Juice|Juice|2|oz|Reposado Tequila|Tequila|3.5|oz|Frozen Coconut Water|Fruit
 Gerudo Syrup|Recipe|Nobel Pursuit|T|How to drink|https://www.youtube.com/c/howtodrink|Add all ingredients to pot.|Heat to a boil.|Stir constantly.|Strain into bottle.
 7|oz|Dragon Fruit Puree|Fruit|7|oz|Water|Water|14|oz|Organic Palm Sugar|Sugar
 Full Biotic Kick|Video Game|Mass Effect|F|How to drink|https://www.youtube.com/c/howtodrink|Add cracked ice to glass.|Pour in bourbon and amaro.|Top off with ginger beer.|Garnish with orange peel.
@@ -733,11 +733,11 @@ St. Denis Sazerac|Video Game|Red Dead Redemption|F|How to drink|https://www.yout
 Poison Ivy Demetrite|Cartoon|Batman|F|How to drink|https://www.youtube.com/c/howtodrink|Add 1-2 inches of cucumber, roughly chopped|Lightly muddle cucumber.|Add all lime juice, italicus, tequila and chartreuse and shake.|Strain into glass.|Garnish with cucumber wheel and baby's breath.
 1|oz|Fresh Lime Juice|Juice|1|oz|Italicus|Liqueur|1|oz|TTequila Fortaleza Blanco|Tequila|1|oz|Green Chartreuse|Liqueur|2|oz|Cucumber, roughly chopped|Vegetable|1|each|Cucumber Wheel|Vegetable|1|sprig|Baby's Breath|Flower
 Vex Milk|Video Game|Destiny|F|How to drink|https://www.youtube.com/c/howtodrink|Add all ingredients to mixing glass.|Stir.|Strain into glass.
-1|oz|Ricard Pastis|Liqueur|1|Baily's Irish Cream|Cream|4|dashes|Saline Solution|Other|2|oz|Cracked Ice|Ice
+1|oz|Ricard Pastis|Liqueur|1|oz|Baily's Irish Cream|Cream|4|dashes|Saline Solution|Other|2|oz|Cracked Ice|Ice
 Tincture of Queens Foil|Video Game|Destiny|F|How to drink|https://www.youtube.com/c/howtodrink|Add all ingredients to mixing glass except bitters.|Stir.|Strain into glass.|Add a few hard dashes of bitters.
 .5|oz|Simple Syrup|Syrup|.5|oz|Xantham Gum Mix|Other|.25|oz|Blue Curaçao|Liqueur|.5|oz|Italicus Bergamot Liquor|Liqueur|.5|oz|Absolut Citron|Vodka|1.5|oz|Gin|Gin|2|oz|Cracked Ice|Ice|3|dashes|Angostura Bitters.|Bitter.
 Cloud of Ether|Video Game|Destiny|F|How to drink|https://www.youtube.com/c/howtodrink|Add all ingredients to shaker except foam magic.|Add ice and shake.|Strain into small tin.|Add barspoon of Foam Magic.|Dry shake with strainer spring.|Strain into glass.
-1|oz|Lemon Juice|Juice|.25|oz|Simple Syrup|.25|Creme de Violette|Brandy|.5|oz|Maraschino Liqueur|Liqueur|2|oz|Gin|Gin|1|each|Egg White|Egg|1|tsp|Foam Magic|Other
+1|oz|Lemon Juice|Juice|.25|oz|Simple Syrup|Syrup|.25|oz|Creme de Violette|Brandy|.5|oz|Maraschino Liqueur|Liqueur|2|oz|Gin|Gin|1|each|Egg White|Egg|1|tsp|Foam Magic|Other
 Mega Potion|Video Game|Monster Hunter|F|Add all ingredients except blue curaçao to mixing glass.|Stir.|Strain into glass.|Add bar spoon of blue curaçao.
 .5|oz|Honey Syrup|Syrup|1|oz|Suze Aperatif|Liqueur|1.5|oz|Rum|Rum|2|oz|Ice|Ice|1|tsp|Blue Curaçao|Liqueur
 Nectar|Video Game|Hades|F|How to drink|https://www.youtube.com/c/howtodrink|Add all ingredients to mixing glass.|Stir.|Strain into glass.
@@ -755,7 +755,7 @@ Vesper|Movie|James Bond|F|How to drink|https://www.youtube.com/c/howtodrink|Add 
 Cobra Kaitale|TV|Cobra Kai|F|How to drink|https://www.youtube.com/c/howtodrink|Add all liquid ingredients and ice to shaker.|Half open gate pour into brandy snifter.|Garnish with orange peel "snake" and lime boat.
 1|oz|Orange Juice|Juice|.25|oz|Passionfruit Juice|Juice|.25|oz|Lime Juice|Juice|2|dashes|Angostura Bitters|Bitters|.5|oz|Orgeat|Liqueur|.5|oz|Velvet Falernum|Rum|.25|oz|Ancho Reyes Chile Liqueur|Liqueur|1.5|oz|Aged Rum|Rum|.25|oz|Lemon Hart 151|Rum|1|each|Whole Orange Peel|Fruit
 Loraine’s Sour Taste of Disappointment|Movie|Back to the Future|F|How to drink|https://www.youtube.com/c/howtodrink|Add all liquid ingredients to shaker with ice.|Shake.|Strain into glass.|Garnish with Luxardo cherry.
-.5|oz|Simple Syrup|Syrup|.5|oz|Lemon Juice|.5|oz|Peach Brandy|Brandy|2|oz|J&B Scotch|Scotch|2|oz|Ice|Ice|1|each|Luxardo Cherry|Fruit
+.5|oz|Simple Syrup|Syrup|.5|oz|Lemon Juice|Juice|.5|oz|Peach Brandy|Brandy|2|oz|J&B Scotch|Scotch|2|oz|Ice|Ice|1|each|Luxardo Cherry|Fruit
 Enchantment Under the Sea Party Punch|Movie|Back to the Future|T|How to drink|https://www.youtube.com/c/howtodrink|Add all ingredients to mixing glass.|Stir.|Pour into glass.
 3|oz|Guava Juice|Juice|2|oz|Orange Juice|Juice|1|oz|Passionfruit Juice|Juice|1|oz|Simple Syrup|Syrup|3|oz|Club Soda|Soda
 Spiked Enchantment Under the Sea Party Punch|Movie|Back to the Future|F|How to drink|https://www.youtube.com/c/howtodrink|Add all ingredients except bourbon to mixing glass.|Stir.|Pour into glass.|Add bourbon directly to the glass.
@@ -777,7 +777,7 @@ Cosmo Canyon - Shaken|Video Game|Final Fantasy|F|How to drink|https://www.youtub
 Cosmo Canyon - Stirred|Video Game|Final Fantasy|F|How to drink|https://www.youtube.com/c/howtodrink|Add all ingredients to mixing glass.|Stir and strain into glass of choice.|Express a lime peel over the drink.
 .5|oz|Amaro Nonino|Liqueur|.5|oz|Curaçao|Liqueur|.5|oz|Luxardo Bitter|Liqueur|.25|oz|Simple Syrup|Syrup|1.5|oz|Absolut Citron|Vodka|1|each|Lime Peel|Fruit
 Horse Medicine|Cartoon|Bob's Burgers|F|How to drink|https://www.youtube.com/c/howtodrink|Add first four ingredients to a shaker with ice.|Shake and strain over ice into tumbler.|Top with seltzer.
-1|oz|Lime Juice|Juice|1|oz|Simple Syrup|.5|oz|Midori|Liqueur|2|oz|Apple Jack|Brandy|2|oz|Ice|Ice|1|bottle|Seltzer|Soda
+1|oz|Lime Juice|Juice|1|oz|Simple Syrup|Syrup|.5|oz|Midori|Liqueur|2|oz|Apple Jack|Brandy|2|oz|Ice|Ice|1|bottle|Seltzer|Soda
 Klingon Bloodwine|TV|Star Trek|F|How to drink|https://www.youtube.com/c/howtodrink|Add all ingredients to shaker with ice.|Shake until as cold as revenge.|Strain into a science fiction glass|Qapla'!
 1|oz|Simple Syrup|Syrup|1|oz|Lime Juice|Juice|1|oz|Lemonhart 151|Rum|1|oz|Angostura Bitters|Bitters|2|oz|Ice|Ice
 Space Wolf|Board Game|Warhammer 40k|F|How to drink|https://www.youtube.com/c/howtodrink|Add all ingredients to shaker with ice.|Shake.|Strain into glass.
@@ -798,7 +798,7 @@ Pepperup Potion|Book|Harry Potter|F|How to drink|https://www.youtube.com/c/howto
 .25|oz|Bergamot Liqueur|Liqueur|1|tsp|Bitters|Bitters|1|each|Lemon Wheel|Fruit|2|oz|London Dry Gin|Gin|2|oz|Hot Water|Water|1|oz|Honey(to taste)|Honey
 Spice Beer|Movie|Dune|T|How to drink|https://www.youtube.com/c/howtodrink|Combine all ingredients in glass.|Enjoy!
 1|part|Spice Syrup|Syrup|2|parts|Club Soda|Soda
-Sprice Coffee|Movie|Dune|T|How to drink|https://www.youtube.com/c/howtodrink|Build in glass.|Top with heavy cream, shaken.
+Spice Coffee|Movie|Dune|T|How to drink|https://www.youtube.com/c/howtodrink|Build in glass.|Top with heavy cream, shaken.
 3|oz|Hot Coffee|Coffee|1|oz|Spice Syrup|Syrup|1|oz|Rye|Whiskey|1|oz|Coffee Liqueur|Liqueur|2|oz|Heavy Cream, shaken|Cream
 Spice Syrup|Recipe|Spice Coffee|F|How to drink|https://www.youtube.com/c/howtodrink|Boil till sugar is dissolved.|Remove from heat.|Let Cool.|Strain and Bottle.
 .75|oz|Cinnamon Sticks|Spice|.035|oz|Gentian Root|Spice|.035|oz|Wormwood Root|Spice|4|drops|Orange Blossom Water|Other|11|oz|Water|Water|11.25|oz|Demerara Sugar|Sugar
@@ -811,7 +811,7 @@ Chocolate Stinger|TV|Archer|F|How to drink|https://www.youtube.com/c/howtodrink|
 A Night in Tunisia|TV|Archer|F|How to drink|https://www.youtube.com/c/howtodrink|Add all ingredients to shaker.|Dry shake.|Add ice.|Shake again.|Strain into glass.|Garnish with cocoa powder.
 1|each|Egg White|Egg|.5|oz|Crème de Banane|Liqueur|.5|oz|Crème de Cacao|Liqueur|1|tsp|All-Spice Dram|Liqueur|1|twist|Lemon|Fruit|2|oz|Hot Coffee|Coffee|2|oz|Ice|Ice
 The Tart Fart|TV|Archer|F|How to drink|https://www.youtube.com/c/howtodrink|Add all ingredients to shaker.|Shake.|Stain into glass with crushed ice.|Garnish with coffee beans burning in 151.|Enjoy.
-2|oz|Appleton Estate Reserve|Rum|.5|oz|Passoã|Liqueur|.5|oz|Crème de Cacao|Liqueur|1|oz|Heavy Cream|Cream|1|oz|Mr. Black Coffee|Coffee|2|oz|Hot Coffee|Coffee|2|oz|Crushed Ice|Ice|6|Coffee Beans|Coffee|1|tbsp|Overproof Rum(151)|Rum
+2|oz|Appleton Estate Reserve|Rum|.5|oz|Passoã|Liqueur|.5|oz|Crème de Cacao|Liqueur|1|oz|Heavy Cream|Cream|1|oz|Mr. Black Coffee|Coffee|2|oz|Hot Coffee|Coffee|2|oz|Crushed Ice|Ice|6|each|Coffee Beans|Coffee|1|tbsp|Overproof Rum(151)|Rum
 Dirty Wastelander|Video Game|Fallout|F|How to drink|https://www.youtube.com/c/howtodrink|Serves 2.|Add all ingredients to shaker with ice.|Shake hard.|Double strain into glass.|Top with cola.
 1|each|Baked Apple|Fruit|6|each|Blackberries|Fruit|4|oz|Irish Whiskey|Whiskey|2|oz|Ice|Ice|1|bottle|Cola|Soda
 Baked Apple|Recipe|Dirty Wastelander|T|How to drink|https://www.youtube.com/c/howtodrink|Rome top and hollow core of apple.|Fill apple with butter, brown sugar, and spices of your choice (cinnamon, allspice, etc).|Bake at 350° F for 7-10 minutes.
@@ -819,21 +819,21 @@ Baked Apple|Recipe|Dirty Wastelander|T|How to drink|https://www.youtube.com/c/ho
 Cobalt Velvet|Video Game|VA-11 HALL-A|F|How to drink|https://www.youtube.com/c/howtodrink|Add all ingredients to shaker with ice.|Shake.|Top with grapefruit soda.
 .5|oz|Blue Curaçao|Liqueur|1|oz|Gin|Gin|1|oz|Vodka|Vodka|1|bottle|Grapefruit Soda|Soda|2|oz|Ice|Ice
 Suplex|Video Game|VA-11 HALL-A|F|How to drink|https://www.youtube.com/c/howtodrink|Add all ingredients to shaker with ice.|Shake.|Garnish with manly flowers.
-1|oz|Simple Syrup|Syrup|.5|oz|Lemon Juice|.25|oz|Suze|Liqueur|1|oz|Vodka|Vodka|1|oz|Smith + Cross|Rum|2|oz|Ice|Ice|2|oz|Manly Flowers|Flowers
+1|oz|Simple Syrup|Syrup|.5|oz|Lemon Juice|Juice|.25|oz|Suze|Liqueur|1|oz|Vodka|Vodka|1|oz|Smith + Cross|Rum|2|oz|Ice|Ice|2|oz|Manly Flowers|Flowers
 Flaming Moai|Video Game|VA-11 HALL-A|F|How to drink|https://www.youtube.com/c/howtodrink|Add all ingredients to shaker with ice.|Shake.|Stain into glass over crushed ice.|Garnish with flaming lime boat.
 1|oz|Lime Juice|Juice|.5|oz|Orgeat|Other|.5|oz|Grenadine|Mixer|1|oz|Passoã|Liqueur|1|oz|Plantation 5 yr.|Rum|.5|oz|Smith + Cross|Rum|.5|oz|Lemon Hard 151|Rum|2|oz|Ice|Ice|2|oz|Crushed Ice|Ice|.5|each|Lime, hollowed|Fruit
 Mudder's Milk|TV|Firefly|F|How to drink|https://www.youtube.com/c/howtodrink|Add all ingredients except ice and porter to shaker.|Dry shake.|Add ice to shaker.|Shake again.|Strain into mug.|Top with heavy porter.
 .5|oz|Simple Syrup|Syrup|.5|oz|Crème de Cacao|Liqueur|1|each|Egg White|Egg|1|oz|Bourbon|Bourbon|2|oz|Half-Half|Milk|1|tsp|Lemon Juice|Juice|1|bottle|Heavy Porter|Beer|2|oz|Ice|Ice
-Prarie Oyster|Anime|Cowboy Bebop|F|How to drink|https://www.youtube.com/c/howtodrink|Build all ingredients in shot glass.|Shoot.
-1|each|Egg Yolk|Egg|1|pinch|Salt & Pepper|2|dashes|Worchestershire Sauce|Other|1|dash|Hot Sauce|Other|1|oz|Gin|Gin
+Prairie Oyster|Anime|Cowboy Bebop|F|How to drink|https://www.youtube.com/c/howtodrink|Build all ingredients in shot glass.|Shoot.
+1|each|Egg Yolk|Egg|1|pinch|Salt & Pepper|Spice|2|dashes|Worchestershire Sauce|Other|1|dash|Hot Sauce|Other|1|oz|Gin|Gin
 Cowboy|Anime|Cowboy Bebop|F|How to drink|https://www.youtube.com/c/howtodrink|Add all ingredients to shaker with ice.|Shake.|Stain into glass.|Enjoy!
 1|oz|Half&Half|Milk|2|oz|Bourbon|Bourbon|2|oz|Ice|Ice
 Vodka Toddy|Anime|Cowboy Bebop|F|How to drink|https://www.youtube.com/c/howtodrink|Build all ingredients in glass.|Enjoy!
-.5|oz|Rosemary Syrup|Syrup|4|each|Thin Lemon Wheels|Fruit|2|oz|Vodka|4|oz|Hot Water|2|each|Rosemary Sprigs|Herb
+.5|oz|Rosemary Syrup|Syrup|4|each|Thin Lemon Wheels|Fruit|2|oz|Vodka|Vodka|4|oz|Hot Water|Water|2|each|Rosemary Sprigs|Herb
 White Gold Tower|Video Game|Skyrim|F|How to drink|https://www.youtube.com/c/howtodrink|Add all ingredients to shaker with ice.|Shake.|Strain into glass.|Enjoy.
 .75|oz|Lavender Syrup|Syrup|1|oz|Heavy Cream|Cream|1|oz|Cognac|Cognac|2|oz|Mead|Mead|2|oz|Ice|Ice
 Velvet LeChance|Video Game|Skyrim|F|How to drink|https://www.youtube.com/c/howtodrink|Add first 4 ingredients to shaker.|Muddle.|Add egg white.|Dry shake.|Add ice.|Shake again.|Strain into glass.|Enjoy!
-5|each|Blackberries|Fruit|1|oz|Honey Syrup|1|oz|Amaro di Angostura|Liqueur|1|oz|Antica Formula Vermouth|Vermouth|1|each|Egg White|Egg|2|oz|Ice|Ice
+5|each|Blackberries|Fruit|1|oz|Honey Syrup|Syrup|1|oz|Amaro di Angostura|Liqueur|1|oz|Antica Formula Vermouth|Vermouth|1|each|Egg White|Egg|2|oz|Ice|Ice
 Cliff Racer|Video Game|Skyrim|F|How to drink|https://www.youtube.com/c/howtodrink|Add all ingredients to mixing glass with ice.|Stir.|Stain into glass.|Garnish with lemon twist.|Enjoy!
 .5|oz|Cinnamon Syrup|Syrup|.25|oz|Bénédictine|Liqueur|.5|oz|Ancho Reyes Chile Liqueur|Liqueur|1.5|oz|Cognac|Cognac|1|each|Lemon Twist|Fruit
 Cat|TV|The Witcher|F|How to drink|https://www.youtube.com/c/howtodrink|Add all ingredients to shaker with ice.|Shake.|Strain into glass.|Enjoy!
@@ -846,8 +846,8 @@ Fuzzy Tauntaun|Movie|Star Wars|F|How to drink|https://www.youtube.com/c/howtodri
 1.5|oz|Peach Vodka|Vodka|.5|oz|Peach Schnapps|Schnapps|3|oz|Orange-Tangerine Juice|Juice|1|oz|Buzz Button Foam|Other|2|oz|Ice|Ice
 Buzz Button Foam|Recipe|Fuzzy Tauntaun|F|How to drink|https://www.youtube.com/c/howtodrink|Add buzz buttons and vodka to sealable bottle.|Infuse.|Add soy lechitin.|Froth until foam.
 200|g|Peach Vodka|Vodka|20|each|Buzz Button Blossoms|Flower|2|g|Soy Lechitin|Other
-Besbin Fizz|Movie|Star Wars|F|How to drink|https://www.youtube.com/c/howtodrink|Add all ingredients to glass with ice.|Shake.|Strain into glass.|OPTIONAL:Strain into Jet Chill glass.
-.75|oz|Grapefruit Juice|Juice|.25|oz|Orange Juice|Juice|.5|oz|Pomegranate Juice|Juice|.25|oz|Cranberry Juice|.5|oz|Simple Syrup|2|oz|Bacardi Rum|Rum|1|tbsp|Edible Luster Dust|Other|2|oz|Ice|Ice
+Bespin Fizz|Movie|Star Wars|F|How to drink|https://www.youtube.com/c/howtodrink|Add all ingredients to glass with ice.|Shake.|Strain into glass.|OPTIONAL:Strain into Jet Chill glass.
+.75|oz|Grapefruit Juice|Juice|.25|oz|Orange Juice|Juice|.5|oz|Pomegranate Juice|Juice|.25|oz|Cranberry Juice|Juice|.5|oz|Simple Syrup|Syrup|2|oz|Bacardi Rum|Rum|1|tbsp|Edible Luster Dust|Other|2|oz|Ice|Ice
 Carbon Freeze|Movie|Star Wars|T|How to drink|https://www.youtube.com/c/howtodrink|Build in glass with ice.|OPTIONAL: Omit ice and use a Jet Chill glass.
 2.5|oz|Lemon Lime Powerade|Powerade|2.5|oz|Wild Strawberry Powerade|Powerade|1|tbsp|Green Apple Cocktail Pearls|Other|1|tbsp|Blueberry Cocktail Pearls|Other|2|oz|Ice|Ice
 Wild Strawberry Powerade|Recipe|Carbon Freeze|T|How to drink|https://www.youtube.com/c/howtodrink|Combine sugar and strawberries.|Let sit overnight.|Strain into bottle.|Add water, pinch of salt and pinch of citric acid.
@@ -859,7 +859,7 @@ National Lampoon Egg Nog|Movie|National Lampoon's Christmas Vacation|F|How to dr
 Elfish Coffee|Movie|Elf|F|How to drink|https://www.youtube.com/c/howtodrink|Combine liquid ingredients in coffee cup.|Top with maple whipped cream.|Garnish with crumbled candy cane.
 .75|oz|Maple Syrup|Syrup|4|oz|Hot Coffee|Coffee|1.5|oz|Bourbon|Bourbon|2|tbsp|Maple Whipped Cream|Cream|.5|tbsp|Crumbled Candy Cane|Candy
 Improved Hair of the Pup|Movie|Addams Family|F|How to drink|https://www.youtube.com/c/howtodrink|Add all ingredients to shaker.|Dry shake.|Add egg.|Shake again.|Strain into coupe glass.|Garnish with star anise.
-1|each|Egg|Egg|.5|oz|Simple Syrup|2|dashes|Peychaud's Bitters|Bitters|3|dashes|Cholula Chipotle Sauce|Hot Sauce|2|oz|Vodka|Vodka|2|oz|Ice|Ice|1|each|Star Anise|Spice
+1|each|Egg|Egg|.5|oz|Simple Syrup|Syrup|2|dashes|Peychaud's Bitters|Bitters|3|dashes|Cholula Chipotle Sauce|Hot Sauce|2|oz|Vodka|Vodka|2|oz|Ice|Ice|1|each|Star Anise|Spice
 Tavern Punch|Board Game|Dungeons and Dragons|F|How to drink|https://www.youtube.com/c/howtodrink|Combine all ingredients in punch bowl.|Garnish with nutmeg.
 34|oz|Scotch Ale|Beer|17|oz|Viking Blod Mead|Mead|5|oz|Oleo Saccharum|Other|2|oz|Cinnamon Syrup|Syrup|9|oz|Orange Juice|Juice
 Tavern Punch, single|Board Game|Dungeons and Dragons|F|How to drink|https://www.youtube.com/c/howtodrink|Combine all ingredients glass.|Stir.|Enjoy!
@@ -875,7 +875,7 @@ Sanderson Sisters Slammer|Movie|Hocus Pocus|F|How to drink|https://www.youtube.c
 Pumpkin Juice|Movie|Harry Potter|T|How to drink|https://www.youtube.com/c/howtodrink|Add all ingredients to shaker with ice.|Shake.|Pour into glass.|Enjoy!
 4|oz|Juiced Pumpkin|Fruit|1.5|oz|Apricot Juice|Juice|2|dashes|Vanilla Extract|Extract|1.5|oz|Cinnamon Syrup|Syrup|.25|tsp|Ground Cinnamon|Spice|.25|oz|Ground Allspice|Spice|1.5|tbsp|Citric Acid|Other
 Adult Pumpkin Juice|Movie|Harry Potter|F|How to drink|https://www.youtube.com/c/howtodrink|Add all ingredients to shaker with ice.|Shake.|Strain into glass.|Garnish with fresh nutmeg and cinnamon stick.
-1|oz|Juiced Pumpkin|Fruit|1|oz|Cinnamon Syrup|Syrup|.25|Allspice Dram|Other|2|oz|Applejack|Brandy|2|oz|Ice|Ice|.25|tsp|Fresh ground nutmeg|Spice|1|each|Cinnamon Stick|Spice
+1|oz|Juiced Pumpkin|Fruit|1|oz|Cinnamon Syrup|Syrup|.25|oz|Allspice Dram|Other|2|oz|Applejack|Brandy|2|oz|Ice|Ice|.25|tsp|Fresh ground nutmeg|Spice|1|each|Cinnamon Stick|Spice
 Cinnamon Syrup|Recipe|Pumpkin Juice|T|How to drink|https://www.youtube.com/c/howtodrink|Add all ingredients to pot.|Boil until clear.|Let cool.|Bottle.|Add additional cinnamon sticks to bottle, it will continue to flavor.
 1|part|Water|Water|2|parts|Sugar|Sugar|2|each|Whole Cinnamon sticks|Spice
 Juice of a Pumpkin|Recipe|Pumpkin Juice|T|How to drink|https://www.youtube.com/c/howtodrink|Combine ingredients in saucepan.|Heat to a boil.|Immediately let cool.|Strain through a cheesecloth into bottle.
@@ -893,13 +893,13 @@ Flaming Moe|Cartoon|The Simpsons|F|How to drink|https://www.youtube.com/c/howtod
 The Family Label|Movie|Indiana Jones|F|How to drink|https://www.youtube.com/c/howtodrink|Add all liquid ingredients to shaker with ice.|Shake.|Stain into glass.|Garnish with candied orange wheel.
 1|oz|Clementine Juice|Juice|.5|oz|Orgeat|Other|.5|oz|Kina L'Aéro D'or|Liqueur|2|oz|Mahia|Brandy|2|oz|Ice|Ice|1|each|Candied Orange Wheel|Fruit
 Six Demon Bag|Movie|Big Trouble in Little China|F|How to drink|https://www.youtube.com/c/howtodrink|Add all ingredients to shaker with ice.|Shake.|Serve.|OPTIONAL: Decant with dry ice.
-.5|oz|Pineapple Juice|Juice|1|oz|Lime Juice|Juice|2|dashes|Elemakule Tiki Bitters|Bitters|.5|oz|Ginger Syrup|Syrup|.75|Baijiu|Liqueur|2|oz|Appleton Estate 12 year Rum|Rum
+.5|oz|Pineapple Juice|Juice|1|oz|Lime Juice|Juice|2|dashes|Elemakule Tiki Bitters|Bitters|.5|oz|Ginger Syrup|Syrup|.75|oz|Baijiu|Liqueur|2|oz|Appleton Estate 12 year Rum|Rum
 The Upside Down|TV|Stranger Things|F|How to drink|https://www.youtube.com/c/howtodrink|Add first four ingredients to mixing glass.|Stir over ice.|Pour into empty rocks glass (no ice).|Drop several drops of squid ink into the glass.|Twist a lemon peel over the top (discard the peel).
 .25|oz|Chocolate Liqueur|Liqueur|.5|oz|Maple Syrup|Syrup|2|oz|Blanco Tequila|Tequila|2|dashes|Peychaud's Bitters|Bitters|2|oz|Ice|Ice|3|drops|Squid Ink|Other|1|each|Lemon Peel|Fruit
 Horatio Cornblower|TV|Archer|F|How to drink|https://www.youtube.com/c/howtodrink|Add all ingredients to mixingg glass.|Stir over ice.|Pour into coupe glass.|Garnish with an orange twist.
 1|oz|Corn Silk Syrup|Syrup|.25|oz|Orange Peach Liqueur|Liqueur|2|oz|Mellow Corn Whiskey|Whiskey|1|dash|20% Saline Solution|Other|2|oz|Ice|Ice|1|each|Orange Twist|Fruit
 Corn Silk Syrup|Recipe|Horatio Cornblower|T|How to drink|https://www.youtube.com/c/howtodrink|Bring 1.5 cups of water to a boil in a pot.|Steep 4 tea bags until dark, 3 minutes.|Remove tea bags.|Add demerara sugar.|Boil until dissolved.|Bottle.
-12|oz|Water|Water|4|each|Korean Corn Silk Tea Bags|3|cups|Demerara Sugar|Sugar
+12|oz|Water|Water|4|each|Korean Corn Silk Tea Bags|Tea|3|cups|Demerara Sugar|Sugar
 The Endgame|Movie|Avengers|F|How to drink|https://www.youtube.com/c/howtodrink|Add all ingredients to shaker with ice.|Shak vigorously.|Strain into a nick and nora glass.
 1|oz|Lagavulin 16|Whiskey|1|oz|Maraschino|Liqueur|1|oz|Chartreuse|Liqueur|1|oz|Lemon Juice|Juice|2|oz|Ice|Ice
 The Odium|Movie|Captain Marvel|F|How to drink|https://www.youtube.com/c/howtodrink|Add all ingredients to glass with ice.|Stir.|Smoke with hickory.|Serve as you like.
@@ -935,7 +935,7 @@ Green Goblin|Comic Book|Spiderman|F|iDrink|http://www.idrink.com/|Mix together w
 Radioactive Long Island Iced Tea|Comic Book|Spiderman|F|iDrink|http://www.idrink.com/|Mix together with crushed ice in a glass.|Garnish with mint leaves.
 1|oz|Gin|Gin|1|oz|Midori|Liqueur|1|oz|Rum|Rum|1|oz|Coconut Rum|Rum|1|oz|Tequila|Tequila|1|oz|Triple Sec|Liqueur|1|oz|Vodka|Vodka|1|oz|Chambord|Liqueur|2|oz|Crushed Ice|Ice|3|each|Mint Leaves|Herb
 Bart Simpson|Cartoon|The Simpsons|F|iDrink|http://www.idrink.com/|Mix together with crushed ice in a glass.|Garnish with mint leaves.
-.5|oz|Amaretto|Liqueur|1|splash|Cranberry Juice|Juice|.5|oz|Peach Schnapps|.5|oz|Whiskey|Whiskey|2|oz|Crushed Ice|Ice|3|each|Mint Leaves|Herb
+.5|oz|Amaretto|Liqueur|1|splash|Cranberry Juice|Juice|.5|oz|Peach Schnapps|Schnapps|.5|oz|Whiskey|Whiskey|2|oz|Crushed Ice|Ice|3|each|Mint Leaves|Herb
 Simpson Solution|Cartoon|The Simpsons|F|iDrink|http://www.idrink.com/|Mix together with crushed ice in a glass.|Garnish with mint leaves.
 2|gallons|Orange Juice|Juice|750|ml|Peach Schnapps|Schnapps|750|ml|Vodka|Vodka|2|oz|Crushed Ice|Ice|3|each|Mint Leaves|Herb
 Barney Fizz|Cartoon|The Simpsons|F|iDrink|http://www.idrink.com/|Blend all ingredients with ice.|Strain into a tall glass.
@@ -963,7 +963,7 @@ Gunfire|Movie|James Bond|F|iDrink|http://www.idrink.com/|Mix together with crush
 Casino Royale|Movie|James Bond|F|iDrink|http://www.idrink.com/|In a shaker half-filled with ice cubes, combine all of the ingredients.|Shake well.|Strain into a sour glass.
 1|dash|Orange Bitters|Bitters|1|tsp|Cherry Liqueur|Liqueur|1|each|Egg Yolk|Egg|2|oz|Gin|Gin|.5|oz|Lemon Juice|Juice|4|oz|Ice|Ice
 Secret Agent|Movie|James Bond|F|iDrink|http://www.idrink.com/|Pour Flavored Vodka (any flavor)and Lemon lime soda into shaker.|Shake.|Pour into large glass over the rocks.|Add raspberries and a lime slice or 2.|Enjoy.
-2|oz|Lemon Lime Soda|Soda|1|each|Lime Wedge|Fruit|1.5|oz|Flavored Vodka|Vodka|2|each|Raspberries|Fruit|1|Lime Wedge|Fruit
+2|oz|Lemon Lime Soda|Soda|1|each|Lime Wedge|Fruit|1.5|oz|Flavored Vodka|Vodka|2|each|Raspberries|Fruit|1|each|Lime Wedge|Fruit
 Moonraker|Movie|James Bond|F|iDrink|http://www.idrink.com/|Pour the tequila and pineapple juice into a highball glas almost filled with ice cubes.|Stir well.|Drop the Curacao into the center of the drink.
 .5|oz|Blue Curaçao|Liqueur|4|oz|Pineapple Juice|Juice|1.5|oz|Tequila|Tequila
 Tomorrow Never Dies|Movie|James Bond|F|iDrink|http://www.idrink.com/|Mix together with crushed ice in a glass.|Garnish with mint leaves.
@@ -973,7 +973,7 @@ Majesty's Secret Service|Movie|James Bond|F|iDrink|http://www.idrink.com/|Mix to
 Miss Moneypenny|Movie|James Bond|F|iDrink|http://www.idrink.com/|Mix together with crushed ice in a glass.|Garnish with mint leaves.
 1|dash|Apricot Brandy|Brandy|25|ml|Cognac|Cognac|50|ml|Creme de Cacao|Liqueur|2|oz|Crushed Ice|Ice|3|each|Mint Leaves|Herb
 Octopussy|Movie|James Bond|F|iDrink|http://www.idrink.com/|Mix together with crushed ice in a glass.|Garnish with mint leaves.
-.5|oz|Amaretto|Liqueur|1|oz|Apple Schnapps|Schnapps|1.5|oz|Orange Juice|Juice|1|oz|Sloe Gin|Gin|1.5|oz|Sweet and Sour mix|Mixer|1|oz|Triple Sec|Liqueur|2|oz|Crushed Ice|Ice|3|each|Mint Leaves
+.5|oz|Amaretto|Liqueur|1|oz|Apple Schnapps|Schnapps|1.5|oz|Orange Juice|Juice|1|oz|Sloe Gin|Gin|1.5|oz|Sweet and Sour mix|Mixer|1|oz|Triple Sec|Liqueur|2|oz|Crushed Ice|Ice|3|each|Mint Leaves|Herb
 Norwegian Iceberg|Book|Hitchhiker's Guide to the Galaxy|F|iDrink|http://www.idrink.com/|Mix together with crushed ice in a glass.|Garnish with mint leaves.
 6|oz|Lemon Lime Soda|Soda|4.5|oz|Vodka|Vodka|1.5|oz|Maui Blue Hawaiian Schnapps|Schnapps|2|oz|Crushed Ice|Ice|3|each|Mint Leaves|Herb
 Heart of Gold|Book|Hitchhiker's Guide to the Galaxy|F|iDrink|http://www.idrink.com/|Fill a shaker half full with ice cubes.|Pour all ingredients into shaker.|Shake well.|Strain drink into a cocktail glass.
@@ -981,7 +981,7 @@ Heart of Gold|Book|Hitchhiker's Guide to the Galaxy|F|iDrink|http://www.idrink.c
 Arthur's Day Dream|Book|Hitchhiker's Guide to the Galaxy|F|iDrink|http://www.idrink.com/|Mix together with crushed ice in a glass.|Garnish with mint leaves.
 2|oz|Club Soda|Soda|1|oz|Lemon Juice|Juice|.5|oz|Strawberry Syrup|Syrup|2|oz|Tequila|Tequila|3|oz|Strawberry Puree|Fruit|2|oz|Crushed Ice|Ice|3|each|Mint Leaves|Herb
 Slimer|Movie|Ghostbusters|F|iDrink|http://www.idrink.com/|Mix all ingredients in glass with ice.|Enjoy!
-12|oz|Lemon Lime Soda|2|oz|Melon Liqueur|Liqueur|3|oz|Sweet and Sour Mix|Mixer|1.5|oz|Vodka|Vodka
+12|oz|Lemon Lime Soda|Soda|2|oz|Melon Liqueur|Liqueur|3|oz|Sweet and Sour Mix|Mixer|1.5|oz|Vodka|Vodka
 Ghostbuster|Movie|Ghostbusters|F|iDrink|http://www.idrink.com/|Mix all ingredients in glass with ice.|Enjoy!
 2|oz|Coffee Liqueur|Liqueur|2|oz|Irish Cream|Liqueur|2|oz|Vodka|Vodka|2|oz|Ice|Ice
 Amy's Tatoo|TV|Futurama|F|iDrink|http://www.idrink.com/|Mix together with crushed ice in a glass.|Garnish with mint leaves.
@@ -991,7 +991,7 @@ Stary Puft Marshmallow Man|Movie|Ghostbusters|F|Secret of the Booze|https://www.
 Oogie Boogie|Movie|Nightmare Before Christmas|F|Secret of the Booze|https://www.youtube.com/c/SecretoftheBooze|Add Midori, Limeade, Vodka and ice to blender.|Blend.|Rim glass with green cake sprinkles.|Pour contents of blender into glass.|Garnish with gummi worms.
 .75|oz|Midori|Liqueur|2|oz|Limeade|Juice|1|oz|Vodka|Vodka|3|oz|Ice|Ice|1|oz|Simple Syrup|Syrup|2|tbsp|Green Cake Sprinkles|Sprinkles|3|each|Gummi Worms|Candy
 Butterbeer|Movie|Harry Potter|F|Secret of the Booze|https://www.youtube.com/c/SecretoftheBooze|Add schnapps, creme de cacao and spiced rum to shaker with ice.|Shake for 30 seconds.|Strain into glass.|Top with cream soda.|Mix vodka and marshmallow fluff.|Layer marshmallow/vodka solution on top
-2|oz|Butterscotch Schnapps|1|oz|Vanilla Schnapps|Schnapps|.5|oz|Creme de Cacao|Liqueur|.5|oz|Spiced Rum|Rum|4|oz|Ice|Ice|1|bottle|Cream Soda|Soda|1|oz|Vodka|Vodka|1|oz|Marshmallow Fluff|Marshmallow
+2|oz|Butterscotch Schnapps|Schnapps|1|oz|Vanilla Schnapps|Schnapps|.5|oz|Creme de Cacao|Liqueur|.5|oz|Spiced Rum|Rum|4|oz|Ice|Ice|1|bottle|Cream Soda|Soda|1|oz|Vodka|Vodka|1|oz|Marshmallow Fluff|Marshmallow
 Don't Make Me Angry|Movie|Incredible Hulk|F|Secret of the Booze|https://www.youtube.com/c/SecretoftheBooze|Add all ingredients to glass with ice.|Starting with a shot glass. Strain into four successively larger glasses.
 2|oz|Pineapple Rum|Rum|4|oz|Surge|Soda|1|oz|Vodka|Vodka|2|oz|Club Soda|Soda|4|oz|Ice|Ice
 Rainbow Road|Video Game|Mario Kart|F|Secret of the Booze|https://www.youtube.com/c/SecretoftheBooze|Build in glass filled with ice.|Add grenadined, silver rum, grapefruit juice, orange juice, a bit more rum, kool-aid, and a bit more rum.|Enjoy!
@@ -999,27 +999,27 @@ Rainbow Road|Video Game|Mario Kart|F|Secret of the Booze|https://www.youtube.com
 It was Agatha All Along|TV|Wandavision|F|Secret of the Booze|https://www.youtube.com/c/SecretoftheBooze|Add all ingredients to brandy snifter with ice.|Garnish with dried orange wheel.|Enjoy!
 2|oz|Lavender Syrup|Syrup|2|oz|Cranberry Juice|Juice|2|oz|Lunar Gin|Gin|.5|oz|Bourbon|Bourbon|1|oz|Mead|Mead|.5|oz|Blue Curaçao|Liqueur|2|oz|Ice|Ice|1|each|Dried Orange Wheel|Fruit
 Audrey 2|Movie|Little Shop of Horrors|F|Secret of the Booze|https://www.youtube.com/c/SecretoftheBooze|Add blackberries and mint leaves to shaker.|Muddle.|Add simple syrup and rum.|Shake for 30 seconds.|Pour into glass.|Add club soda and lime jucie.|Garnish with sprig of mint leaves.
-4|each|Blackberries|Fruit|6|each|Mint Leaves|Herb|1|oz|Simple Syrup|Syrup|2|oz|Rum|Rum|2|oz|Ice|Ice|2|oz|Club Soda|.5|oz|Lime Juice|1|sprig|Mint Leaves|Herb
+4|each|Blackberries|Fruit|6|each|Mint Leaves|Herb|1|oz|Simple Syrup|Syrup|2|oz|Rum|Rum|2|oz|Ice|Ice|2|oz|Club Soda|Soda|.5|oz|Lime Juice|Juice|1|sprig|Mint Leaves|Herb
 Pickle Rick|Cartoon|Rick and Morty|F|Secret of the Booze|https://www.youtube.com/c/SecretoftheBooze|Add liquid ingredients to shaker filled with ice.|Shake for 30 seconds.|Strain into cored out pickle.|Enjoy.
 .5|oz|Szechuan Sauce|Other|1|oz|Pickle Juice|Other|1|oz|Irish Whiskey|Whiskey|1|each|Core Out Pickle|Other|6|oz|Ice|Ice
 The Coven|Movie|The Craft|F|Secret of the Booze|https://www.youtube.com/c/SecretoftheBooze|Add gin, lavender syrup and aquafaba to shaker, then ice.|Chill and shake for 30 seconds.|Strain into glass over elderflower tonic.|Use paper cutout to create moon sliver.|Enjoy!
 1.5|oz|Empress 1908 Gin|Gin|.75|oz|Lavender Syrup|Syrup|.5|oz|Aquafaba|Other|2|oz|Ice|Ice|1|oz|Elderflower Tonic|Tonic|1|tbsp|Purple Cake Sprinkles|Sprinkles
 Mike's Special Stuff|Movie|Space Jam|F|Secret of the Booze|https://www.youtube.com/c/SecretoftheBooze|Add all ingredients to shaker.|Chill and shake for 30 seconds.|Strain into coupe glass.
-2|oz|Tequila|Tequila|1|oz|Lime Juice|Juice|1|tbsp|Blackberry Jam|Jam|1|tbsp|Raspberry Jam|Jam|1|dash|Edible Silver Powder|2|oz|Ice|Ice
+2|oz|Tequila|Tequila|1|oz|Lime Juice|Juice|1|tbsp|Blackberry Jam|Jam|1|tbsp|Raspberry Jam|Jam|1|dash|Edible Silver Powder|Other|2|oz|Ice|Ice
 God of Thunder|Movie|Thor|F|Secret of the Booze|https://www.youtube.com/c/SecretoftheBooze|Add mead, spiced whiskey and grenadine to shaker.|Fill shaker with ice.|Shake for 30 seconds.|Strain into glass filled with ice.|Add blue raspberry mix, gin and glitter dust to shot glass.|Stir gently.|Serve both drinks together.|Enjoy!
-4|oz|Mead|Mead|1.5|oz|Spiced Whiskey|Whiskey|1|splash|Grenadine|Mixer|6|oz|Ice|Ice|.75|oz|Blue Raspberry Mix|Mixer|.75|oz|Midsummer Gin|Gin|2|tsp|Edible Glitter Dust
+4|oz|Mead|Mead|1.5|oz|Spiced Whiskey|Whiskey|1|splash|Grenadine|Mixer|6|oz|Ice|Ice|.75|oz|Blue Raspberry Mix|Mixer|.75|oz|Midsummer Gin|Gin|2|tsp|Edible Glitter Dust|Other
 Doctor Strange|Movie|Doctor Strange|F|Secret of the Booze|https://www.youtube.com/c/SecretoftheBooze|Layer all ingredients in shooter glass starting with the banana liqueur.|Enjoy!
-.75|oz|Banana Liqueur|Liqueur|.75|oz|Vodka|Vodka|.5|oz|Blue Curaçao|.5|oz|Hpnotiq|Vodka|.5|oz|Viniq|Liqueur
+.75|oz|Banana Liqueur|Liqueur|.75|oz|Vodka|Vodka|.5|oz|Blue Curaçao|Liqueur|.5|oz|Hpnotiq|Vodka|.5|oz|Viniq|Liqueur
 Black Widow|Movie|Black Widow|F|Blogtastic Food|https://www.youtube.com/channel/UC_AB8Sn6AR0AX1uijrkb1cg|Add vanilla, sugar and three blackberries to glass.|Muddle.|Add lemon juice and vodka|Stir until sugar is dissolved.|Add remaining blackbereries, reserving one for garnish, and ice.|Top with soda water.|Gently stir.|Garnish with last blackberry and a raspberry.
-.5|tsp|Vanilla Extract|Other|.75|Caster Sugar|Sugar|7|each|Blackberries|Fruit|.5|oz|Lemon Juice|Juice|1.5|oz|Vodka|Vodka|3|each|Ice Cubes|Ice|1|bottle|Soda Water|Soda|1|each|Raspberry|Fruit
+.5|tsp|Vanilla Extract|Other|.75|tbsp|Caster Sugar|Sugar|7|each|Blackberries|Fruit|.5|oz|Lemon Juice|Juice|1.5|oz|Vodka|Vodka|3|each|Ice Cubes|Ice|1|bottle|Soda Water|Soda|1|each|Raspberry|Fruit
 Black Widow|Movie|Black Widow|F|Secret of the Booze|https://www.youtube.com/c/SecretoftheBooze|Add blackberries to shaker.|Muddle.|Add vodka and midori.|Fill shaker with ice.|Shake for 30 seconds.|Double strain into martini glass.|Float club soda on top.|Garnish with raspberries on a toothpick.|Enjoy!
 4|each|Blackberries|Fruit|2|oz|Vodka|Vodka|1|oz|Midori|Liqueur|10|oz|Ice|Ice|1|bottle|Club Soda|Soda|2|each|Raspberries|Fruit
 Airbender|Cartoon|Avatar: the Last Airbender|F|Secret of the Booze|https://www.youtube.com/c/SecretoftheBooze|Add all ingredients to glass.|Stir to dissovle honey.|Fill spherical ice mold.|Freeze for ~4 hours, flipping halfway to create hallow ice sphere.|Place ice sphere in glass.|Crack and enjoy!
 4|oz|Chamomile Tea|Tea|1|oz|Hendrick's Orbium Gin|Gin|.5|oz|Lemon Juice|Juice|1|tbsp|Honey|Honey
 Earthbender|Cartoon|Avatar: the Last Airbender|F|Secret of the Booze|https://www.youtube.com/c/SecretoftheBooze|Add 3 basil leaves and grapes to a small rocks glass.|Muddle.|Fill glass with ice.|Add remaining ingredients.|Top with ginger ale.|Garnish with basil leave after slapping it to bring out aroma.
-4|each|Basil Leaves|Herb|3|each|White Grapes|6|oz|Ice|Ice|1.5|oz|Vodka|Vodka|.75|oz|Lime Juice|Juice|1|oz|Simple Syrup|Syrup|1|dash|Bitters|Bitters|1|bottle|Ginger Ale|Soda
+4|each|Basil Leaves|Herb|3|each|White Grapes|Fruit|6|oz|Ice|Ice|1.5|oz|Vodka|Vodka|.75|oz|Lime Juice|Juice|1|oz|Simple Syrup|Syrup|1|dash|Bitters|Bitters|1|bottle|Ginger Ale|Soda
 Waterbender|Cartoon|Avatar: the Last Airbender|F|Secret of the Booze|https://www.youtube.com/c/SecretoftheBooze|Fill a lwo ball glass about half way with water.|Place glass in freezer on an angle so that the water freezes near the rim of the glass.|Add first three ingredients to shaker and fill with ice.|Shake for 30 seconds.|Add splash of blue curaçao.|Strain drink into glass.|Top with tonic water.
-2|oz|Snow Sake|Sake|1|oz|Hpnotiq|Vodka|.5|oz|Triple Sec|10|oz|Ice|Ice|1|splash|Blue Curaçao|Liqueur|1|bottle|Tonic Water|Water
+2|oz|Snow Sake|Sake|1|oz|Hpnotiq|Vodka|.5|oz|Triple Sec|Liqueur|10|oz|Ice|Ice|1|splash|Blue Curaçao|Liqueur|1|bottle|Tonic Water|Water
 Firebender|Cartoon|Avatar: the Last Airbender|F|Secret of the Booze|https://www.youtube.com/c/SecretoftheBooze|Add tea and whiskey to champagne flute.|Layer moonshine on top.|Ignite.|Extingquish and drink fire.
 2.5|oz|Oolong Tea|Tea|1.5|oz|Fireball Whiskey|Whiskey|.5|oz|Moonshine|Moonshine
 Turbo Man|Movie|Jingle All the Way|F|Secret of the Booze|https://www.youtube.com/c/SecretoftheBooze|First cut the rind of the lemon into the shape of a T for your garnish.|Mix the Peach Schnapps, Campari and Simple Syrup in a shaker with fresh ice.|Strain into a champagne flute filled with ice.|Top with Prosecco and add Lemon Garnish.
@@ -1033,9 +1033,9 @@ Drink with the Most|Movie|Beetlejuice|F|Secret of the Booze|https://www.youtube.
 The Weasley Top|Movie|Harry Potter|F|Secret of the Booze|https://www.youtube.com/c/SecretoftheBooze|Mix grenadine, Captain Morgan and Jameson into a glass.|Pour some Cherry and Creme Soda (can be replaced with Code Red Mountain Dew) on top of it.
 1.5|oz|Captain Morgan Spiced Rum|Rum|1.5|oz|Jameson Irish Whiskey|Whiskey|.5|oz|Grenadine|Mixer|1|splash|Cherry and Creme Soda(or Code Red)|Soda
 Hong Kong Phooey|Cartoon|Hong Kong Phooey|F|Secret of the Booze|https://www.youtube.com/c/SecretoftheBooze|Mix all into glass then top off with Lemonade and ice.|Garnish with cherry and lime.
-.5|oz|Gin|Gin|.5|oz|Vodka|Vodka|.5|oz|Tequila|Tequila|.5|oz|Bacardi Rum|Rum|.75|oz|Midori|Liqueur|.75|Lime Juice|Juice|.75|oz|Lemon Juice|Juice|1|bottle|Lemonade|Lemonade|1|each|Cherry|Fruit|1|each|Lime Wedge|Fruit
+.5|oz|Gin|Gin|.5|oz|Vodka|Vodka|.5|oz|Tequila|Tequila|.5|oz|Bacardi Rum|Rum|.75|oz|Midori|Liqueur|.75|oz|Lime Juice|Juice|.75|oz|Lemon Juice|Juice|1|bottle|Lemonade|Lemonade|1|each|Cherry|Fruit|1|each|Lime Wedge|Fruit
 Fear Toxin|Movie|Batman|F|Secret of the Booze|https://www.youtube.com/c/SecretoftheBooze|Top Martini glass with Coco Powder.|Mix all liquors in a shaker.|Shake.|Pour into a martini glass.|Top with Orange Juice and serve with a candy corn on a stick.
-1|oz|Whipped Cream Vodka|Vodka|.75|oz|Creme de Cacao|.75|oz|Butterscotch Schnapps|1|splash|Orange Juice|Juice|1|each|Candy Corn|Candy|1|pouch|Cocoa Powder|Other
+1|oz|Whipped Cream Vodka|Vodka|.75|oz|Creme de Cacao|Liqueur|.75|oz|Butterscotch Schnapps|Schnapps|1|splash|Orange Juice|Juice|1|each|Candy Corn|Candy|1|pouch|Cocoa Powder|Other
 Clayface|Cartoon|Batman: the Animated Series|F|Secret of the Booze|https://www.youtube.com/c/SecretoftheBooze|Add into blender.|Blend.|Pour into hurricane glass.
 2|oz|Disaronno|Liqueur|2|oz|Kahlua|Liqueur|1.5|oz|Frangelico|Liqueur|4|scoops|Coffee Ice Cream|Ice Cream
 Stay Puft|Movie|Ghostbusters|F|Secret of the Booze|https://www.youtube.com/c/SecretoftheBooze|Fill low ball with Whip Cream Vodka.|Add rum chata.|Drop in marshmallow and a dash of 151.|Light drink on fire and dash with cinnamon for effect and flavor.|Remember to put out flame before drinking.
@@ -1043,13 +1043,13 @@ Stay Puft|Movie|Ghostbusters|F|Secret of the Booze|https://www.youtube.com/c/Sec
 Gotham City Ice Tea|Comic Book|Batman|F|Secret of the Booze|https://www.youtube.com/c/SecretoftheBooze|Mix everything in shaker except Orange Soda.|Pour over ice then add Orange Soda with a side of Justice!
 1|oz|Black Berry Liqueur|Liqueur|1|oz|Triple Sec|Liqueur|1|oz|Gin|Gin|1|oz|Vodka|Vodka|1|oz|Captain Morgan|Rum|1|oz|Tequila Gold|Tequila|1|oz|Sour Mix|Mixer|1|oz|Orange Soda|Soda
 Smaug|Movie|The Hobbit|F|Secret of the Booze|https://www.youtube.com/c/SecretoftheBooze|Add gold sprinkles to bottom of low ball glass.|Add fireball then ginger ale on top.|With a lighter, spritz the cocktail with the orange rind, then rub it around the rim of the glass.
-2|oz|Fireball|Whiskey|4|oz|Ginger Ale|Soda|1|each|Orange Zest|1|tsp|Gold Sprinkles|Sprinkles
+2|oz|Fireball|Whiskey|4|oz|Ginger Ale|Soda|1|each|Orange Zest|Fruit|1|tsp|Gold Sprinkles|Sprinkles
 Flash Gordon|Movie|Flash Gordon|F|Secret of the Booze|https://www.youtube.com/c/SecretoftheBooze|Add a dash of grenadine to a shot glass.|Layer Goldschlager, then bacardi 151 on top.|Express an orange rind through a lighter so that flash ignites the bacardi.|Extinguish and save the universe.
 1|dash|Grenadine|Mixer|.75|oz|Goldschlager|Schnapps|.5|oz|Bacardi 151|Rum|1|each|Orange Rind|Fruit
 I'm Not Bad, I'm Just Drawn That Way|Movie|Who Framed Roger Rabbit?|F|Secret of the Booze|https://www.youtube.com/c/SecretoftheBooze|Add Everything but the soda into a mixer.|Pour into highball glass over ice.|Top with Ginger Ale.
 2|oz|Blood Orange Vodka|Vodka|4|oz|Kinky Liqueur|Liqueur|1|splash|Ginger Ale|Soda
 Mystique|Comic Book|X-Men|F|Secret of the Booze|https://www.youtube.com/c/SecretoftheBooze|Add all ingredients except for Lemon Juice into glass and stir.|Once you get the color blue that you want to see, add Lemon juice and stir until drink turns purple.
-2|oz|Coconut Rum|Rum|2|oz|Blod Orange Vodka|Vodka|1|Simple Syrup|Syrup|2|squirts|B’lure Cocktail Concentrate, Butterfly Pea Flower Extract|Other|1|tbsp|Lemon Juice
+2|oz|Coconut Rum|Rum|2|oz|Blod Orange Vodka|Vodka|1|oz|Simple Syrup|Syrup|2|squirts|B’lure Cocktail Concentrate, Butterfly Pea Flower Extract|Other|1|tbsp|Lemon Juice|Juice
 Banana|Movie|Minions|F|Secret of the Booze|https://www.youtube.com/c/SecretoftheBooze|Stir all liquids in a glass with ice.|Garnish with two banana slices.
 4|oz|Milk|Milk|2|oz|Banana Liqueur|Liqueur|1|oz|Chocolate Vodka|Vodka|2|each|Banana Slices|Fruit
 Special Beam Cannon|Anime|Dragonball|F|Secret of the Booze|https://www.youtube.com/c/SecretoftheBooze|Take your Twizzler and swirl it inside the glass Pour ingredients in order as listed.|Shoot back just after screaming special beam cannon.
@@ -1059,7 +1059,7 @@ Arc Reactor|Movie|Iron Man|F|Secret of the Booze|https://www.youtube.com/c/Secre
 Iron Man|Movie|Iron Man|F|Secret of the Booze|https://www.youtube.com/c/SecretoftheBooze|Add grenadine and amaretto to low ball glass.|Fill shot glass with orange juice and vodka.|Gently place filled shot glass into filled low ball glass.|Enjoy!
 1|splash|Grenadine|Mixer|4|oz|Amaretto|Liqueur|.75|oz|Vodka|Vodka|.75|oz|Orange Juice|Juice
 Pepper Potts|Movie|Iron Man|F|Secret of the Booze|https://www.youtube.com/c/SecretoftheBooze|Add vermouth to martini glass and coat.|Add vodka to shaker with ice.|Shake for 30 seconds.|Strain into martini glass.|Add olives.|Garnish with peppers skewered on a cocktail skewer.
- 2|tsp|Dry Vermouth|Vermouth|4|oz|Vodka|Vodka|2|oz|Ice|Ice|3|each|Spanish Olives|Olive|3|each|Assorted Peppers|Vegetable
+2|tsp|Dry Vermouth|Vermouth|4|oz|Vodka|Vodka|2|oz|Ice|Ice|3|each|Spanish Olives|Olive|3|each|Assorted Peppers|Vegetable
 Tony Stark|Movie|Iron Man|F|Secret of the Booze|https://www.youtube.com/c/SecretoftheBooze|Add one cherry to low ball glass and muddle.|Add bitters and ice.|Pour in scotch.|Stir gently.|Garnish with other cherry wrapped in the peel and skewered on cocktail skewer.
 2|each|Maraschino Cherry|Fruit|3|dashes|Orange Bitters|Bitters|2|each|Ice Cubes|Ice|2|oz|Scotch|Scotch|1|each|Orange Peel|Fruit
 Keep on Drinking|Movie|Finding Dory|F|Secret of the Booze|https://www.youtube.com/c/SecretoftheBooze|Add all but last ingredient to fish bowl.|Top with Sprite to taste.|Keep on swimming.
@@ -1097,7 +1097,7 @@ The Griswold Family Christmas|Movie|National Lampoon's Christmas Vacation|F|Secr
 The Grinch|Cartoon|The Grinch|F|Secret of the Booze|https://www.youtube.com/c/SecretoftheBooze|Add to shaker tin with Ice.Shake.|Strain into Irish Coffee Mug.|Top with Whip Cream and garnish with a Candy Cane.
 2|oz|Peppermint Vodka|Vodka|2|oz|Creme de Menthe|Liqueur|4|oz|Milk|Milk|2|oz|Ice|Ice|1|can|Whipped Cream|Cream|1|each|Candy Cane, crushed|Candy
 Buddy the Elf|Movie|Elf|F|Secret of the Booze|https://www.youtube.com/c/SecretoftheBooze|Add liquid ingredients to Irish coffe mug.|Stir gently.|Top with Whipped Cream then Chocolate Syrup.|Garnish with Candy Cane.
-6|oz|Coffee|Coffee|1.5|oz|Maple Syrup Whiskey|Whiskey|1.5|oz|Eggnog|Eggnog|1|can|Whipped Cream|1|bottle|Chocolate Syrup|Syrup|1|each|Candy Cane|Candy
+6|oz|Coffee|Coffee|1.5|oz|Maple Syrup Whiskey|Whiskey|1.5|oz|Eggnog|Eggnog|1|can|Whipped Cream|Cream|1|bottle|Chocolate Syrup|Syrup|1|each|Candy Cane|Candy
 Chilling Adventures of Sabrina|TV|Chilling Adventures of Sabrina|F|Secret of the Booze|https://www.youtube.com/c/SecretoftheBooze|Rim a shot glass with icing and sprinkles.|Add remaining ingredients.|Summon Satan.
 1|tsp|Icing|Icing|1|tbsp|Sprinkles|Sprinkles|.5|oz|Frangelico|Liqueur|.5|oz|Whipped Cream Vodka|Vodka|.5|oz|Black Sambuca|Sambuca
 Sam|TV|Supernatural|F|Secret of the Booze|https://www.youtube.com/c/SecretoftheBooze|Rim glass with salt.|Add maraschino cherry to glass.|Muddle.|Add remaining ingredients.|Stir gently.
@@ -1143,9 +1143,9 @@ Star Spangled Man|Movie|Captain America|F|Secret of the Booze|https://www.youtub
 Martini Of Truth|Movie|Wonder Woman|F|Secret of the Booze|https://www.youtube.com/c/SecretoftheBooze|Add liquid ingredients to a mixing glass with ice.|Stir.|Strain into martini glass rimmed with edible gold powder.|Garnish with Maracschino cherry.
 2|oz|Whiskey|Whiskey|.5|oz|Grand Marnier|Liqueur|.5|oz|Sweet Vermouth|Vermouth|1|dash|Bitters|Bitters|4|oz|Ice|Ice|1|tbsp|Edible Gold Powder|Other|1|each|Maracschino Cherry|Fruit
 Lightsaber Shots|Movie|Star Wars|F|Secret of the Booze|https://www.youtube.com/c/SecretoftheBooze|In test tube shot glasses, combine everclear/pomegranate mixer/1 oz Triple Sec, gin/sour apple schnapps/1 oz Triple Sec, and bacardi/blue raspberry mix/1 oz Triple Sec respectively to create the Sith, the Master and the Apprentice.
-1|oz|Everclear|Grain Alcohol|2|oz|Pomegranate Mix|Mixer|1|oz|Gin|2|oz|Sour Apple Schnapps|Schnapps|1|oz|Bacardi|Rum|2|oz|Blue Raspberry Mix|Mixer|3|oz|Triple Sec|Liqueur
+1|oz|Everclear|Grain Alcohol|2|oz|Pomegranate Mix|Mixer|1|oz|Gin|Gin|2|oz|Sour Apple Schnapps|Schnapps|1|oz|Bacardi|Rum|2|oz|Blue Raspberry Mix|Mixer|3|oz|Triple Sec|Liqueur
 Star Lord|Movie|Guardians of the Galaxy|F|Secret of the Booze|https://www.youtube.com/c/SecretoftheBooze|Add into shaker with ice.|Shake.|Strain over a ball of ice in a low ball glass.|Rim glass with orange peel then drop into cocktail.
-2|oz|Campari|Liqueur|2|oz|Disaronno|Liqueur|1|tsp|Lemon Juice|Juice|1|Ice Ball|Ice|1|each|Orange Peel|Fruit
+2|oz|Campari|Liqueur|2|oz|Disaronno|Liqueur|1|tsp|Lemon Juice|Juice|1|each|Ice Ball|Ice|1|each|Orange Peel|Fruit
 Gamora|Movie|Guardians of the Galaxy|F|Secret of the Booze|https://www.youtube.com/c/SecretoftheBooze|Add Ingredients into a Champagne glass top with Cherries.
 .5|oz|Gin|Gin|1.5|oz|Midori|Liqueur|2|oz|Lime Soda|Soda|2|oz|Prosecco|Wine
 Drax|Movie|Guardians of the Galaxy|F|Secret of the Booze|https://www.youtube.com/c/SecretoftheBooze|Mix all ingredients in shaker.|Strain into glass with Ice.|Fill with Maraschino Cherries.
@@ -1153,7 +1153,7 @@ Drax|Movie|Guardians of the Galaxy|F|Secret of the Booze|https://www.youtube.com
 Rocket|Movie|Guardians of the Galaxy|F|Secret of the Booze|https://www.youtube.com/c/SecretoftheBooze|Add all ingredients to shot glass.|Enjoy!
 .5|oz|Butterscotch Schnapps|Schnapps|.5|oz|Whiskey|Whiskey|.5|oz|Captain Morgan|Rum
 Groot|Movie|Guardians of the Galaxy|F|Secret of the Booze|https://www.youtube.com/c/SecretoftheBooze|Add all ingredients into stout.|Garnish with fennel.
-12|oz|Stout Beer|1.5|oz|Maple Syrup Whiskey|Whiskey|1|sprig|Fennel|Herb
+12|oz|Stout Beer|Beer|1.5|oz|Maple Syrup Whiskey|Whiskey|1|sprig|Fennel|Herb
 Baby Groot|Movie|Guardians of the Galaxy|F|Secret of the Booze|https://www.youtube.com/c/SecretoftheBooze|Add to a pint glass the butterscotch schnapps and whiskey.|Fill glass with ice.|Stir.|Strain into low ball glass filled with ice.|Top with root beer.
 1|oz|Butterscotch Schnapps|Schnapps|1|oz|Maple Rye Whiskey|Whiskey|1|bottle|Root Beer|Soda
 The Major|Anime|Ghost in the Shell|F|Secret of the Booze|https://www.youtube.com/c/SecretoftheBooze|Add liquid ingredients to shaker with ice.|Shake.|Strain into a martini glass.|Top with purple or black twizzlers
@@ -1163,20 +1163,20 @@ Poison Ivy|Comic Book|Batman|F|Secret of the Booze|https://www.youtube.com/c/Sec
 Belle|Movie|Beauty and the Beast|F|Secret of the Booze|https://www.youtube.com/c/SecretoftheBooze|Shake with ice.|Strain into chocolate-rimmed martini glass.|Top with whipped cream and a cherry.
 1|oz|Chocolate Vodka|Vodka|1|oz|Banana Liquer|Liquer|.5|oz|Cream|Milk|2|tbsp|Chocolate Sauce|Chocolate|1|can|Whipped Cream|Cream|1|each|Cherry|Fruit
 King Kong|Movie|King Kong|F|Secret of the Booze|https://www.youtube.com/c/SecretoftheBooze|Blend ingredients with one banana.|Garnish with a banana.
-2|each|Bananas|Fruit|6|oz|Dark Rum|Rum|2|oz|Banana Liquer|4|oz|Ice|Ice
+2|each|Bananas|Fruit|6|oz|Dark Rum|Rum|2|oz|Banana Liqueur|Liqueur|4|oz|Ice|Ice
 Leap of Faith|Video Game|Assassin's Creed|F|Secret of the Booze|https://www.youtube.com/c/SecretoftheBooze|Add grand marnier and wine to glass.|Garnish with orange wedge.|Fill shot glass with sprite.|Drop shot glass into other glass.|Enjoy.
-2|oz|Grand Marnier|Liquer|2.5|oz|Red Wine|Wine|1.5|oz|Sprite|Sprite|1|each|Orange Wedge|Fruit|
+2|oz|Grand Marnier|Liquer|2.5|oz|Red Wine|Wine|1.5|oz|Sprite|Sprite|1|each|Orange Wedge|Fruit
 Unicorn Blood|Book|Harry Potter|F|Tasty|https://tasty.co/|Add everything to a cocktail shaker with ice and shake (hard!) for a full 20 seconds.|Strain into a coupe glass.
 1.5|oz|Silver Tequila|Tequila|1.5|oz|St. Germain|Liquer|1|oz|Lemon Juice|Juice
 Hair Of The Three-Headed Dog|Book|Harry Potter|F|Tasty|https://tasty.co/|Mix tequila, tomato juice, lime juice, Worcestershire and Tabasco sauces.|Mix salt and chili powder together in a small bowl or saucer.|Rub the rim of a pint glass with a slice of lime and roll the outside of the glass rim in the chili salt to coat it.|Fill glass halfway with ice, add tomato mixture, stir well, and top with beer.|Garnish with celery if you like.
 1.5|oz|Tequila|Tequila|4|oz|Tomato Juice|Juice|1|tbsp|Lime Juice|Juice|1|tbsp|Worcestershire Sauce|Sauce|1|tsp|Tabasco|Sauce|12|oz|Mexican Beer|Beer|2|tbsp|Kosher Salt|Salt|.5|tsp|Chili Powder|Spice|1|stalk|Celery, washed, root end trimmed|Vegetable
 Wolfsbane Potion|Book|Harry Potter|F|Tasty|https://tasty.co/|Combine Scott and Fernet in a shaker with ice and stir vigorously for 20 seconds, until fully chilled.|Strain into a rocks glass with a large ice cube.|Top with cola, to taste.
-1.5|oz|Scotch Whiskey|Scotch|1.5|Fernet-Branca|Liquer|1|can|Coca-Cola|Soda
+1.5|oz|Scotch Whiskey|Scotch|1.5|oz|Fernet-Branca|Liquer|1|can|Coca-Cola|Soda
 The Phoenix Feather|Book|Harry Potter|F|Tasty|https://tasty.co/|Combine Lillet, Campari, and grapefruit juice in a cocktail shaker with ice and shake, vigorously, for about 20 seconds.|Strain into a Collins glass filled with ice cubes and top with seltzer.
-2|oz|Lillet Blanc|Wine|1.5|Campari|Liquer|1|oz|Fresh-squeezed Grapefruit Juice|Juice|1|bottle|Seltzer or Club Soda|Soda
+2|oz|Lillet Blanc|Wine|1.5|oz|Campari|Liquer|1|oz|Fresh-squeezed Grapefruit Juice|Juice|1|bottle|Seltzer or Club Soda|Soda
 Butterbeer|Book|Harry Potter|F|Tasty|https://tasty.co/|Heat cider, bourbon and butterscotch syrup in a medium saucepan until the butterscotch dissolves and the mixture is steaming hot.|Remove from heat and stir in the ginger beer.|Ladle into mugs and serve with loads of whipped cream on top.
-7|tbsp|Butterscotch Sauce|Sauce|24|oz|Apple Cider|Cider|8|oz|Bourbon Whiskey|16|oz|Ginger Beer|Beer|1|can|Whipped Cream|Cream
+7|tbsp|Butterscotch Sauce|Sauce|24|oz|Apple Cider|Cider|8|oz|Bourbon Whiskey|Whiskey|16|oz|Ginger Beer|Beer|1|can|Whipped Cream|Cream
 Polyjuice Potion|Book|Harry Potter|F|Tasty|https://tasty.co/|Shake gin, juices, and Chartreuse in a shaker with ice.|Strain into a glass (you can serve up or over ice).|Top with a splash of soda if you'd like it a little lighter.
-1.5|oz|Gin|Gin|1.5|oz|Green Juice|Juice|1|oz|Green Chartreuse|Liquer|.5|oz|Lime Juice|Juice|1|can|7-Up|Soda
+1.5|oz|Gin|Gin|1.5|oz|Green Juice|Juice|1|oz|Green Chartreuse|Liqueur|.5|oz|Lime Juice|Juice|1|can|7-Up|Soda
 Felix Felicis|Book|Harry Potter|F|Tasty|https://tasty.co/|Mix simple syrup and lemon juice in the bottom of a champagne flute.|Add ginger beer and fill with Champagne.
-.25|oz|Simple Syrup|.25|oz|Lemon Juice|Juice|1.5|oz|Ginger Beer|1|bottle|Champagne|Champagne
+.25|oz|Simple Syrup|Syrup|.25|oz|Lemon Juice|Juice|1.5|oz|Ginger Beer|Beer|1|bottle|Champagne|Champagne
