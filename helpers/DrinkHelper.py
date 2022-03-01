@@ -147,6 +147,7 @@ class DrinkHelper(object):
                 drink_details = line.split("|")
                 print("Getting Drink details")
                 drinkName = drink_details[0]                                            #get Drink Name
+                print(drinkName)
                 drinkSource = drink_details[1]                                          #get Drink Source
                 drinkOrigin = drink_details[2]                                          #get Drink Origin
                 drinkMocktail = drink_details[3]                                        #get T/F if drink is mocktail
