@@ -1,7 +1,7 @@
 class MenuHelper():
     @staticmethod
     def displayMainMenu():
-        menuOptions = ["Please select a menu option from below:","1: Add a drink to the database","2: Edit a drink in the database","3: Remove a drink in the database","4: View a drink","5: Add from File","0: Exit"]
+        menuOptions = ["Please select a menu option from below:","1: Add a drink to the database","2: Edit a drink in the database","3: Remove a drink in the database","4: View a drink","5: Add from File","6: Add to AWS","0: Exit"]
         for i in menuOptions:
             print(i + "\r")    
 
@@ -20,4 +20,9 @@ class MenuHelper():
         for source in (sources):
             print(str(sourceCount) + ": " + source)
             sourceCount+=1
-
+            
+    @staticmethod
+    def displayAWSMenu():
+        awsOptions = ["Please select a menu option from below:","1: Check connection","2: Add Drink","3: Add from file","0: Back"]
+        for i in awsOptions:
+            print(i + "\r")
