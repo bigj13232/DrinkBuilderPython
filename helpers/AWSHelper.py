@@ -10,7 +10,7 @@ class AWSHelper(object):
     def getConnection():
         host="drinkbuilder-test.c4gyhhqjwthj.us-east-2.rds.amazonaws.com"
         port=3306
-        dbname="drinkbuilder-test"
+        dbname="drinkbuildertest"
         user="admin"
         password="chowmanchowman1!"
         conn = pymysql.connect(host=host, user=user,port=port,passwd=password,db=dbname)        
@@ -22,8 +22,7 @@ class AWSHelper(object):
 
         dbConn = AWSHelper.getConnection()
 
-        if dbConn.isConnected(): print("Database connected")
-        else: print("Database not connected.")
+        print(dbConn.is_connected())
     
 
     @staticmethod
