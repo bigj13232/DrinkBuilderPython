@@ -79,7 +79,7 @@ class DrinkHelper(object):
                     while(int(sourceChoice) <=0 or int(sourceChoice) > 4):
                         MenuHelper.displayMeasurements()
                         sourceChoice = int(input("Enter selection: "))
-                        if (sourceChoice == 1): ingredientMeasurement = 'Ounce(s)'
+                        if (sourceChoice == 1): ingredientMeasurement = 'oz'
                         elif (sourceChoice == 2): ingredientMeasurement = 'ML'
                         elif (sourceChoice == 3): ingredientMeasurement = 'each'
                         elif (sourceChoice == 4): ingredientMeasurement = 'dash(s)'
