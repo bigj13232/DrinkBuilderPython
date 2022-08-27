@@ -226,7 +226,7 @@ Blackout|Video Game|Watch Dogs|F|The Drunken Moogle|https://thedrunkenmoogle.com
 2|oz|Blackberry Brandy|Brandy|1|dash|Triple Sec|Liqueur|1|dash|Lavender Bitters|Bitters|1|bottle|Champagne|Champagne
 Tropical Freeze|Video Game|Donkey Kong|F|The Drunken Moogle|https://thedrunkenmoogle.com/|Add first four ingredients to shaker.|Shake.|Pour into glass over ice.
 .75|oz|99 Bananas|Schnapps|.75|oz|Malibu Coconut Rum|Rum|.75|oz|Rumchata|Liqueur|4|oz|Pineapple Juice|Juice
-Peach's Cake|Video Game|F|The Drunken Moogle|https://thedrunkenmoogle.com/|Super Mario|Add all ingredients into shaker with ice.|Shake.|Strain into martini glass.
+Peach's Cake|Video Game|Super Mario|F|The Drunken Moogle|https://thedrunkenmoogle.com/|Add all ingredients into shaker with ice.|Shake.|Strain into martini glass.
 1.5|oz|Strawberry Cream Liqueur|Liqueur|1|oz|Peach Schnapps|Schnapps|1|oz|Malibu Caribbean Rum|Rum|1|oz|Cream|Milk
 Articuno|Video Game|Pokemon|F|The Drunken Moogle|https://thedrunkenmoogle.com/|Add first three ingredients to shaker with ice.|Shake.|Pour into lowball glass with ice.|Fill with club soda.
 2|oz|Hpnotiq|Vodka|.75|oz|Gin|Gin|.25|oz|Lime Juice|Juice|1|bottle|Club Soda|Soda
@@ -580,7 +580,7 @@ The Darcy|TV|Wandavision|F|Whisky + Sunshine|https://www.whiskynsunshine.com/|Ad
 2|oz|Espresso|Coffee|2|oz|Espresso Vodka|Vodka|1|oz|Whiskey(OPTIONAL: Chocolate Whiskey)|Whiskey|6|oz|Ice|Ice
 The devil's in the details|TV|Wandavision|F|Whisky + Sunshine|https://www.whiskynsunshine.com/|Add ice to a cocktail shaker.|Combine grenadine, blue Curaçao, vodka, and black cherry syrup to the shaker.|Gently strain the cocktail mix into a martini glass.|Top of martini with a little bit of sparkling soda water to taste; this will both cut the sweetness and add a little fizz to your concoction.|Garnish with blackberries.|Enjoy responsibly.
 1|oz|Grenadine|Mixer|.5|oz|Blue Curaçao|Liqueur|2|oz|Vodka|Vodka|.5|oz|Black Cherry Syrup|Syrup|1|bottle|Soda Water|Soda|4|oz|Ice|Ice|3|each|Blackberries|Fruit
-Jyn and Juice|Movie|Star Wars|F|F|Whisky + Sunshine|https://www.whiskynsunshine.com/|Add gin, orange juice, and pineapple juice, and ice to a cocktail shaker.|Shake.|Strain over ice in a rocks glass.|Serve with a tangerine or orange slice for garnish.
+Jyn and Juice|Movie|Star Wars|F|Whisky + Sunshine|https://www.whiskynsunshine.com/|Add gin, orange juice, and pineapple juice, and ice to a cocktail shaker.|Shake.|Strain over ice in a rocks glass.|Serve with a tangerine or orange slice for garnish.
 1.5|oz|Gin|Gin|2|oz|Orange Juice|Juice|2|oz|Pineapple Juice|Juice|4|oz|Ice|Ice|1|each|Orange Slice|Fruit
 Captain America|Movie|Captain America|T|Whisky + Sunshine|https://www.whiskynsunshine.com/|Dip rim of Collins glass in water and roll in sprinkles to line the rim.|Fill rimmed glass halfway with ice.|Pour 1.5 oz. of Grenadine over ice.|Gently fill the glass with sparkling vanilla soda, careful not to pour to quickly as to not disturb the Grenadine layer at the bottom or create too many bubbles with the soda.|Add a fun decorative straw.
 1.5|oz|Grenadine|Mixer|1|bottle|Sparkling Vanilla Soda|Soda|2|tbsp|Simple Syrup|Syrup|2|tbsp|Blue Sugar Sprinkles|Sprinkles
@@ -760,7 +760,7 @@ Enchantment Under the Sea Party Punch|Movie|Back to the Future|T|How to drink|ht
 3|oz|Guava Juice|Juice|2|oz|Orange Juice|Juice|1|oz|Passionfruit Juice|Juice|1|oz|Simple Syrup|Syrup|3|oz|Club Soda|Soda
 Spiked Enchantment Under the Sea Party Punch|Movie|Back to the Future|F|How to drink|https://www.youtube.com/c/howtodrink|Add all ingredients except bourbon to mixing glass.|Stir.|Pour into glass.|Add bourbon directly to the glass.
 3|oz|Guava Juice|Juice|2|oz|Orange Juice|Juice|1|oz|Passionfruit Juice|Juice|1|oz|Simple Syrup|Syrup|3|oz|Club Soda|Soda|1|oz|Early Times Bourbon|Bourbon
-Marty Maker||Movie|Back to the Future|F|How to drink|https://www.youtube.com/c/howtodrink|Add all liquid ingredients to shaker with ice.|Shake.|Gated to open pour into double old fashioned glass.|Garnish with Luxardo cherries and umbrella.|Garnish with luxardo cherries and umbrella.
+Marty Maker|Movie|Back to the Future|F|How to drink|https://www.youtube.com/c/howtodrink|Add all liquid ingredients to shaker with ice.|Shake.|Gated to open pour into double old fashioned glass.|Garnish with Luxardo cherries and umbrella.|Garnish with luxardo cherries and umbrella.
 2|oz|Guava Juice|Juice|.75|oz|Passionfruit Juice|Juice|.5|oz|Simple Syrup|Syrup|2|oz|Early Times Bourbon|Bourbon|3|each|Luaxardo Cherries|Fruit|1|each|Umbrella|Other
 Slurm|Cartoon|Futurama|F|How to drink|https://www.youtube.com/c/howtodrink|Add all ingredients except club soda to shaker with ice.|Shake.|Strain into glass.|Top with club soda.
 1|oz|Honey Syrup|Syrup|1|oz|Lime Juice|Juice|1|oz|Midori|Liqueur|1.5|oz|Light Rum|Rum|2|dashes|Bitterman's Elemakule Bitters|Bitters|1|bottle|Club Soda|Soda

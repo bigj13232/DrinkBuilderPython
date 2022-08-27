@@ -20,3 +20,16 @@ class XMLHelper():
         drinkDirectionsXML = ElementTree.tostring(root, encoding='unicode')
 
         return drinkDirectionsXML
+
+    @staticmethod
+    def readXML(xml):
+        xmlToDirections = None
+
+        tree = gfg.fromstring(xml)
+        root = tree.getroot()
+        
+        for child in root:
+            print(child.tag, child.attrib)
+
+
+
