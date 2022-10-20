@@ -338,7 +338,7 @@ The Poison Ivy|Comic Book|Batman|F|The Insatiable Geek|https://sites.google.com/
 2|oz|Crystal Rum|Rum|8|each|Mint Leaves|Mint|3|each|Kiwi Slices|Fruit|1|tsp|Sugar|Sugar|1|bottle|Soda Water|Soda|8|cuozp|Ice|Ice
 Dirt Block|Video Game|Minecraft|F|The Drunken Moogle|https://thedrunkenmoogle.com/|Mix ingredients in a rocks glass over crushed ice.|Premade chocolate milk is fine, or you can be fancy and make your own with milk and chocolate syrup.|Sprinkle the top with Oreo or other chocolate cookie crumbs.
 1.5|oz|French Vanilla Kahlua|Liqueur|1.5|oz|Amaretto|Liqueur|3|oz|Chocolate Milk|Milk|1|tbsp|Oreo Cookie Crumbs|Other
-Flicky w/Chirp Shots|Video Game|Flicky|F|Retro Video Gaming|https://retro-video-gaming.com/|Retro Video Gaming|https://retro-video-gaming.com/|Flicky|Mix the Blue Curaçao and Bacardi Razz, shake with ice and pour into a glass.|Top it off with the Fanta Lemon.|Chirp Shot|Mix the ingredients together and shake it with ice, then pour into a shot glass.
+Flicky w/Chirp Shots|Video Game|Flicky|F|Retro Video Gaming|https://retro-video-gaming.com/|Mix the Blue Curaçao and Bacardi Razz, shake with ice and pour into a glass.|Top it off with the Fanta Lemon.|Chirp Shot|Mix the ingredients together and shake it with ice, then pour into a shot glass.
 1.5|oz|Blue Curaçao|Liqueur|1.5|oz|Bacardi Razz|Rum|3|oz|Fanta Lemon|Soda|1|oz|Midori|Liqueur|.5|oz|Pineapple Juice|Juice
 Jade|Video Game|Beyond Good & Evil|F|Retro Video Gaming|https://retro-video-gaming.com/|Mix Apple Sourz with the Cointreu, shake with ice.|Pour into a tall glass and top it off with Sprite.
 1.5|oz|Apple Sourz|Liqueur|1.5|oz|Cointreau|Liqueur|3|oz|Sprite|Soda
@@ -1097,7 +1097,7 @@ The Griswold Family Christmas|Movie|National Lampoon's Christmas Vacation|F|Secr
 The Grinch|Cartoon|The Grinch|F|Secret of the Booze|https://www.youtube.com/c/SecretoftheBooze|Add to shaker tin with Ice.Shake.|Strain into Irish Coffee Mug.|Top with Whip Cream and garnish with a Candy Cane.
 2|oz|Peppermint Vodka|Vodka|2|oz|Creme de Menthe|Liqueur|4|oz|Milk|Milk|2|oz|Ice|Ice|1|can|Whipped Cream|Cream|1|each|Candy Cane, crushed|Candy
 Buddy the Elf|Movie|Elf|F|Secret of the Booze|https://www.youtube.com/c/SecretoftheBooze|Add liquid ingredients to Irish coffe mug.|Stir gently.|Top with Whipped Cream then Chocolate Syrup.|Garnish with Candy Cane.
-6|oz|Coffee|Coffee|1.5|oz|Maple Syrup Whiskey|Whiskey|1.5|oz|Eggnog|Eggnog|1|can|Whipped Cream|Cream|1|bottle|Chocolate Syrup|Syrup|1|each|Candy Cane|Candy
+6|oz|Coffee|Coffee|1.5|oz|Maple Syrup Whiskey|Whiskey|1.5|oz|Egg Nog|Egg Nog|1|can|Whipped Cream|Cream|1|bottle|Chocolate Syrup|Syrup|1|each|Candy Cane|Candy
 Chilling Adventures of Sabrina|TV|Chilling Adventures of Sabrina|F|Secret of the Booze|https://www.youtube.com/c/SecretoftheBooze|Rim a shot glass with icing and sprinkles.|Add remaining ingredients.|Summon Satan.
 1|tsp|Icing|Icing|1|tbsp|Sprinkles|Sprinkles|.5|oz|Frangelico|Liqueur|.5|oz|Whipped Cream Vodka|Vodka|.5|oz|Black Sambuca|Sambuca
 Sam|TV|Supernatural|F|Secret of the Booze|https://www.youtube.com/c/SecretoftheBooze|Rim glass with salt.|Add maraschino cherry to glass.|Muddle.|Add remaining ingredients.|Stir gently.
