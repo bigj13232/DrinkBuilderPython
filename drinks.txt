@@ -83,7 +83,7 @@ Sonic Screwdriver|TV|Doctor Who|T|The Drunken Moogle|https://thedrunkenmoogle.co
 Liber-tea|Video Game|Bioshock Infinite|T|The Drunken Moogle|https://thedrunkenmoogle.com/|Mix first three ingredients and pour into a lowball glass over ice.|Top with Club Soda|Garnish with maraschino cherry.
 2|oz|Manhattan Mix|Mixer|.5|oz|Lemon Juice|Juice|.5|oz|Simple Syrup|Syrup|1|bottle|Club Soda|Soda|1|each|Maraschino Cherry|Fruit
 Michiru Hoshino|Video Game|Katamari|T|The Drunken Moogle|https://thedrunkenmoogle.com/|Shake all ingredients with ice.|Pour into martini glass.|Garnish with a maraschino cherry.
-2|oz|White Cranberry Juice|Cranberry Juice|.5|oz|Sour Mix|Mixer|1|splash|Ginger Ale|Soda
+2|oz|White Cranberry Juice|Juice|.5|oz|Sour Mix|Mixer|1|splash|Ginger Ale|Soda
 Aerith/Aeris|Video Game|Final Fantasy 7|T|The Drunken Moogle|https://thedrunkenmoogle.com/|Shake first four ingredients and pour over ice.|Fill with ginger ale and garnish with three lime wedges.
 1|oz|Cranberry Juice|Juice|1.5|oz|Apple Juice|Juice|.25|oz|Lime Juice|Juice|.5|oz|Grenadine|Mixer|1|bottle|Ginger Ale|Soda|3|each|Lime Wedges|Fruit
 Young Link|Video Game|The Legend of Zelda|T|The Drunken Moogle|https://thedrunkenmoogle.com/|Shake all ingredients with ice and pour over ice in a highball glass.
@@ -105,7 +105,7 @@ Oogie Boogie|Movie|The Nightmare Before Christmas|F|The Drunken Moogle|https://t
 Crimson Typhoon|Movie|Pacific Rim|F|The Drunken Moogle|https://thedrunkenmoogle.com/|Mix both ingredients in a shot glass and ignite.|Let the shot burn for a while, then extinguish the flame.
 1|oz|Green Chartreuse|Liqueur|1|oz|151 Rum|Rum
 Into Darkness|Movie|Star Trek|F|The Drunken Moogle|https://thedrunkenmoogle.com/|In an old-fashioned glass filled with ice, add rum, Kahlua, lime juice and bitters.|Stir.|Top with ginger beer.
-2|oz|Dark Rum|Rum|4|oz|Ginger Beer|Soda|1|oz|Kahlua|Liqueur|1|tbsp|Lime Juice|Juice|5|dashes|Bittercube's Blackstrap Bitters|Bitters
+2|oz|Dark Rum|Rum|4|oz|Ginger Beer|Ginger Beer|1|oz|Kahlua|Liqueur|1|tbsp|Lime Juice|Juice|5|dashes|Bittercube's Blackstrap Bitters|Bitters
 The Dagobah|Movie|Star Wars|F|The Drunken Moogle|https://thedrunkenmoogle.com/|In a shot glass, layer the Creme de menthe over the Chocolate Liqueur.
 .5|oz|Creme de Menthe|Liqueur|.5|oz|Chocolate Liqueur|Liqueur
 Pom of Power|Video Game|Hades|F|The Drunken Moogle|https://thedrunkenmoogle.com/|Shake all ingredients in a mixer with ice and strain into rocks glass, over fresh ice.|Garnish with a few pomegranate seeds and a lemon twist.
@@ -267,7 +267,7 @@ Goomba|Video Game|Super Mario|F|The Drunken Moogle|https://thedrunkenmoogle.com/
 Zandalari|Video Game|World of Warcraft|F|The Drunken Moogle|https://thedrunkenmoogle.com/|Fill half a shot glass with the strawberry rum and top with strawberry Fanta.|Squirt a bit of the Mio into the bottom and garnish with blackberries.|Serve.
 .75|oz|Strawberry Parrot Bay Rum|Rum|1|bottle|Strawberry Fanta|Soda|2|squirts|Blueberry Lemonade Mio|Flavoring|1|each|Blackberry|Fruit
 Devil's Kiss|Video Game|Bioshock|F|The Drunken Moogle|https://thedrunkenmoogle.com/|Fill a highball glass with ice, pour in grenadine, Chambord and dashes of bitters to begin.|Carefully pour in lemonade and ginger beer down the side of the glass leaving the grenadine sitting in the bottom, add juice of a lime and finish the drink with a shot of Spiced Rum to the top.|To serve, place the drink on a saucer and place the measure of overproof rum around the base, light with a match and allow guests to flick cinnamon onto the drink/flame, extinguish, add straw and serve.|OPTIONAL: Drink the rum left in the saucer when cool.
-25|ml|Spiced Rum|Rum|25|ml|Chambord|Liqueur|10|ml|Grenadine|Mixer|1|each|Lime|Fruit|50|ml|Ginger Beer|Soda|50|ml|Sparkling Lemonade|Soda|2|dashes|Angostura Bitters|Bitters|1|tsp|Cinnamon|Spice|15|ml|Overproof Rum|Rum
+25|ml|Spiced Rum|Rum|25|ml|Chambord|Liqueur|10|ml|Grenadine|Mixer|1|each|Lime|Fruit|50|ml|Ginger Beer|Ginger Beer|50|ml|Sparkling Lemonade|Soda|2|dashes|Angostura Bitters|Bitters|1|tsp|Cinnamon|Spice|15|ml|Overproof Rum|Rum
 Kyaaaa Wine|Video Game|Harvest Moon|F|The Drunken Moogle|https://thedrunkenmoogle.com/|Combine the wine, rum, juice, and Curaçao.|Stir.Add blueberries and strawberries and let the mixture sit, refrigerated overnight.|Put ice in a large wine glass and then pour the wine mixture with the berries over it.|Top it off with 7up and add the blackberries and raspberries shortly before serving.
 .75|oz|Red Wine|Wine|.25|oz|Berry Rum|Rum|1|oz|Blueberry Juice|Juice|1|oz|Blue Curaçao|Liqueur|.25|cup|Blueberries|Fruit|.25|cup|Strawberries|Fruit|.25|cup|Raspberries|Fruit|.25|cup|Blackberries|Fruit|1|bottle|Lemon-lime Soda|Soda
 Le Chuck|Video Game|Monkey Island|F|The Drunken Moogle|https://thedrunkenmoogle.com/|Mix all ingredients into a rocks glass and stir.|Add ice and serve.
@@ -399,7 +399,7 @@ The Imp|TV|Game of Thrones|F|A Heaping Spoonful|http://aheapingspoonful.com/|Rub
 Lemongrass Syrup|Recipe|The Imp|T|A Heaping Spoonful|http://aheapingspoonful.com/|Peel the outer leaves of the lemongrass and rinse throughly.|Cut stalks to fit your pot and crush them slightly.|Add water and sugar to pot.|Heat on medium/high until sugar dissolves and the syrup begins to simmer.|Turn off the heat and allow to syrup to cool in the pot on the stovetop.|Strain into an airtight container.|OPTIONAL: For a sweeter syrup, use a 1:1 ratio of water to sugar.
 6|each|Lemongrass stalks|Other|4|cups|Water|Water|2|cups|Sugar|Sugar
 Needle|TV|Game of Thrones|F|A Heaping Spoonful|http://aheapingspoonful.com/|Pour all the ingredients into a shot glass.
-1|oz|Vodka|Vodka|.5|oz|Ginger Beer|Soda|1|tbsp|Fresh Lime Juice|Juice
+1|oz|Vodka|Vodka|.5|oz|Ginger Beer|Ginger Beer|1|tbsp|Fresh Lime Juice|Juice
 Crow|TV|Game of Thrones|F|A Heaping Spoonful|http://aheapingspoonful.com/|Pour ice into a tall glass and add the blackberries.|Pour the Chambord over the ice.|Top it off with Guinness.
 1.5|oz|Chambord|Liqueur|16|oz|Guinness|Beer|3|each|Blackberries|Fruit
 Mother of Dragons|TV|Game of Thrones|F|A Heaping Spoonful|http://aheapingspoonful.com/|Scoop the balls of dragon fruit out using a 1/2 tsp spoon and place them in a champagne flute.|Top with the Rosé.
@@ -490,7 +490,7 @@ Stormtrooper Shot|Movie|Star Wars|F|iDrink|http://www.idrink.com/|Pour into shot
 .75|oz|Peppermint Schnapps|Schnapps|.75|oz|Jagermeister|Liqueur
 Jedi Cocktail|Movie|Star Wars|F|iDrink|http://www.idrink.com/|Mix together with crushed ice in a glass.
 1|oz|Blue Curaçao|Liqueur|.33|oz|Creme de Cacao|Liqueur|2.5|oz|Milk|Milk
-Jedi Mind Trick|Movie|Star War|F|iDrink|http://www.idrink.com/|Mix all the ingredients, but the rum, over ice in a low-ball glass.Splash the rum on top.|Enjoy!
+Jedi Mind Trick|Movie|Star Wars|F|iDrink|http://www.idrink.com/|Mix all the ingredients, but the rum, over ice in a low-ball glass.Splash the rum on top.|Enjoy!
 1|oz|Cinnamon Schnapps|Schnapps|1|oz|Irish Cream|Liqueur|1|oz|Midori|Liqueur|1|splash|Rum|Rum
 Jedi Mind Trick #2|Movie|Star Wars|F|iDrink|http://www.idrink.com/|Mix together with crushed ice in a glass.|Harnish with mint leaves.
 1|oz|Butterscotch Schnapps|Schnapps|1|oz|Coffee Liqueur|Liqueur|1|oz|Irish Cream|Liqueur
@@ -723,7 +723,7 @@ Nobel Pursuit|Video Game|Zelda|F|How to drink|https://www.youtube.com/c/howtodri
 Gerudo Syrup|Recipe|Nobel Pursuit|T|How to drink|https://www.youtube.com/c/howtodrink|Add all ingredients to pot.|Heat to a boil.|Stir constantly.|Strain into bottle.
 7|oz|Dragon Fruit Puree|Fruit|7|oz|Water|Water|14|oz|Organic Palm Sugar|Sugar
 Full Biotic Kick|Video Game|Mass Effect|F|How to drink|https://www.youtube.com/c/howtodrink|Add cracked ice to glass.|Pour in bourbon and amaro.|Top off with ginger beer.|Garnish with orange peel.
-1|oz|Amaro Di Angostura|Liqueur|2|oz|Yellowstone Select|Bourbon|4|oz|Ginger Beer|Soda|1|each|Orange Peel|Fruit|2|oz|Cracked Ice|Ice
+1|oz|Amaro Di Angostura|Liqueur|2|oz|Yellowstone Select|Bourbon|4|oz|Ginger Beer|Ginger Beer|1|each|Orange Peel|Fruit|2|oz|Cracked Ice|Ice
 Tasty Tankard|Video Game|Mass Effect|F|How to drink|https://www.youtube.com/c/howtodrink|Add ice to shaker.|Shake.|Strain into glass.|Top with whipped cream and cinnamon.
 6|oz|Iced Chocolate|Chocolate|1.5|oz|Butterscotch Schnapps|Schnapps|.75|oz|Coconut Rum|Rum|.75|oz|Irish Cream|Cream|2|oz|Ice|Ice|1|can|Whipped Cream|Cream|.25|tsp|Cinnamon|Spice
 Iced Chocolate|Recipe|Tasty Tankard|T|How to drink|https://www.youtube.com/c/howtodrink|Heat until chocolate is melted.|Let cool.
@@ -747,7 +747,7 @@ Ambrosia|Video Game|Hades|F|How to drink|https://www.youtube.com/c/howtodrink|Ad
 Titan's Blood|Video Game|Hades|F|How to drink|https://www.youtube.com/c/howtodrink|Add all ingredients to shaker.|Shake.|Strain into glass.
 1|oz|Simple Syrup|Syrup|1|oz|Ancho Reyes Chile Liquor|Liqueur|1|oz|Mezcal|Tequila|1|oz|Angostura Bitters|Bitters|2|oz|Cracked Ice|Ice
 Jackie Wells|Video Game|Cyberpunk 2077|F|How to drink|https://www.youtube.com/c/howtodrink|Add all ingredients except ginger beer and ice to shaker.|Shake.|Pour over cracked ice.|Top with ginger beer.
-.5|oz|Lime Juice|Juice|1|oz|Vodka|Vodka|1|oz|Irish Mist|Liqueur|1|bottle|Ginger Beer|Soda
+.5|oz|Lime Juice|Juice|1|oz|Vodka|Vodka|1|oz|Irish Mist|Liqueur|1|bottle|Ginger Beer|Ginger Beer
 Legendary Jackie Wells|Video Game|Cyberpunk 2077|F|How to drink|https://www.youtube.com/c/howtodrink|Add all ingredients except seltzer and irish mist to shaker.|Shake.|Strain into other end of shaker.|Dry shake.|Strain into glass.|Top with seltzer.|Spray irish mist over top of drink.
 1|oz|Lime Juice|Juice|.75|oz|Ginger Syrup|Syrup|1.5|oz|Vodka|Vodka|1|each|Egg White|Egg|2|oz|Ice|Ice|1|bottle|Seltzer|Seltzer|1|spray|Irish Mist|Liqueur
 Vesper|Movie|James Bond|F|How to drink|https://www.youtube.com/c/howtodrink|Add all ingredients.|Shake or stir.|Strain into glass.
@@ -1131,7 +1131,7 @@ Spocktail|TV|Star Trek|F|Secret of the Booze|https://www.youtube.com/c/Secretoft
 T-1000|Movie|Terminator|F|Secret of the Booze|https://www.youtube.com/c/SecretoftheBooze|Shake the gin and Triple Sec in a Shaker tin.|Follow that up by adding Seltzer water and Metallic powders.|Do not add too much of the powder as it will over power the drink quickly.|Once all ingredients are added to the drink stir.
 1|oz|Gin|Gin|2|oz|Triple Sec|Liqueur|1|bottle|Seltzer Water|Soda|1|tbsp|Silver Shimmer Powder|Other|1|tbsp|Black Shimmer Powder|Other
 Punisher's War Zone|Comic Book|Punisher|F|Secret of the Booze|https://www.youtube.com/c/SecretoftheBooze|Take equal parts Lemonade and Ice Tea and put into ice cube trays.|Rim your glass with Pepper.|Add in your Bullet Rye, Ice cubes and then finally top with Ginger Beer.
-1|tbsp|Pepper|Spice|2|oz|Bullet Rye|Rye|4|oz|Ginger Beer|Soda|1|bottle|Lemonade|Lemonade|1|bottle|Iced Tea|Iced Tea
+1|tbsp|Pepper|Spice|2|oz|Bullet Rye|Rye|4|oz|Ginger Beer|Ginger Beer|1|bottle|Lemonade|Lemonade|1|bottle|Iced Tea|Iced Tea
 The Drink Without Fear|Comic Book|Daredevil|F|Secret of the Booze|https://www.youtube.com/c/SecretoftheBooze|Add ingredients into a glass.|Enjoy!
 4|oz|Coffee|Coffee|1|oz|Jim Beam's Devil's Cut|Bourbon|1|oz|Creme de Cacao|Liqueur
 Princess Peach|Video Game|Super Mario|F|Secret of the Booze|https://www.youtube.com/c/SecretoftheBooze|Stir all ingredients|Pour into martini glass.
@@ -1175,8 +1175,8 @@ Wolfsbane Potion|Book|Harry Potter|F|Tasty|https://tasty.co/|Combine Scott and F
 The Phoenix Feather|Book|Harry Potter|F|Tasty|https://tasty.co/|Combine Lillet, Campari, and grapefruit juice in a cocktail shaker with ice and shake, vigorously, for about 20 seconds.|Strain into a Collins glass filled with ice cubes and top with seltzer.
 2|oz|Lillet Blanc|Wine|1.5|oz|Campari|Liquer|1|oz|Fresh-squeezed Grapefruit Juice|Juice|1|bottle|Seltzer or Club Soda|Soda
 Butterbeer|Book|Harry Potter|F|Tasty|https://tasty.co/|Heat cider, bourbon and butterscotch syrup in a medium saucepan until the butterscotch dissolves and the mixture is steaming hot.|Remove from heat and stir in the ginger beer.|Ladle into mugs and serve with loads of whipped cream on top.
-7|tbsp|Butterscotch Sauce|Sauce|24|oz|Apple Cider|Cider|8|oz|Bourbon Whiskey|Whiskey|16|oz|Ginger Beer|Beer|1|can|Whipped Cream|Cream
+7|tbsp|Butterscotch Sauce|Sauce|24|oz|Apple Cider|Cider|8|oz|Bourbon Whiskey|Whiskey|16|oz|Ginger Beer|Ginger Beer|1|can|Whipped Cream|Cream
 Polyjuice Potion|Book|Harry Potter|F|Tasty|https://tasty.co/|Shake gin, juices, and Chartreuse in a shaker with ice.|Strain into a glass (you can serve up or over ice).|Top with a splash of soda if you'd like it a little lighter.
 1.5|oz|Gin|Gin|1.5|oz|Green Juice|Juice|1|oz|Green Chartreuse|Liqueur|.5|oz|Lime Juice|Juice|1|can|7-Up|Soda
 Felix Felicis|Book|Harry Potter|F|Tasty|https://tasty.co/|Mix simple syrup and lemon juice in the bottom of a champagne flute.|Add ginger beer and fill with Champagne.
-.25|oz|Simple Syrup|Syrup|.25|oz|Lemon Juice|Juice|1.5|oz|Ginger Beer|Beer|1|bottle|Champagne|Champagne
+.25|oz|Simple Syrup|Syrup|.25|oz|Lemon Juice|Juice|1.5|oz|Ginger Beer|Ginger Beer|1|bottle|Champagne|Champagne
