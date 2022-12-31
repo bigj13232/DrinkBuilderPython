@@ -167,6 +167,7 @@ class DrinkHelper(object):
                 for ingredients in DrinkHelper.chunker(ingredient_list, 4):
                     ingredient = Ingredient(ingredients[0], ingredients[1], ingredients[2], ingredients[3])
                     addDrink.addIngredient(ingredient)
+
                 row = DatabaseHelper.insert_drink(addDrink)
 
                 for ingredient in addDrink.ingredients:
