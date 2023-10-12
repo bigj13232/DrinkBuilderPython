@@ -7,9 +7,23 @@ while menuOption != 0:
     MenuHelper.displayMainMenu()
     menuOption = int(input("Please enter selection: "))
 
-    if menuOption == 1: DrinkHelper.addDrink()
-    elif menuOption == 2: DrinkHelper.editDrink()
-    elif menuOption == 3: DrinkHelper.removeDrink()
-    elif menuOption == 4: DrinkHelper.viewDrink()
-    elif menuOption == 5: DrinkHelper.addFromFile()
-    elif menuOption > 5 or menuOption < 0: print("Invalid Option - Please try again")
+#    if menuOption == 1: DrinkHelper.addDrink()
+#    elif menuOption == 2: DrinkHelper.editDrink()
+#    elif menuOption == 3: DrinkHelper.removeDrink()
+#    elif menuOption == 4: DrinkHelper.viewDrink()
+#    elif menuOption == 5: DrinkHelper.addFromFile()
+#    elif menuOption > 5 or menuOption < 0: print("Invalid Option - Please try again")
+
+    match menuOption:
+        case 1:
+            DrinkHelper.addDrink()
+        case 2:
+            DrinkHelper.editDrink()
+        case 3:
+            DrinkHelper.removeDrink()
+        case 4:
+            DrinkHelper.viewDrink()
+        case 5:
+            DrinkHelper.addFromFile()
+        case _:
+            print("Invalid option - Please enter valid option")
