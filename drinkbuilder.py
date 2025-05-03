@@ -15,6 +15,8 @@ while menuOption != 0:
 #    elif menuOption > 5 or menuOption < 0: print("Invalid Option - Please try again")
 
     match menuOption:
+        case 0:
+            print("Quitting.")
         case 1:
             DrinkHelper.addDrink()
         case 2:
