@@ -27,5 +27,7 @@ while menuOption != 0:
             DrinkHelper.viewDrink()
         case 5:
             DrinkHelper.addFromFile()
+        case 6:
+            DrinkHelper.addToDatabase()
         case _:
             print("Invalid option - Please enter valid option")

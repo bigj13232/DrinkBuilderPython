@@ -1,0 +1,61 @@
+{
+    "sqltools.connections": [
+        {
+            "mysqlOptions": {
+                "authProtocol": "default",
+                "enableSsl": "Disabled"
+            },
+            "previewLimit": 50,
+            "server": "192.168.0.234",
+            "port": 3306,
+            "driver": "MySQL",
+            "name": "drinks",
+            "group": "drinks",
+            "database": "drinksdb",
+            "username": "root",
+            "askForPassword": true
+        },
+        {
+            "mysqlOptions": {
+                "authProtocol": "default",
+                "enableSsl": "Disabled"
+            },
+            "previewLimit": 50,
+            "server": "192.168.0.234",
+            "port": 3306,
+            "driver": "MySQL",
+            "name": "drinksdb",
+            "database": "drinksdb",
+            "username": "drinkuser",
+            "askForPassword": true
+        },
+        {
+            "mysqlOptions": {
+                "authProtocol": "default",
+                "enableSsl": "Disabled"
+            },
+            "previewLimit": 50,
+            "server": "192.168.0.234",
+            "port": 3306,
+            "driver": "MySQL",
+            "name": "drinksdb",
+            "database": "drinks",
+            "username": "root",
+            "askForPassword": true
+        },
+        {
+            "mysqlOptions": {
+                "authProtocol": "default",
+                "enableSsl": "Disabled"
+            },
+            "previewLimit": 50,
+            "server": "192.168.0.234",
+            "port": 3306,
+            "driver": "MySQL",
+            "name": "drinksdb2",
+            "database": "drinksdb",
+            "username": "drinksuser",
+            "askForPassword": true
+        }
+    ]
+}

@@ -1,6 +1,7 @@
 from helpers.DatabaseHelper import DatabaseHelper
 from helpers.MenuHelper import MenuHelper
 from helpers.XMLHelper import XMLHelper
+from helpers.RemoteDBHelper import RemoteDBHelper
 
 from drink.Drink import Drink
 from drink.Ingredient import Ingredient
@@ -172,5 +173,44 @@ class DrinkHelper(object):
 
                 for ingredient in addDrink.ingredients:
                     DatabaseHelper.insert_ingredient(row, ingredient)
+    @staticmethod
+    def addToDatabase():
+        print("Add to Remote Database")
+        #Open text file, parse to drink_lines variable
+        with open('drinks.txt', 'r', encoding="utf8") as drinks_text:
+            drink_lines = drinks_text.readlines()
+            
 
-                    
+        line_count = 0
+        for line in drink_lines:
+            line_count+=1
+            #Odd Numbered Lines contain drink details
+            if line_count % 2 == 1:
+                drink_details = line.split("|")
+                print("Getting Drink details")
+                drinkName = drink_details[0]                                            #get Drink Name
+                print(drinkName)
+                drinkSource = drink_details[1]                                          #get Drink Source
+                drinkOrigin = drink_details[2]                                          #get Drink Origin
+                drinkMocktail = drink_details[3]                                        #get T/F if drink is mocktail
+                drinkWebsite = drink_details[4]                                         #get drink website
+                drinkWebsiteURL = drink_details[5]                                      #get drink website URL
+                drinkDirectionsList = []
+                for i in drink_details[6:]:
+                    drinkDirectionsList.append(i)
+
+                drinkDirections = XMLHelper.createXML(drinkDirectionsList)
+                ###print(drinkDirections)
+                addDrink = Drink(drinkName,drinkSource,drinkOrigin,drinkDirections,drinkMocktail,drinkWebsite,drinkWebsiteURL)
+            #Even numbered lines contain ingredient details
+            elif line_count % 2 == 0:
+                ingredient_list = line.split("|")
+
+                for ingredients in DrinkHelper.chunker(ingredient_list, 4):
+                    ingredient = Ingredient(ingredients[0], ingredients[1], ingredients[2], ingredients[3])
+                    addDrink.addIngredient(ingredient)
+
+                row = RemoteDBHelper.insert_drink(addDrink)
+
+                for ingredient in addDrink.ingredients:
+                    RemoteDBHelper.insert_ingredient(row, ingredient)      
