@@ -9,6 +9,10 @@ class Drink():
         print("Drink Source is: \n" + self.drinkWebsite)
         print("Is it a mocktail? " + str(self.isMocktail))
 
+    def toInsert(self):
+        data = (self.name, self.source, self.origin, self.directions, self.isMocktail, self.drinkWebsite, self.drinkWebsiteURL)
+        return data 
+
     def addIngredient(self, ingredient):
         self.ingredients.append(ingredient)
 

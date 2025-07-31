@@ -711,7 +711,7 @@ The Golden Nug|Video Game|Dragon Age|F|How to drink|https://www.youtube.com/c/ho
 The Hissing Drake|Video Game|Dragon Age|F|How to drink|https://www.youtube.com/c/howtodrink|Add ingredients and ice to shaker.|Shake.|Pour into glass.|Garnish with singed cinnamon stick.
 .5|oz|Lemon Hart 151|Rum|1|oz|Fireball|Whiskey|.5|oz|Ancho Reyes Chili Liqueur|Liqueur|2|oz|Ice|Ice
 The Benediction|Video Game|Dragon Age|F|How to drink|https://www.youtube.com/c/howtodrink|Mix all ingredients in glass|Garnish with twist of lime and/or wedge of lime
-1-.5|oz|Gin|Gin|1|oz|Yellow Chartreuse|Liqueur|1|each|Twist or Wedge of Lime|Fruit
+1.5|oz|Gin|Gin|1|oz|Yellow Chartreuse|Liqueur|1|each|Twist or Wedge of Lime|Fruit
 The Emerald Valley|Video Game|Dragon Age|F|How to drink|https://www.youtube.com/c/howtodrink|Add all ingredients except ice to shaker.|Dry shake.|Add ice and shake again.|Strain into glass.|Grate with fresh nutmeg.
 .75|oz|Simple Syrup|Syrup|1|oz|Lime Juice|Juice|2|oz|Green Chartreuse|Liqueur|1|each|Egg White|Egg|2|oz|Ice|Ice|1|each|Nutmeg|Spice
 The Randy Dowager|Video Game|Dragon Age|F|How to drink|https://www.youtube.com/c/howtodrink|Add all ingredients except ice and seltzer.|Dry shake.|Add ice and shake again.|Add seltzer to glass.|Strain drink into glass.|Add straw.|Garnish with a sugared rose.
