@@ -1,3 +1,2 @@
 # DrinkBuilderPython
-addFromFile:
--If amount is 0, no specified amount nor measurement type needed in output
+Python app that parses comma delimited text file and updates mysql database with pertinent drink information.
